@@ -1,0 +1,1001 @@
+customer_code,full_name,gender,dob,city,marital_status,nationality,occupation,income_range,income_currency,source_of_income,status,customer_segment
+X_000001,Đỗ Thị Hùng,Nữ,1980-10-09 23:42:06.204042,Phú Yên,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000002,Vũ Thị Hoa,Nữ,1975-10-11 23:42:06.204042,Khánh Hòa,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000003,Lê Thị Hương,Nữ,1986-10-08 23:42:06.204042,Quảng Ninh,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000004,Nguyễn Thị An,Nữ,1987-10-08 23:42:06.204042,Nghệ An,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000005,Lưu Thị Sơn,Nữ,1990-10-07 23:42:06.204042,Bà Rịa - Vũng Tàu,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000006,Tôn Thị Rồng,Nữ,1979-10-10 23:42:06.204042,Thái Bình,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,USD,Đầu tư,Active,X
+X_000007,Lương Văn Uy,Nam,1991-10-07 23:42:06.204042,Thái Bình,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Closed,X
+X_000008,Bùi Văn Hải,Nam,1988-10-07 23:42:06.205024,Kon Tum,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000009,Đặng Thị Giang,Nữ,1972-10-11 23:42:06.205024,Tây Ninh,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000010,Chu Thị Tài,Nữ,1991-10-07 23:42:06.205024,Ninh Bình,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000011,Nguyễn Thị An,Nữ,1973-10-11 23:42:06.205024,Bà Rịa - Vũng Tàu,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000012,Hoàng Văn Em,Nam,1975-10-11 23:42:06.205024,Hưng Yên,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Inactive,X
+X_000013,Lê Thị Cường,Nữ,1985-10-08 23:42:06.205024,Quảng Ninh,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Inactive,X
+X_000014,Dương Văn Minh,Nam,1998-10-05 23:42:06.205024,Thanh Hóa,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000015,Đinh Thị Quang,Nữ,1989-10-07 23:42:06.205024,Nam Định,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000016,Lê Thị Cường,Nữ,1971-10-12 23:42:06.205024,Thanh Hóa,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Inactive,X
+X_000017,Lý Thị Nam,Nữ,1977-10-10 23:42:06.205024,Đồng Tháp,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000018,Ngô Văn Long,Nam,1979-10-10 23:42:06.205024,Khánh Hòa,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000019,Lưu Văn Sơn,Nam,1999-10-05 23:42:06.205024,Quảng Nam,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000020,Vũ Thị Hoa,Nữ,1974-10-11 23:42:06.205024,Cà Mau,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000021,Lê Hoàng Nam,Nam,1983-10-09 23:42:06.205024,Hải Dương,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000022,Lê Văn Cường,Nam,1975-10-11 23:42:06.205024,An Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Closed,X
+X_000023,Nguyễn Thị Mai,Nữ,1973-10-11 23:42:06.205024,Bình Thuận,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000024,Võ Thị Phúc,Nữ,1991-10-07 23:42:06.205024,Phú Thọ,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000025,Lê Hoàng Nam,Nam,1982-10-09 23:42:06.205024,Phú Yên,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000026,Đinh Thị Quang,Nữ,1996-10-05 23:42:06.205024,Bà Rịa - Vũng Tàu,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000027,Ngô Văn Long,Nam,1995-10-06 23:42:06.205024,Bạc Liêu,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000028,Lê Thị Hương,Nữ,1976-10-10 23:42:06.205024,Cao Bằng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000029,Lưu Thị Sơn,Nữ,1986-10-08 23:42:06.206023,Hà Nam,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000030,Dương Văn Minh,Nam,1973-10-11 23:42:06.206023,Bình Phước,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000031,Hoàng Thị Em,Nữ,1998-10-05 23:42:06.206023,Vĩnh Phúc,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000032,Đặng Quốc Bảo,Nam,1999-10-05 23:42:06.206023,Hải Phòng,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Closed,X
+X_000033,Lê Thị Cường,Nữ,1981-10-09 23:42:06.206023,Đắk Nông,Độc thân,Nước ngoài,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000034,Nguyễn Minh Tuấn,Nam,1982-10-09 23:42:06.206023,Long An,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000035,Trần Thị Lan,Nữ,1993-10-06 23:42:06.206023,Nam Định,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000036,Lê Thị Hương,Nữ,1996-10-05 23:42:06.206023,Hưng Yên,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000037,Lý Thị Nam,Nữ,1978-10-10 23:42:06.206023,Gia Lai,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000038,Ngô Văn Long,Nam,1996-10-05 23:42:06.206023,Thanh Hóa,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000039,Dương Thị Minh,Nữ,1981-10-09 23:42:06.206023,Gia Lai,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000040,Hồ Thị Trang,Nữ,1974-10-11 23:42:06.206023,Ninh Thuận,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Closed,X
+X_000041,Phan Thị Oanh,Nữ,1983-10-09 23:42:06.206023,Bình Dương,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000042,Hồ Thị Khoa,Nữ,1994-10-06 23:42:06.206023,Bình Định,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000043,Phạm Văn Dũng,Nam,1976-10-10 23:42:06.206023,Quảng Ninh,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000044,Đặng Quốc Bảo,Nam,1970-10-12 23:42:06.206023,Hải Dương,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Closed,X
+X_000045,Phan Thị Oanh,Nữ,1985-10-08 23:42:06.206023,Ninh Bình,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000046,Lưu Văn Sơn,Nam,1974-10-11 23:42:06.206023,Lạng Sơn,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000047,Chu Thị Tài,Nữ,1970-10-12 23:42:06.206023,Đắk Lắk,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000048,Tôn Văn Rồng,Nam,1984-10-08 23:42:06.206023,Khánh Hòa,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000049,Vũ Văn Phong,Nam,1989-10-07 23:42:06.206023,Lào Cai,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000050,Lý Thị Nam,Nữ,1998-10-05 23:42:06.206023,Hòa Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Inactive,X
+X_000051,Lương Thị Uy,Nữ,1989-10-07 23:42:06.207022,Quảng Bình,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000052,Phan Thị Oanh,Nữ,1996-10-05 23:42:06.207022,Bình Thuận,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000053,Vũ Thị Phong,Nữ,1992-10-06 23:42:06.207022,Thừa Thiên Huế,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000054,Lưu Văn Sơn,Nam,1992-10-06 23:42:06.207022,Cần Thơ,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000055,Lưu Văn Sơn,Nam,1975-10-11 23:42:06.207022,Đồng Nai,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,USD,Lương,Inactive,X
+X_000056,Phạm Văn Dũng,Nam,1972-10-11 23:42:06.207022,Lai Châu,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000057,Trần Thị Bình,Nữ,1975-10-11 23:42:06.207022,Bình Định,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,USD,Kinh doanh,Active,X
+X_000058,Lê Văn Cường,Nam,1976-10-10 23:42:06.207022,Hòa Bình,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000059,Nguyễn Thị An,Nữ,1971-10-12 23:42:06.207022,Thái Nguyên,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000060,Hoàng Thị Em,Nữ,1974-10-11 23:42:06.207022,Hải Dương,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000061,Phạm Quang Huy,Nam,1976-10-10 23:42:06.207022,Quảng Ngãi,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000062,Nguyễn Minh Tuấn,Nam,1993-10-06 23:42:06.207022,Phú Thọ,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000063,Đặng Quốc Bảo,Nam,1984-10-08 23:42:06.207022,Quảng Trị,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000064,Đỗ Thị Hùng,Nữ,1997-10-05 23:42:06.207022,TP. Hồ Chí Minh,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000065,Hoàng Văn Em,Nam,1975-10-11 23:42:06.207022,Long An,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000066,Hoàng Thị Em,Nữ,1986-10-08 23:42:06.208021,Yên Bái,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000067,Phạm Quang Huy,Nam,1993-10-06 23:42:06.208021,Quảng Trị,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000068,Trần Thị Lan,Nữ,1988-10-07 23:42:06.208021,Bắc Ninh,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Inactive,X
+X_000069,Lưu Thị Sơn,Nữ,1974-10-11 23:42:06.208021,Hà Nam,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000070,Dương Văn Minh,Nam,1990-10-07 23:42:06.208021,Sóc Trăng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000071,Vũ Văn Phong,Nam,1994-10-06 23:42:06.208021,Hà Tĩnh,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000072,Đặng Thị Thu,Nữ,1995-10-06 23:42:06.208021,Trà Vinh,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000073,Phạm Quang Huy,Nam,1976-10-10 23:42:06.208021,Đồng Nai,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000074,Phạm Thị Dũng,Nữ,1990-10-07 23:42:06.209032,Quảng Ninh,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000075,Võ Thị Phúc,Nữ,1977-10-10 23:42:06.209032,Lào Cai,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000076,Lê Văn Cường,Nam,1997-10-05 23:42:06.209032,Bình Thuận,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000077,Đỗ Văn Hùng,Nam,1970-10-12 23:42:06.209032,Lâm Đồng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000078,Đinh Văn Quang,Nam,1970-10-12 23:42:06.209032,Sóc Trăng,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000079,Đinh Thị Quang,Nữ,1976-10-10 23:42:06.209032,Nghệ An,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Inactive,X
+X_000080,Bùi Thị Hải,Nữ,1982-10-09 23:42:06.209032,Bình Phước,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Inactive,X
+X_000081,Phạm Thị Dũng,Nữ,1992-10-06 23:42:06.209032,Ninh Bình,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000082,Phạm Quang Huy,Nam,1980-10-09 23:42:06.209032,Hà Tĩnh,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000083,Nguyễn Văn An,Nam,1988-10-07 23:42:06.209032,Cao Bằng,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000084,Đặng Thị Giang,Nữ,1987-10-08 23:42:06.209032,Lào Cai,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,USD,Đầu tư,Active,X
+X_000085,Nguyễn Văn An,Nam,1984-10-08 23:42:06.209032,Hưng Yên,Độc thân,Nước ngoài,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000086,Đặng Văn Giang,Nam,1972-10-11 23:42:06.209032,Ninh Bình,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000087,Bùi Thị Ngọc,Nữ,1986-10-08 23:42:06.209032,Tiền Giang,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000088,Dương Thị Minh,Nữ,1989-10-07 23:42:06.210469,Hà Tĩnh,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000089,Trần Thị Bình,Nữ,1982-10-09 23:42:06.210469,Lào Cai,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000090,Hồ Thị Trang,Nữ,1998-10-05 23:42:06.210469,Quảng Ninh,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000091,Dương Văn Minh,Nam,1984-10-08 23:42:06.210469,Tiền Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000092,Trần Thị Bình,Nữ,1980-10-09 23:42:06.210469,Sóc Trăng,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000093,Vũ Thị Phong,Nữ,1970-10-12 23:42:06.210469,Phú Yên,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Inactive,X
+X_000094,Đặng Quốc Bảo,Nam,1989-10-07 23:42:06.210469,Quảng Trị,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Inactive,X
+X_000095,Bùi Văn Hải,Nam,1982-10-09 23:42:06.210469,Nghệ An,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000096,Nguyễn Minh Tuấn,Nam,1973-10-11 23:42:06.210469,Quảng Bình,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000097,Phan Thị Oanh,Nữ,1993-10-06 23:42:06.211467,Ninh Thuận,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,USD,Đầu tư,Active,X
+X_000098,Ngô Thị Long,Nữ,1990-10-07 23:42:06.211467,Hải Phòng,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000099,Tôn Thị Rồng,Nữ,1972-10-11 23:42:06.211467,Quảng Trị,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000100,Hồ Văn Tài,Nam,1973-10-11 23:42:06.211467,Hà Giang,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000101,Đặng Thị Giang,Nữ,1977-10-10 23:42:06.211467,Hậu Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000102,Lý Văn Nam,Nam,1997-10-05 23:42:06.211467,Đắk Nông,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000103,Nguyễn Thị Mai,Nữ,1984-10-08 23:42:06.211467,Hậu Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000104,Lý Thị Nam,Nữ,1977-10-10 23:42:06.211467,Đắk Lắk,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,USD,Lương,Active,X
+X_000105,Hoàng Thị Linh,Nữ,1992-10-06 23:42:06.211467,Ninh Thuận,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000106,Tôn Thị Rồng,Nữ,1972-10-11 23:42:06.211467,Sơn La,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000107,Hồ Thị Khoa,Nữ,1974-10-11 23:42:06.211467,Hậu Giang,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Closed,X
+X_000108,Hoàng Thị Em,Nữ,1986-10-08 23:42:06.211467,Bà Rịa - Vũng Tàu,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000109,Dương Thị Minh,Nữ,1986-10-08 23:42:06.211467,Hà Tĩnh,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000110,Hoàng Thị Em,Nữ,1977-10-10 23:42:06.211467,Đồng Nai,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000111,Lê Văn Cường,Nam,1992-10-06 23:42:06.211467,Bắc Ninh,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000112,Vũ Thị Hoa,Nữ,1976-10-10 23:42:06.211467,Nghệ An,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000113,Hồ Văn Khoa,Nam,1991-10-07 23:42:06.211467,Quảng Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Inactive,X
+X_000114,Hoàng Thị Em,Nữ,1983-10-09 23:42:06.211467,Đắk Nông,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000115,Phan Thị Oanh,Nữ,1974-10-11 23:42:06.211467,An Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000116,Lưu Thị Sơn,Nữ,1998-10-05 23:42:06.211467,Cao Bằng,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000117,Trần Đức Thành,Nam,2000-10-04 23:42:06.211467,Kon Tum,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Closed,X
+X_000118,Bùi Văn Hải,Nam,1983-10-09 23:42:06.211467,Hậu Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000119,Lưu Thị Sơn,Nữ,1975-10-11 23:42:06.211467,Tuyên Quang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Inactive,X
+X_000120,Bùi Thị Hải,Nữ,1981-10-09 23:42:06.211467,Ninh Bình,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000121,Phan Văn Oanh,Nam,1975-10-11 23:42:06.211467,Phú Thọ,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000122,Hồ Thị Khoa,Nữ,1971-10-12 23:42:06.212909,Thái Bình,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000123,Phạm Văn Dũng,Nam,1983-10-09 23:42:06.212909,Bắc Kạn,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000124,Hồ Thị Trang,Nữ,1986-10-08 23:42:06.212909,Hưng Yên,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000125,Phạm Văn Dũng,Nam,1971-10-12 23:42:06.212909,Cà Mau,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000126,Lê Hoàng Nam,Nam,1976-10-10 23:42:06.212909,Đắk Nông,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000127,Đặng Văn Giang,Nam,1994-10-06 23:42:06.212909,Hải Dương,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000128,Võ Thị Phúc,Nữ,1998-10-05 23:42:06.212909,Quảng Trị,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Closed,X
+X_000129,Lê Thị Cường,Nữ,1988-10-07 23:42:06.212909,Cao Bằng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000130,Chu Thị Tài,Nữ,1983-10-09 23:42:06.212909,Cà Mau,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000131,Đặng Thị Giang,Nữ,1988-10-07 23:42:06.212909,Lạng Sơn,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000132,Nguyễn Thị Mai,Nữ,1989-10-07 23:42:06.212909,Bà Rịa - Vũng Tàu,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000133,Võ Thị Phúc,Nữ,1981-10-09 23:42:06.212909,Bến Tre,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000134,Nguyễn Minh Tuấn,Nam,1971-10-12 23:42:06.212909,Bắc Kạn,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000135,Đặng Văn Giang,Nam,1995-10-06 23:42:06.212909,Nghệ An,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000136,Võ Thị Phúc,Nữ,1980-10-09 23:42:06.212909,Thừa Thiên Huế,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Inactive,X
+X_000137,Ngô Thị Long,Nữ,1987-10-08 23:42:06.212909,Nam Định,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000138,Đặng Văn Giang,Nam,1977-10-10 23:42:06.212909,Yên Bái,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000139,Hồ Thị Khoa,Nữ,1991-10-07 23:42:06.212909,Sóc Trăng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000140,Lê Hoàng Nam,Nam,1975-10-11 23:42:06.212909,Vĩnh Long,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000141,Ngô Thị Long,Nữ,1993-10-06 23:42:06.212909,Lai Châu,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000142,Chu Văn Tài,Nam,1977-10-10 23:42:06.212909,Điện Biên,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000143,Trần Thị Bình,Nữ,1972-10-11 23:42:06.212909,Bắc Ninh,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000144,Đặng Quốc Bảo,Nam,1981-10-09 23:42:06.212909,Sơn La,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000145,Vũ Minh Tâm,Nam,1990-10-07 23:42:06.212909,Sơn La,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,USD,Kinh doanh,Closed,X
+X_000146,Lương Văn Uy,Nam,1973-10-11 23:42:06.213987,Bến Tre,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Inactive,X
+X_000147,Dương Văn Minh,Nam,1971-10-12 23:42:06.213987,Quảng Ninh,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000148,Chu Văn Tài,Nam,1986-10-08 23:42:06.213987,Ninh Bình,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000149,Tôn Văn Rồng,Nam,1981-10-09 23:42:06.213987,Điện Biên,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000150,Trần Văn Bình,Nam,1975-10-11 23:42:06.213987,Thái Nguyên,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000151,Võ Thị Phúc,Nữ,1994-10-06 23:42:06.213987,Bắc Ninh,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Inactive,X
+X_000152,Lê Văn Cường,Nam,1996-10-05 23:42:06.213987,Bình Định,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000153,Hồ Thị Trang,Nữ,1978-10-10 23:42:06.213987,Hải Dương,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000154,Lê Hoàng Nam,Nam,1993-10-06 23:42:06.213987,Đà Nẵng,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000155,Trần Văn Bình,Nam,1978-10-10 23:42:06.213987,Lai Châu,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Inactive,X
+X_000156,Dương Thị Minh,Nữ,1982-10-09 23:42:06.213987,Phú Thọ,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000157,Dương Thị Minh,Nữ,1972-10-11 23:42:06.213987,Bà Rịa - Vũng Tàu,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000158,Tôn Văn Rồng,Nam,1983-10-09 23:42:06.213987,Hưng Yên,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000159,Trần Thị Bình,Nữ,1971-10-12 23:42:06.213987,Khánh Hòa,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000160,Hồ Văn Khoa,Nam,1970-10-12 23:42:06.213987,Vĩnh Long,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000161,Nguyễn Minh Tuấn,Nam,1975-10-11 23:42:06.213987,Trà Vinh,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000162,Phạm Thị Dũng,Nữ,2000-10-04 23:42:06.213987,Vĩnh Long,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000163,Đỗ Văn Hùng,Nam,1993-10-06 23:42:06.213987,Quảng Nam,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000164,Bùi Văn Thắng,Nam,1974-10-11 23:42:06.213987,Điện Biên,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000165,Đỗ Thị Yến,Nữ,1972-10-11 23:42:06.213987,Sóc Trăng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000166,Chu Thị Tài,Nữ,1990-10-07 23:42:06.213987,Yên Bái,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000167,Đỗ Minh Khang,Nam,1980-10-09 23:42:06.213987,Gia Lai,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000168,Bùi Văn Hải,Nam,1985-10-08 23:42:06.214986,Ninh Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000169,Hoàng Văn Em,Nam,1989-10-07 23:42:06.214986,Phú Yên,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000170,Ngô Thị Long,Nữ,1970-10-12 23:42:06.214986,Lai Châu,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000171,Nguyễn Thị Mai,Nữ,2000-10-04 23:42:06.214986,Quảng Ngãi,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000172,Lưu Văn Sơn,Nam,1992-10-06 23:42:06.214986,Bắc Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000173,Hồ Thị Khoa,Nữ,1973-10-11 23:42:06.214986,Thái Nguyên,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000174,Lê Văn Cường,Nam,1992-10-06 23:42:06.214986,Vĩnh Phúc,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,USD,Lương,Active,X
+X_000175,Chu Thị Tài,Nữ,1994-10-06 23:42:06.214986,Ninh Thuận,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000176,Võ Thị Phúc,Nữ,1978-10-10 23:42:06.214986,Sóc Trăng,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000177,Lê Thị Cường,Nữ,1984-10-08 23:42:06.214986,Hải Phòng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000178,Hồ Văn Tài,Nam,1999-10-05 23:42:06.214986,Thanh Hóa,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000179,Lưu Thị Sơn,Nữ,1976-10-10 23:42:06.214986,Quảng Ngãi,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000180,Đặng Thị Thu,Nữ,1982-10-09 23:42:06.214986,Bình Phước,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000181,Đinh Văn Quang,Nam,1993-10-06 23:42:06.214986,Bình Phước,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Inactive,X
+X_000182,Lương Thị Uy,Nữ,1989-10-07 23:42:06.214986,Bắc Kạn,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000183,Lương Văn Uy,Nam,1995-10-06 23:42:06.214986,Bạc Liêu,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000184,Lương Văn Uy,Nam,1987-10-08 23:42:06.214986,Bạc Liêu,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000185,Đặng Thị Giang,Nữ,1979-10-10 23:42:06.214986,Vĩnh Long,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Inactive,X
+X_000186,Phan Văn Oanh,Nam,1985-10-08 23:42:06.214986,Ninh Thuận,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000187,Lưu Thị Sơn,Nữ,2000-10-04 23:42:06.214986,Gia Lai,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Inactive,X
+X_000188,Bùi Văn Thắng,Nam,1993-10-06 23:42:06.215989,Bình Dương,Độc thân,Nước ngoài,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000189,Lưu Văn Sơn,Nam,2000-10-04 23:42:06.215989,Bắc Kạn,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000190,Lê Thị Hương,Nữ,1971-10-12 23:42:06.215989,Ninh Bình,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000191,Bùi Thị Ngọc,Nữ,1970-10-12 23:42:06.215989,Đắk Lắk,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000192,Bùi Thị Ngọc,Nữ,1991-10-07 23:42:06.215989,Bến Tre,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000193,Ngô Thị Long,Nữ,1997-10-05 23:42:06.215989,Long An,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Closed,X
+X_000194,Phạm Quang Huy,Nam,1989-10-07 23:42:06.215989,Thái Nguyên,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,USD,Kinh doanh,Inactive,X
+X_000195,Phan Thị Oanh,Nữ,2000-10-04 23:42:06.215989,Thái Bình,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000196,Tôn Văn Rồng,Nam,1977-10-10 23:42:06.215989,Lạng Sơn,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000197,Dương Thị Minh,Nữ,1993-10-06 23:42:06.215989,Bạc Liêu,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000198,Hoàng Văn Em,Nam,1992-10-06 23:42:06.215989,Bình Định,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000199,Chu Văn Tài,Nam,1979-10-10 23:42:06.215989,Thái Nguyên,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000200,Phạm Thị Nga,Nữ,1995-10-06 23:42:06.215989,Lạng Sơn,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000201,Đinh Thị Quang,Nữ,1982-10-09 23:42:06.216994,Tuyên Quang,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000202,Phạm Thị Nga,Nữ,1997-10-05 23:42:06.216994,Tuyên Quang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000203,Lý Thị Nam,Nữ,1995-10-06 23:42:06.216994,Đắk Nông,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000204,Vũ Thị Phong,Nữ,1995-10-06 23:42:06.216994,Hà Nam,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000205,Phạm Thị Dũng,Nữ,1985-10-08 23:42:06.216994,Thanh Hóa,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Inactive,X
+X_000206,Trần Thị Lan,Nữ,1988-10-07 23:42:06.216994,Bắc Kạn,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000207,Võ Văn Phúc,Nam,1990-10-07 23:42:06.216994,Bắc Kạn,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000208,Đỗ Văn Hùng,Nam,1996-10-05 23:42:06.216994,Long An,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000209,Phạm Quang Huy,Nam,1971-10-12 23:42:06.216994,Hà Tĩnh,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000210,Lưu Văn Sơn,Nam,1990-10-07 23:42:06.216994,Thừa Thiên Huế,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000211,Đặng Quốc Bảo,Nam,1972-10-11 23:42:06.216994,Bình Dương,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000212,Nguyễn Thị An,Nữ,1995-10-06 23:42:06.216994,Hải Phòng,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000213,Đinh Văn Quang,Nam,1997-10-05 23:42:06.216994,Ninh Thuận,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000214,Đỗ Thị Yến,Nữ,1976-10-10 23:42:06.216994,Hải Dương,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000215,Trần Thị Lan,Nữ,1971-10-12 23:42:06.216994,Đồng Nai,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000216,Vũ Văn Phong,Nam,1994-10-06 23:42:06.216994,Quảng Bình,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000217,Bùi Thị Hải,Nữ,1978-10-10 23:42:06.216994,Đắk Nông,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000218,Hoàng Văn Đức,Nam,1997-10-05 23:42:06.216994,Hà Nội,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000219,Võ Văn Phúc,Nam,1997-10-05 23:42:06.216994,Trà Vinh,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000220,Phạm Quang Huy,Nam,1990-10-07 23:42:06.217985,Vĩnh Phúc,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000221,Chu Văn Tài,Nam,1987-10-08 23:42:06.217985,Bắc Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000222,Đỗ Văn Hùng,Nam,1977-10-10 23:42:06.217985,Bình Thuận,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000223,Lương Thị Uy,Nữ,1992-10-06 23:42:06.217985,Tiền Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000224,Dương Văn Minh,Nam,1980-10-09 23:42:06.217985,Đắk Lắk,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000225,Lê Thị Hương,Nữ,1993-10-06 23:42:06.217985,Tiền Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Inactive,X
+X_000226,Chu Văn Tài,Nam,1973-10-11 23:42:06.217985,Đà Nẵng,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000227,Võ Thị Phúc,Nữ,1989-10-07 23:42:06.217985,Sóc Trăng,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Closed,X
+X_000228,Lương Văn Uy,Nam,1997-10-05 23:42:06.217985,Nghệ An,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000229,Nguyễn Thị Mai,Nữ,1995-10-06 23:42:06.217985,Hòa Bình,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000230,Vũ Thị Phong,Nữ,1998-10-05 23:42:06.217985,Kon Tum,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000231,Trần Đức Thành,Nam,1975-10-11 23:42:06.217985,Lai Châu,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000232,Bùi Thị Hải,Nữ,1987-10-08 23:42:06.217985,Lào Cai,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000233,Lê Hoàng Nam,Nam,1981-10-09 23:42:06.217985,Bạc Liêu,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,USD,Đầu tư,Active,X
+X_000234,Dương Thị Minh,Nữ,1970-10-12 23:42:06.219010,Vĩnh Long,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000235,Lê Thị Cường,Nữ,1999-10-05 23:42:06.219010,Tiền Giang,Độc thân,Nước ngoài,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000236,Phạm Quang Huy,Nam,1978-10-10 23:42:06.219010,Phú Thọ,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Inactive,X
+X_000237,Dương Văn Minh,Nam,1971-10-12 23:42:06.219010,Hà Tĩnh,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,USD,Kinh doanh,Active,X
+X_000238,Bùi Văn Hải,Nam,1992-10-06 23:42:06.219010,Lào Cai,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000239,Hoàng Thị Em,Nữ,1978-10-10 23:42:06.219010,Hải Phòng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000240,Lê Hoàng Nam,Nam,1981-10-09 23:42:06.219010,Bà Rịa - Vũng Tàu,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Inactive,X
+X_000241,Hồ Văn Tài,Nam,1986-10-08 23:42:06.219010,Long An,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000242,Vũ Văn Phong,Nam,1988-10-07 23:42:06.219010,Bình Dương,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000243,Hoàng Văn Em,Nam,2000-10-04 23:42:06.219010,Nam Định,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000244,Bùi Thị Ngọc,Nữ,1975-10-11 23:42:06.219010,Hậu Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000245,Trần Văn Bình,Nam,1975-10-11 23:42:06.219010,Vĩnh Long,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Inactive,X
+X_000246,Nguyễn Văn An,Nam,1989-10-07 23:42:06.219010,Đắk Lắk,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000247,Nguyễn Thị Mai,Nữ,1987-10-08 23:42:06.219010,Hà Nam,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000248,Hoàng Văn Em,Nam,1991-10-07 23:42:06.220019,Kon Tum,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000249,Nguyễn Minh Tuấn,Nam,2000-10-04 23:42:06.220019,Lạng Sơn,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,USD,Lương,Active,X
+X_000250,Hoàng Thị Linh,Nữ,1999-10-05 23:42:06.220019,Phú Thọ,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000251,Trần Đức Thành,Nam,2000-10-04 23:42:06.220019,Tây Ninh,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000252,Đỗ Thị Yến,Nữ,1996-10-05 23:42:06.220019,Phú Thọ,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000253,Vũ Thị Hoa,Nữ,1992-10-06 23:42:06.220019,Long An,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000254,Hồ Văn Tài,Nam,1991-10-07 23:42:06.220019,Cà Mau,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000255,Lương Văn Uy,Nam,1997-10-05 23:42:06.220019,Kiên Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000256,Nguyễn Văn An,Nam,1994-10-06 23:42:06.220019,Hà Tĩnh,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000257,Nguyễn Văn An,Nam,1974-10-11 23:42:06.220019,Sơn La,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Closed,X
+X_000258,Đặng Thị Thu,Nữ,1993-10-06 23:42:06.220019,Thái Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Inactive,X
+X_000259,Đỗ Thị Yến,Nữ,1994-10-06 23:42:06.220019,Vĩnh Phúc,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000260,Hồ Thị Trang,Nữ,1980-10-09 23:42:06.220019,Quảng Ninh,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000261,Vũ Thị Hoa,Nữ,1991-10-07 23:42:06.220019,Khánh Hòa,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000262,Bùi Thị Ngọc,Nữ,1974-10-11 23:42:06.220019,Cần Thơ,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000263,Hồ Thị Khoa,Nữ,1971-10-12 23:42:06.220019,Thừa Thiên Huế,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000264,Đinh Văn Quang,Nam,1995-10-06 23:42:06.220983,An Giang,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000265,Hồ Văn Tài,Nam,1979-10-10 23:42:06.220983,Quảng Trị,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000266,Nguyễn Thị An,Nữ,1992-10-06 23:42:06.220983,Bạc Liêu,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000267,Trần Văn Bình,Nam,1984-10-08 23:42:06.220983,Bình Dương,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000268,Hoàng Thị Linh,Nữ,1997-10-05 23:42:06.220983,Vĩnh Phúc,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000269,Lý Văn Nam,Nam,1980-10-09 23:42:06.220983,Đồng Tháp,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000270,Đỗ Thị Hùng,Nữ,1978-10-10 23:42:06.220983,An Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000271,Bùi Văn Thắng,Nam,1999-10-05 23:42:06.220983,Quảng Nam,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000272,Đỗ Văn Hùng,Nam,1985-10-08 23:42:06.220983,Đồng Tháp,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000273,Trần Thị Bình,Nữ,1984-10-08 23:42:06.220983,Đắk Lắk,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000274,Đỗ Thị Hùng,Nữ,1981-10-09 23:42:06.220983,Vĩnh Long,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000275,Lê Văn Cường,Nam,1997-10-05 23:42:06.220983,Yên Bái,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Inactive,X
+X_000276,Vũ Văn Phong,Nam,1994-10-06 23:42:06.220983,Bình Dương,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000277,Nguyễn Thị An,Nữ,1992-10-06 23:42:06.220983,Hưng Yên,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000278,Hồ Thị Khoa,Nữ,1995-10-06 23:42:06.220983,Thái Nguyên,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000279,Phan Thị Oanh,Nữ,1977-10-10 23:42:06.220983,Điện Biên,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000280,Lưu Thị Sơn,Nữ,1973-10-11 23:42:06.220983,Lạng Sơn,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000281,Nguyễn Văn An,Nam,1970-10-12 23:42:06.220983,Lâm Đồng,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000282,Lương Văn Uy,Nam,1993-10-06 23:42:06.220983,Long An,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000283,Lê Thị Cường,Nữ,2000-10-04 23:42:06.220983,Hà Tĩnh,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000284,Đỗ Minh Khang,Nam,1974-10-11 23:42:06.220983,Bà Rịa - Vũng Tàu,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000285,Lý Thị Nam,Nữ,1981-10-09 23:42:06.221997,Vĩnh Long,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Inactive,X
+X_000286,Dương Thị Minh,Nữ,1983-10-09 23:42:06.221997,Tây Ninh,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000287,Vũ Thị Hoa,Nữ,1995-10-06 23:42:06.221997,Cà Mau,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000288,Bùi Thị Hải,Nữ,1999-10-05 23:42:06.221997,Hải Phòng,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000289,Hồ Văn Tài,Nam,1995-10-06 23:42:06.221997,Bà Rịa - Vũng Tàu,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Closed,X
+X_000290,Võ Thị Phúc,Nữ,1978-10-10 23:42:06.221997,Long An,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000291,Dương Thị Minh,Nữ,1989-10-07 23:42:06.221997,Tuyên Quang,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Inactive,X
+X_000292,Hồ Thị Khoa,Nữ,1989-10-07 23:42:06.221997,Lâm Đồng,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000293,Trần Thị Lan,Nữ,1983-10-09 23:42:06.221997,Quảng Trị,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000294,Phan Văn Oanh,Nam,1992-10-06 23:42:06.221997,Tuyên Quang,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,USD,Đầu tư,Inactive,X
+X_000295,Hồ Thị Khoa,Nữ,1977-10-10 23:42:06.221997,Bắc Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000296,Võ Văn Phúc,Nam,1975-10-11 23:42:06.221997,Tiền Giang,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000297,Lương Văn Uy,Nam,1992-10-06 23:42:06.221997,Bến Tre,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000298,Phạm Thị Dũng,Nữ,1974-10-11 23:42:06.221997,Thái Nguyên,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000299,Trần Thị Bình,Nữ,1978-10-10 23:42:06.221997,Bình Thuận,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000300,Ngô Thị Long,Nữ,1999-10-05 23:42:06.221997,Thái Nguyên,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000301,Vũ Minh Tâm,Nam,1984-10-08 23:42:06.221997,Lai Châu,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000302,Đỗ Thị Yến,Nữ,1988-10-07 23:42:06.221997,Thái Nguyên,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000303,Bùi Văn Hải,Nam,1977-10-10 23:42:06.221997,Bắc Kạn,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000304,Hoàng Văn Em,Nam,1995-10-06 23:42:06.222993,Gia Lai,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000305,Lê Thị Cường,Nữ,1982-10-09 23:42:06.222993,Bạc Liêu,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000306,Nguyễn Thị An,Nữ,1983-10-09 23:42:06.222993,Tuyên Quang,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Inactive,X
+X_000307,Phan Thị Oanh,Nữ,1991-10-07 23:42:06.222993,Lai Châu,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000308,Đinh Thị Quang,Nữ,1977-10-10 23:42:06.222993,Lai Châu,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000309,Vũ Minh Tâm,Nam,1994-10-06 23:42:06.222993,Vĩnh Phúc,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000310,Bùi Văn Hải,Nam,1982-10-09 23:42:06.222993,Hà Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000311,Phạm Quang Huy,Nam,1981-10-09 23:42:06.222993,TP. Hồ Chí Minh,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000312,Đặng Văn Giang,Nam,1987-10-08 23:42:06.223994,Bắc Ninh,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000313,Đỗ Thị Hùng,Nữ,1973-10-11 23:42:06.223994,Yên Bái,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Inactive,X
+X_000314,Dương Thị Minh,Nữ,1994-10-06 23:42:06.223994,Sóc Trăng,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000315,Chu Văn Tài,Nam,1985-10-08 23:42:06.223994,Nghệ An,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000316,Trần Văn Bình,Nam,1979-10-10 23:42:06.223994,Quảng Trị,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000317,Ngô Văn Long,Nam,1982-10-09 23:42:06.223994,An Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,USD,Kinh doanh,Active,X
+X_000318,Tôn Văn Rồng,Nam,1973-10-11 23:42:06.223994,Kiên Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,USD,Lương,Active,X
+X_000319,Võ Thị Phúc,Nữ,1993-10-06 23:42:06.223994,Đắk Lắk,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000320,Chu Văn Tài,Nam,1988-10-07 23:42:06.223994,Nghệ An,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000321,Hoàng Thị Em,Nữ,1993-10-06 23:42:06.223994,Thái Nguyên,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Inactive,X
+X_000322,Bùi Thị Hải,Nữ,1985-10-08 23:42:06.224992,Vĩnh Long,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000323,Lê Thị Hương,Nữ,1986-10-08 23:42:06.224992,Phú Yên,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000324,Trần Đức Thành,Nam,1985-10-08 23:42:06.224992,Quảng Ninh,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000325,Chu Thị Tài,Nữ,1997-10-05 23:42:06.224992,An Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000326,Bùi Văn Thắng,Nam,2000-10-04 23:42:06.224992,Hà Tĩnh,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000327,Lưu Văn Sơn,Nam,1996-10-05 23:42:06.224992,Quảng Trị,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Inactive,X
+X_000328,Đỗ Thị Hùng,Nữ,1999-10-05 23:42:06.224992,Bình Phước,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000329,Đặng Quốc Bảo,Nam,1994-10-06 23:42:06.224992,Quảng Ngãi,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Inactive,X
+X_000330,Nguyễn Văn An,Nam,1975-10-11 23:42:06.224992,Bình Thuận,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000331,Trần Đức Thành,Nam,1986-10-08 23:42:06.224992,Quảng Nam,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000332,Phạm Thị Nga,Nữ,1988-10-07 23:42:06.224992,Bình Phước,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000333,Đỗ Minh Khang,Nam,1988-10-07 23:42:06.224992,Kiên Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000334,Nguyễn Văn An,Nam,1997-10-05 23:42:06.224992,TP. Hồ Chí Minh,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000335,Trần Thị Bình,Nữ,1970-10-12 23:42:06.224992,Hà Tĩnh,Kết hôn,Nước ngoài,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000336,Trần Thị Lan,Nữ,1972-10-11 23:42:06.224992,Bắc Ninh,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000337,Võ Văn Phúc,Nam,1986-10-08 23:42:06.224992,Hải Dương,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000338,Lê Hoàng Nam,Nam,1970-10-12 23:42:06.224992,Bình Thuận,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000339,Bùi Văn Hải,Nam,1996-10-05 23:42:06.224992,Quảng Bình,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000340,Lương Văn Uy,Nam,1971-10-12 23:42:06.224992,Bình Thuận,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000341,Phan Thị Oanh,Nữ,1992-10-06 23:42:06.224992,Bình Thuận,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000342,Trần Thị Lan,Nữ,1998-10-05 23:42:06.224992,Nam Định,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000343,Nguyễn Văn An,Nam,1980-10-09 23:42:06.226049,An Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000344,Hoàng Văn Em,Nam,1999-10-05 23:42:06.226049,Bạc Liêu,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000345,Vũ Thị Hoa,Nữ,1974-10-11 23:42:06.226049,Bắc Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000346,Đỗ Văn Hùng,Nam,1987-10-08 23:42:06.226049,Gia Lai,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000347,Dương Văn Minh,Nam,1991-10-07 23:42:06.226049,Gia Lai,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000348,Trần Thị Lan,Nữ,2000-10-04 23:42:06.226049,Tây Ninh,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000349,Vũ Văn Phong,Nam,1977-10-10 23:42:06.226049,Khánh Hòa,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Inactive,X
+X_000350,Hoàng Thị Em,Nữ,1990-10-07 23:42:06.226049,Quảng Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000351,Phạm Quang Huy,Nam,1995-10-06 23:42:06.226049,Đồng Nai,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000352,Tôn Thị Rồng,Nữ,1990-10-07 23:42:06.226049,Hà Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000353,Phan Thị Oanh,Nữ,1983-10-09 23:42:06.226049,Kon Tum,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000354,Chu Văn Tài,Nam,1991-10-07 23:42:06.226049,Quảng Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000355,Dương Văn Minh,Nam,1988-10-07 23:42:06.226049,Hậu Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000356,Trần Văn Bình,Nam,1972-10-11 23:42:06.226049,Lâm Đồng,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000357,Đặng Thị Giang,Nữ,1987-10-08 23:42:06.226049,Phú Thọ,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000358,Hồ Thị Khoa,Nữ,1984-10-08 23:42:06.226049,Quảng Ninh,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000359,Võ Văn Phúc,Nam,1996-10-05 23:42:06.226049,Phú Thọ,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000360,Chu Văn Tài,Nam,1978-10-10 23:42:06.226049,Thanh Hóa,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000361,Phạm Văn Dũng,Nam,1974-10-11 23:42:06.226049,Quảng Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000362,Trần Thị Lan,Nữ,1975-10-11 23:42:06.226049,Hưng Yên,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000363,Ngô Thị Long,Nữ,1996-10-05 23:42:06.226049,Cà Mau,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000364,Dương Văn Minh,Nam,1992-10-06 23:42:06.226990,Tiền Giang,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000365,Bùi Thị Hải,Nữ,1991-10-07 23:42:06.226990,Quảng Nam,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000366,Tôn Văn Rồng,Nam,1978-10-10 23:42:06.226990,Sơn La,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000367,Nguyễn Minh Tuấn,Nam,1990-10-07 23:42:06.226990,Lào Cai,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000368,Đỗ Minh Khang,Nam,1992-10-06 23:42:06.226990,Hà Tĩnh,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000369,Phạm Văn Dũng,Nam,1982-10-09 23:42:06.226990,Bắc Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000370,Võ Văn Phúc,Nam,1980-10-09 23:42:06.226990,Bình Dương,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000371,Bùi Thị Ngọc,Nữ,1982-10-09 23:42:06.226990,Ninh Bình,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Closed,X
+X_000372,Lê Hoàng Nam,Nam,1974-10-11 23:42:06.226990,Bắc Kạn,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000373,Đỗ Minh Khang,Nam,1989-10-07 23:42:06.226990,Ninh Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000374,Vũ Minh Tâm,Nam,1991-10-07 23:42:06.226990,Sơn La,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000375,Bùi Thị Hải,Nữ,1976-10-10 23:42:06.226990,Thái Nguyên,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Inactive,X
+X_000376,Chu Thị Tài,Nữ,1985-10-08 23:42:06.226990,Hòa Bình,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000377,Nguyễn Thị Mai,Nữ,1986-10-08 23:42:06.226990,Bến Tre,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000378,Phạm Quang Huy,Nam,1988-10-07 23:42:06.226990,Quảng Trị,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000379,Nguyễn Thị An,Nữ,1997-10-05 23:42:06.226990,Bình Dương,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000380,Đinh Văn Quang,Nam,1980-10-09 23:42:06.226990,Đồng Nai,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000381,Đặng Thị Giang,Nữ,1997-10-05 23:42:06.226990,Đắk Lắk,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Inactive,X
+X_000382,Đặng Quốc Bảo,Nam,1985-10-08 23:42:06.226990,Gia Lai,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000383,Phạm Thị Dũng,Nữ,1981-10-09 23:42:06.226990,Bình Định,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000384,Lý Thị Nam,Nữ,1995-10-06 23:42:06.226990,Lâm Đồng,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000385,Võ Văn Phúc,Nam,1986-10-08 23:42:06.227992,TP. Hồ Chí Minh,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000386,Hoàng Văn Đức,Nam,1977-10-10 23:42:06.227992,Bình Định,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000387,Phạm Thị Dũng,Nữ,1980-10-09 23:42:06.227992,Quảng Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Closed,X
+X_000388,Hoàng Thị Em,Nữ,1981-10-09 23:42:06.227992,Bà Rịa - Vũng Tàu,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000389,Nguyễn Minh Tuấn,Nam,1982-10-09 23:42:06.227992,Nghệ An,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000390,Dương Thị Minh,Nữ,1983-10-09 23:42:06.227992,Tuyên Quang,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000391,Lưu Thị Sơn,Nữ,2000-10-04 23:42:06.227992,Gia Lai,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000392,Nguyễn Thị An,Nữ,1999-10-05 23:42:06.227992,Hà Tĩnh,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000393,Lê Hoàng Nam,Nam,1975-10-11 23:42:06.227992,Cần Thơ,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000394,Đặng Văn Giang,Nam,1976-10-10 23:42:06.227992,Thái Bình,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000395,Tôn Thị Rồng,Nữ,1982-10-09 23:42:06.227992,Nam Định,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000396,Đỗ Văn Hùng,Nam,1993-10-06 23:42:06.227992,Điện Biên,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000397,Bùi Thị Ngọc,Nữ,1993-10-06 23:42:06.227992,Hải Dương,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000398,Lê Thị Cường,Nữ,1987-10-08 23:42:06.227992,Đồng Nai,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Inactive,X
+X_000399,Dương Thị Minh,Nữ,1979-10-10 23:42:06.227992,Cao Bằng,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000400,Chu Văn Tài,Nam,1981-10-09 23:42:06.227992,Quảng Nam,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Closed,X
+X_000401,Hoàng Văn Đức,Nam,1981-10-09 23:42:06.227992,Hà Tĩnh,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Active,X
+X_000402,Bùi Thị Hải,Nữ,1995-10-06 23:42:06.229004,Nghệ An,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Closed,X
+X_000403,Lưu Thị Sơn,Nữ,1988-10-07 23:42:06.229004,Thanh Hóa,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000404,Ngô Thị Long,Nữ,1971-10-12 23:42:06.229004,Đồng Tháp,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000405,Dương Văn Minh,Nam,1974-10-11 23:42:06.229004,Đà Nẵng,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Inactive,X
+X_000406,Tôn Thị Rồng,Nữ,1997-10-05 23:42:06.229004,Hà Nam,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Inactive,X
+X_000407,Hoàng Thị Em,Nữ,1980-10-09 23:42:06.229004,Hà Nội,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000408,Hoàng Văn Đức,Nam,1999-10-05 23:42:06.229004,An Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,USD,Lương,Active,X
+X_000409,Tôn Văn Rồng,Nam,1997-10-05 23:42:06.229004,Thái Nguyên,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000410,Dương Văn Minh,Nam,1974-10-11 23:42:06.229004,Thanh Hóa,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000411,Nguyễn Minh Tuấn,Nam,1995-10-06 23:42:06.229004,Kiên Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,USD,Lương,Active,X
+X_000412,Hồ Văn Khoa,Nam,1990-10-07 23:42:06.229004,Hà Nội,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Inactive,X
+X_000413,Trần Thị Bình,Nữ,1971-10-12 23:42:06.229004,Bắc Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000414,Đinh Thị Quang,Nữ,1987-10-08 23:42:06.229004,Long An,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Inactive,X
+X_000415,Phạm Thị Nga,Nữ,1986-10-08 23:42:06.229997,Ninh Thuận,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000416,Lưu Văn Sơn,Nam,1988-10-07 23:42:06.229997,Hậu Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Active,X
+X_000417,Nguyễn Thị Mai,Nữ,1995-10-06 23:42:06.229997,Cần Thơ,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000418,Hồ Thị Khoa,Nữ,1996-10-05 23:42:06.229997,Lai Châu,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000419,Hoàng Thị Linh,Nữ,1975-10-11 23:42:06.229997,Đà Nẵng,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000420,Vũ Văn Phong,Nam,1984-10-08 23:42:06.229997,Tuyên Quang,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000421,Lưu Văn Sơn,Nam,1988-10-07 23:42:06.229997,Ninh Thuận,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000422,Lê Thị Cường,Nữ,1984-10-08 23:42:06.229997,Vĩnh Phúc,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000423,Hồ Văn Tài,Nam,1984-10-08 23:42:06.229997,Bắc Kạn,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000424,Lý Thị Nam,Nữ,1999-10-05 23:42:06.229997,Quảng Trị,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000425,Lê Văn Cường,Nam,1977-10-10 23:42:06.229997,Gia Lai,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000426,Hoàng Thị Linh,Nữ,1986-10-08 23:42:06.229997,Bạc Liêu,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000427,Tôn Văn Rồng,Nam,1972-10-11 23:42:06.229997,Nghệ An,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000428,Phan Thị Oanh,Nữ,1998-10-05 23:42:06.229997,Lâm Đồng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000429,Bùi Văn Hải,Nam,1986-10-08 23:42:06.229997,Thừa Thiên Huế,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000430,Bùi Văn Hải,Nam,1971-10-12 23:42:06.229997,Bà Rịa - Vũng Tàu,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000431,Đinh Văn Quang,Nam,1982-10-09 23:42:06.229997,Hà Tĩnh,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000432,Nguyễn Văn An,Nam,1973-10-11 23:42:06.229997,Hòa Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Inactive,X
+X_000433,Chu Thị Tài,Nữ,1973-10-11 23:42:06.229997,Bạc Liêu,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000434,Đỗ Minh Khang,Nam,1990-10-07 23:42:06.230996,Quảng Nam,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000435,Dương Văn Minh,Nam,1984-10-08 23:42:06.230996,Lào Cai,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000436,Nguyễn Minh Tuấn,Nam,1989-10-07 23:42:06.230996,Thừa Thiên Huế,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000437,Phạm Văn Dũng,Nam,1975-10-11 23:42:06.230996,Phú Thọ,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000438,Lý Văn Nam,Nam,1987-10-08 23:42:06.230996,Tuyên Quang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000439,Hoàng Văn Em,Nam,1993-10-06 23:42:06.230996,Lào Cai,Kết hôn,Nước ngoài,Kinh doanh cá thể,>50 triệu,VND,Lương,Inactive,X
+X_000440,Đỗ Thị Hùng,Nữ,1979-10-10 23:42:06.230996,Hòa Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000441,Tôn Thị Rồng,Nữ,1993-10-06 23:42:06.230996,Bạc Liêu,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000442,Lê Thị Cường,Nữ,1972-10-11 23:42:06.230996,Bạc Liêu,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000443,Dương Văn Minh,Nam,1998-10-05 23:42:06.230996,Đắk Nông,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000444,Hồ Văn Khoa,Nam,1996-10-05 23:42:06.230996,Bắc Kạn,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000445,Hồ Văn Khoa,Nam,1992-10-06 23:42:06.230996,Bạc Liêu,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000446,Hoàng Thị Linh,Nữ,1982-10-09 23:42:06.230996,Ninh Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Inactive,X
+X_000447,Ngô Thị Long,Nữ,1977-10-10 23:42:06.230996,Kiên Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,USD,Đầu tư,Active,X
+X_000448,Võ Văn Phúc,Nam,1997-10-05 23:42:06.230996,Lai Châu,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Inactive,X
+X_000449,Lý Văn Nam,Nam,1977-10-10 23:42:06.230996,Trà Vinh,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000450,Bùi Văn Thắng,Nam,1983-10-09 23:42:06.230996,Bắc Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000451,Ngô Văn Long,Nam,1970-10-12 23:42:06.231993,Bình Dương,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000452,Vũ Thị Phong,Nữ,1974-10-11 23:42:06.231993,Hậu Giang,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000453,Phạm Quang Huy,Nam,1984-10-08 23:42:06.280690,An Giang,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,USD,Kinh doanh,Active,X
+X_000454,Hồ Văn Khoa,Nam,1974-10-11 23:42:06.280690,Bắc Kạn,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000455,Bùi Thị Ngọc,Nữ,1978-10-10 23:42:06.280690,Hưng Yên,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000456,Hoàng Văn Em,Nam,1974-10-11 23:42:06.280690,Bắc Ninh,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,USD,Kinh doanh,Inactive,X
+X_000457,Trần Đức Thành,Nam,1988-10-07 23:42:06.280690,Tây Ninh,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000458,Võ Thị Phúc,Nữ,1970-10-12 23:42:06.280690,Vĩnh Phúc,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Đầu tư,Inactive,X
+X_000459,Đặng Văn Giang,Nam,1977-10-10 23:42:06.280690,Hòa Bình,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000460,Lương Thị Uy,Nữ,1996-10-05 23:42:06.280690,Hà Tĩnh,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000461,Trần Văn Bình,Nam,1987-10-08 23:42:06.280690,Sơn La,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000462,Trần Thị Lan,Nữ,1970-10-12 23:42:06.280690,Bình Thuận,Độc thân,Nước ngoài,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000463,Đặng Thị Giang,Nữ,1992-10-06 23:42:06.280690,Vĩnh Phúc,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000464,Bùi Văn Hải,Nam,1979-10-10 23:42:06.280690,Bến Tre,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000465,Đinh Thị Quang,Nữ,1979-10-10 23:42:06.280690,Quảng Bình,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Inactive,X
+X_000466,Phạm Quang Huy,Nam,1981-10-09 23:42:06.280690,Hà Nội,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000467,Vũ Văn Phong,Nam,1981-10-09 23:42:06.280690,Hà Giang,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Closed,X
+X_000468,Hồ Văn Khoa,Nam,1976-10-10 23:42:06.280690,Đà Nẵng,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Closed,X
+X_000469,Lương Thị Uy,Nữ,1974-10-11 23:42:06.280690,Điện Biên,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Inactive,X
+X_000470,Đặng Văn Giang,Nam,1999-10-05 23:42:06.280690,Vĩnh Phúc,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Inactive,X
+X_000471,Bùi Thị Ngọc,Nữ,1994-10-06 23:42:06.280690,Nam Định,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000472,Tôn Văn Rồng,Nam,1987-10-08 23:42:06.280690,Bình Định,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000473,Đặng Thị Thu,Nữ,1981-10-09 23:42:06.281694,Phú Thọ,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Đầu tư,Closed,X
+X_000474,Đặng Văn Giang,Nam,1991-10-07 23:42:06.281694,Khánh Hòa,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000475,Đinh Thị Quang,Nữ,1978-10-10 23:42:06.281694,TP. Hồ Chí Minh,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000476,Vũ Thị Phong,Nữ,1978-10-10 23:42:06.281694,Cần Thơ,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Inactive,X
+X_000477,Lương Thị Uy,Nữ,1979-10-10 23:42:06.281694,Bắc Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000478,Dương Văn Minh,Nam,1970-10-12 23:42:06.281694,TP. Hồ Chí Minh,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000479,Vũ Thị Phong,Nữ,1999-10-05 23:42:06.281694,Đà Nẵng,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000480,Hồ Thị Trang,Nữ,2000-10-04 23:42:06.281694,Bình Thuận,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000481,Lý Văn Nam,Nam,1992-10-06 23:42:06.281694,Hậu Giang,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000482,Hoàng Văn Đức,Nam,1985-10-08 23:42:06.281694,Bình Thuận,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Closed,X
+X_000483,Trần Văn Bình,Nam,1976-10-10 23:42:06.281694,Hải Phòng,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Kinh doanh,Active,X
+X_000484,Hồ Văn Khoa,Nam,1975-10-11 23:42:06.281694,Quảng Bình,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000485,Đinh Thị Quang,Nữ,1997-10-05 23:42:06.281694,Tây Ninh,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000486,Bùi Văn Thắng,Nam,1975-10-11 23:42:06.281694,Hậu Giang,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Kinh doanh,Active,X
+X_000487,Bùi Thị Hải,Nữ,1983-10-09 23:42:06.281694,Hà Tĩnh,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000488,Lê Văn Cường,Nam,1979-10-10 23:42:06.281694,Quảng Trị,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000489,Lê Văn Cường,Nam,1996-10-05 23:42:06.281694,Bình Thuận,Kết hôn,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000490,Lý Văn Nam,Nam,1981-10-09 23:42:06.281694,Hải Dương,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Closed,X
+X_000491,Hoàng Thị Em,Nữ,1975-10-11 23:42:06.281694,Cao Bằng,Độc thân,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Lương,Active,X
+X_000492,Lưu Văn Sơn,Nam,1987-10-08 23:42:06.281694,Quảng Ninh,Độc thân,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Lương,Active,X
+X_000493,Lý Thị Nam,Nữ,1984-10-08 23:42:06.281694,Thừa Thiên Huế,Kết hôn,Việt Nam,Quản lý / chuyên gia,>50 triệu,VND,Đầu tư,Active,X
+X_000494,Nguyễn Thị An,Nữ,1998-10-05 23:42:06.281694,Thái Bình,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000495,Hồ Văn Khoa,Nam,1996-10-05 23:42:06.281694,Bình Định,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+X_000496,Võ Thị Phúc,Nữ,1975-10-11 23:42:06.282746,Quảng Nam,Kết hôn,Việt Nam,Kinh doanh cá thể,>50 triệu,VND,Kinh doanh,Active,X
+X_000497,Nguyễn Minh Tuấn,Nam,2000-10-04 23:42:06.282746,Hà Tĩnh,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Lương,Active,X
+X_000498,Đặng Văn Giang,Nam,2000-10-04 23:42:06.282746,Quảng Trị,Độc thân,Việt Nam,Kinh doanh cá thể,20-50 triệu,VND,Lương,Active,X
+X_000499,Lưu Thị Sơn,Nữ,1977-10-10 23:42:06.282746,Trà Vinh,Độc thân,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Kinh doanh,Active,X
+X_000500,Hoàng Văn Đức,Nam,1978-10-10 23:42:06.282746,Đắk Lắk,Kết hôn,Việt Nam,Quản lý / chuyên gia,20-50 triệu,VND,Đầu tư,Active,X
+Y_000501,Hoàng Thị Linh,Nữ,1978-10-10 23:42:06.282746,Kiên Giang,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000502,Đỗ Văn Hùng,Nam,1985-10-08 23:42:06.282746,Nghệ An,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Lương,Active,Y
+Y_000503,Phan Văn Oanh,Nam,1984-10-08 23:42:06.282746,Bình Thuận,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000504,Vũ Thị Hoa,Nữ,1989-10-07 23:42:06.282746,Cà Mau,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000505,Hoàng Văn Đức,Nam,2001-10-04 23:42:06.282746,Phú Yên,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000506,Vũ Minh Tâm,Nam,1997-10-05 23:42:06.282746,Phú Yên,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000507,Nguyễn Thị Mai,Nữ,1980-10-09 23:42:06.282746,Cao Bằng,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,USD,Lương,Active,Y
+Y_000508,Hồ Thị Trang,Nữ,1996-10-05 23:42:06.282746,Cần Thơ,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000509,Lê Văn Cường,Nam,1988-10-07 23:42:06.282746,Bắc Kạn,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000510,Phan Thị Oanh,Nữ,1982-10-09 23:42:06.282746,Kiên Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000511,Phan Văn Oanh,Nam,1980-10-09 23:42:06.282746,Vĩnh Long,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000512,Lê Văn Cường,Nam,1979-10-10 23:42:06.282746,Thái Nguyên,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000513,Chu Thị Tài,Nữ,1983-10-09 23:42:06.282746,Hà Giang,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000514,Bùi Văn Thắng,Nam,1985-10-08 23:42:06.282746,Thừa Thiên Huế,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,USD,Lương,Active,Y
+Y_000515,Võ Văn Phúc,Nam,2002-10-04 23:42:06.282746,Gia Lai,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Inactive,Y
+Y_000516,Ngô Văn Long,Nam,1979-10-10 23:42:06.282746,Quảng Bình,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000517,Bùi Văn Hải,Nam,1985-10-08 23:42:06.283744,Khánh Hòa,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000518,Ngô Văn Long,Nam,2005-10-03 23:42:06.283744,Thanh Hóa,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000519,Đỗ Minh Khang,Nam,1971-10-12 23:42:06.283744,Thanh Hóa,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000520,Tôn Văn Rồng,Nam,2000-10-04 23:42:06.283744,Hà Nam,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000521,Phạm Thị Dũng,Nữ,1984-10-08 23:42:06.283744,Thái Nguyên,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000522,Bùi Văn Thắng,Nam,1985-10-08 23:42:06.283744,Tuyên Quang,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000523,Hoàng Thị Linh,Nữ,2005-10-03 23:42:06.283744,Hải Phòng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000524,Lê Văn Cường,Nam,1989-10-07 23:42:06.283744,Tiền Giang,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000525,Nguyễn Thị An,Nữ,1994-10-06 23:42:06.283744,Quảng Ngãi,Độc thân,Nước ngoài,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000526,Chu Thị Tài,Nữ,2004-10-03 23:42:06.283744,Cà Mau,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000527,Lê Văn Cường,Nam,1975-10-11 23:42:06.283744,Bình Thuận,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000528,Đỗ Thị Hùng,Nữ,1998-10-05 23:42:06.283744,Cao Bằng,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000529,Trần Thị Lan,Nữ,2003-10-04 23:42:06.283744,Nghệ An,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Inactive,Y
+Y_000530,Tôn Văn Rồng,Nam,1981-10-09 23:42:06.283744,Kiên Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000531,Võ Văn Phúc,Nam,1973-10-11 23:42:06.283744,Lâm Đồng,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Closed,Y
+Y_000532,Chu Thị Tài,Nữ,1993-10-06 23:42:06.283744,Hải Phòng,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000533,Hồ Thị Trang,Nữ,1972-10-11 23:42:06.283744,Yên Bái,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Inactive,Y
+Y_000534,Đặng Văn Giang,Nam,2002-10-04 23:42:06.283744,Bắc Ninh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000535,Đặng Văn Giang,Nam,1990-10-07 23:42:06.283744,Hưng Yên,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000536,Ngô Thị Long,Nữ,1982-10-09 23:42:06.283744,Tây Ninh,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000537,Trần Văn Bình,Nam,1973-10-11 23:42:06.283744,Vĩnh Long,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000538,Lý Văn Nam,Nam,1970-10-12 23:42:06.283744,Đắk Lắk,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000539,Tôn Thị Rồng,Nữ,1980-10-09 23:42:06.284759,Ninh Thuận,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000540,Lê Văn Cường,Nam,1988-10-07 23:42:06.284759,Tuyên Quang,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000541,Lý Văn Nam,Nam,1974-10-11 23:42:06.284759,Hải Dương,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000542,Vũ Thị Phong,Nữ,2000-10-04 23:42:06.284759,Hà Nam,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000543,Hồ Thị Khoa,Nữ,1970-10-12 23:42:06.284759,Đà Nẵng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000544,Vũ Minh Tâm,Nam,1971-10-12 23:42:06.284759,Gia Lai,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Closed,Y
+Y_000545,Vũ Thị Phong,Nữ,1995-10-06 23:42:06.284759,Lào Cai,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000546,Phạm Văn Dũng,Nam,1987-10-08 23:42:06.284759,An Giang,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000547,Hoàng Thị Em,Nữ,1976-10-10 23:42:06.285707,Lâm Đồng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000548,Vũ Thị Hoa,Nữ,1988-10-07 23:42:06.285707,Yên Bái,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000549,Hồ Thị Khoa,Nữ,1980-10-09 23:42:06.285707,Đắk Nông,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000550,Chu Văn Tài,Nam,1991-10-07 23:42:06.285707,Long An,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000551,Hồ Thị Khoa,Nữ,1970-10-12 23:42:06.285707,Lạng Sơn,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000552,Trần Thị Bình,Nữ,1994-10-06 23:42:06.285707,TP. Hồ Chí Minh,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000553,Hồ Văn Khoa,Nam,1978-10-10 23:42:06.285707,Long An,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000554,Ngô Thị Long,Nữ,1991-10-07 23:42:06.286728,Yên Bái,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000555,Đặng Thị Thu,Nữ,1984-10-08 23:42:06.286728,Hải Dương,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000556,Vũ Văn Phong,Nam,1972-10-11 23:42:06.286728,Yên Bái,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000557,Nguyễn Thị Mai,Nữ,1977-10-10 23:42:06.286728,Cần Thơ,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000558,Ngô Thị Long,Nữ,1999-10-05 23:42:06.286728,Thái Nguyên,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000559,Trần Văn Bình,Nam,1976-10-10 23:42:06.286728,Bắc Kạn,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000560,Ngô Thị Long,Nữ,1985-10-08 23:42:06.286728,Hà Tĩnh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Inactive,Y
+Y_000561,Lưu Văn Sơn,Nam,2001-10-04 23:42:06.287694,Gia Lai,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000562,Phạm Thị Nga,Nữ,2003-10-04 23:42:06.287694,Tây Ninh,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000563,Phạm Thị Dũng,Nữ,1971-10-12 23:42:06.287694,Sơn La,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000564,Đặng Thị Giang,Nữ,1985-10-08 23:42:06.287694,Yên Bái,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000565,Đặng Thị Thu,Nữ,1985-10-08 23:42:06.287694,Cần Thơ,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000566,Lưu Văn Sơn,Nam,1996-10-05 23:42:06.287694,An Giang,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000567,Phan Văn Oanh,Nam,1990-10-07 23:42:06.287694,Cần Thơ,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000568,Nguyễn Thị Mai,Nữ,1990-10-07 23:42:06.287694,Hải Phòng,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000569,Bùi Văn Thắng,Nam,1975-10-11 23:42:06.287694,Nam Định,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000570,Phạm Văn Dũng,Nam,2002-10-04 23:42:06.287694,Thái Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000571,Lê Văn Cường,Nam,1991-10-07 23:42:06.287694,Bà Rịa - Vũng Tàu,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000572,Hoàng Văn Đức,Nam,1970-10-12 23:42:06.288692,Tuyên Quang,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000573,Phan Văn Oanh,Nam,1996-10-05 23:42:06.288692,Hà Nội,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000574,Lưu Thị Sơn,Nữ,1974-10-11 23:42:06.288692,Hưng Yên,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000575,Nguyễn Thị An,Nữ,1976-10-10 23:42:06.288692,Đà Nẵng,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Closed,Y
+Y_000576,Phạm Quang Huy,Nam,1988-10-07 23:42:06.288692,Tuyên Quang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000577,Hồ Thị Trang,Nữ,1996-10-05 23:42:06.288692,Đồng Tháp,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000578,Vũ Thị Hoa,Nữ,1972-10-11 23:42:06.288692,Cao Bằng,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000579,Đặng Thị Giang,Nữ,2000-10-04 23:42:06.288692,Đồng Tháp,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000580,Bùi Thị Ngọc,Nữ,1981-10-09 23:42:06.288692,Lai Châu,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000581,Hoàng Văn Đức,Nam,1989-10-07 23:42:06.288692,Bạc Liêu,Kết hôn,Nước ngoài,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000582,Đặng Thị Giang,Nữ,1993-10-06 23:42:06.288692,Tây Ninh,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000583,Vũ Minh Tâm,Nam,1978-10-10 23:42:06.288692,Đồng Tháp,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000584,Ngô Văn Long,Nam,1971-10-12 23:42:06.288692,Lâm Đồng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Inactive,Y
+Y_000585,Dương Thị Minh,Nữ,1990-10-07 23:42:06.288692,Lạng Sơn,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Inactive,Y
+Y_000586,Vũ Thị Phong,Nữ,1972-10-11 23:42:06.289717,Kiên Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Closed,Y
+Y_000587,Đỗ Thị Yến,Nữ,1993-10-06 23:42:06.289717,Kon Tum,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000588,Lê Thị Hương,Nữ,2000-10-04 23:42:06.289717,Phú Thọ,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000589,Đỗ Minh Khang,Nam,1992-10-06 23:42:06.289717,Hà Tĩnh,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Inactive,Y
+Y_000590,Lê Hoàng Nam,Nam,2002-10-04 23:42:06.289717,Đồng Nai,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000591,Đặng Quốc Bảo,Nam,1981-10-09 23:42:06.289717,Lâm Đồng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000592,Bùi Thị Hải,Nữ,1998-10-05 23:42:06.289717,Nghệ An,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000593,Vũ Minh Tâm,Nam,1971-10-12 23:42:06.289717,An Giang,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000594,Bùi Văn Thắng,Nam,1981-10-09 23:42:06.289717,Quảng Trị,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000595,Đinh Thị Quang,Nữ,1973-10-11 23:42:06.289717,Yên Bái,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000596,Hồ Thị Khoa,Nữ,2003-10-04 23:42:06.289717,Khánh Hòa,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,USD,Kinh doanh,Active,Y
+Y_000597,Đinh Thị Quang,Nữ,1984-10-08 23:42:06.289717,Nam Định,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000598,Hoàng Thị Linh,Nữ,1973-10-11 23:42:06.289717,Nghệ An,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000599,Lê Văn Cường,Nam,1994-10-06 23:42:06.289717,Long An,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000600,Hoàng Văn Em,Nam,1985-10-08 23:42:06.289717,Kiên Giang,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000601,Phạm Thị Dũng,Nữ,1989-10-07 23:42:06.289717,Long An,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000602,Bùi Thị Hải,Nữ,1971-10-12 23:42:06.289717,Vĩnh Long,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000603,Đỗ Thị Hùng,Nữ,1987-10-08 23:42:06.289717,Sóc Trăng,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000604,Phạm Văn Dũng,Nam,1980-10-09 23:42:06.289717,Sơn La,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000605,Phạm Văn Dũng,Nam,1979-10-10 23:42:06.289717,Quảng Ngãi,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Inactive,Y
+Y_000606,Hồ Văn Khoa,Nam,1995-10-06 23:42:06.290690,Vĩnh Phúc,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000607,Võ Thị Phúc,Nữ,1972-10-11 23:42:06.290690,Ninh Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000608,Phạm Quang Huy,Nam,2004-10-03 23:42:06.290690,Hà Tĩnh,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000609,Phạm Thị Nga,Nữ,1972-10-11 23:42:06.290690,Đồng Nai,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000610,Hồ Thị Trang,Nữ,2004-10-03 23:42:06.290690,Cao Bằng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000611,Đặng Văn Giang,Nam,1985-10-08 23:42:06.290690,Cao Bằng,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000612,Nguyễn Thị An,Nữ,2003-10-04 23:42:06.290690,Đắk Nông,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000613,Nguyễn Thị An,Nữ,1999-10-05 23:42:06.290690,Phú Thọ,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000614,Tôn Văn Rồng,Nam,2003-10-04 23:42:06.290690,Bắc Kạn,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000615,Đặng Thị Giang,Nữ,1977-10-10 23:42:06.290690,Đắk Nông,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000616,Chu Văn Tài,Nam,1987-10-08 23:42:06.290690,Hải Dương,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000617,Đỗ Văn Hùng,Nam,1973-10-11 23:42:06.290690,Hà Tĩnh,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000618,Lương Văn Uy,Nam,1980-10-09 23:42:06.290690,Bắc Ninh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000619,Lê Văn Cường,Nam,1996-10-05 23:42:06.290690,Vĩnh Phúc,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000620,Hồ Văn Tài,Nam,1982-10-09 23:42:06.290690,Cần Thơ,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000621,Vũ Thị Phong,Nữ,1979-10-10 23:42:06.290690,Quảng Nam,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000622,Trần Thị Lan,Nữ,1997-10-05 23:42:06.290690,Tuyên Quang,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000623,Phạm Quang Huy,Nam,1995-10-06 23:42:06.290690,Quảng Trị,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000624,Ngô Thị Long,Nữ,2001-10-04 23:42:06.290690,Quảng Trị,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Lương,Inactive,Y
+Y_000625,Hoàng Văn Đức,Nam,2002-10-04 23:42:06.291686,Cao Bằng,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000626,Đặng Thị Giang,Nữ,1977-10-10 23:42:06.291686,Hải Dương,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000627,Bùi Văn Thắng,Nam,2000-10-04 23:42:06.291686,Bình Thuận,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000628,Hồ Thị Trang,Nữ,1995-10-06 23:42:06.291686,Quảng Ninh,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000629,Lê Văn Cường,Nam,1986-10-08 23:42:06.291686,Thái Bình,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000630,Trần Thị Lan,Nữ,2001-10-04 23:42:06.291686,Quảng Ngãi,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000631,Đặng Văn Giang,Nam,1983-10-09 23:42:06.291686,Bình Định,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000632,Đỗ Văn Hùng,Nam,1991-10-07 23:42:06.291686,Đắk Nông,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000633,Lý Thị Nam,Nữ,1985-10-08 23:42:06.291686,Phú Thọ,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000634,Hồ Thị Khoa,Nữ,1999-10-05 23:42:06.291686,Yên Bái,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000635,Đặng Quốc Bảo,Nam,1986-10-08 23:42:06.291686,Hậu Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000636,Võ Văn Phúc,Nam,1975-10-11 23:42:06.291686,Tây Ninh,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000637,Lưu Văn Sơn,Nam,1987-10-08 23:42:06.291686,Bắc Kạn,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000638,Hoàng Văn Em,Nam,1992-10-06 23:42:06.291686,Yên Bái,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000639,Nguyễn Thị An,Nữ,2002-10-04 23:42:06.291686,Đồng Tháp,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Inactive,Y
+Y_000640,Nguyễn Thị An,Nữ,1983-10-09 23:42:06.291686,Bến Tre,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Inactive,Y
+Y_000641,Tôn Văn Rồng,Nam,2000-10-04 23:42:06.291686,Hòa Bình,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000642,Vũ Văn Phong,Nam,1978-10-10 23:42:06.291686,Nam Định,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Closed,Y
+Y_000643,Nguyễn Văn An,Nam,1982-10-09 23:42:06.291686,Kiên Giang,Độc thân,Nước ngoài,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000644,Phạm Thị Dũng,Nữ,1995-10-06 23:42:06.291686,Hà Nội,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Closed,Y
+Y_000645,Lê Hoàng Nam,Nam,2003-10-04 23:42:06.292685,Nam Định,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000646,Lê Thị Hương,Nữ,1970-10-12 23:42:06.292685,Thừa Thiên Huế,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000647,Lương Văn Uy,Nam,1990-10-07 23:42:06.292685,Hải Phòng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000648,Trần Thị Lan,Nữ,1986-10-08 23:42:06.292685,Cao Bằng,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000649,Bùi Thị Ngọc,Nữ,1978-10-10 23:42:06.292685,Lâm Đồng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000650,Nguyễn Văn An,Nam,2000-10-04 23:42:06.292685,Bình Định,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000651,Phan Văn Oanh,Nam,1999-10-05 23:42:06.292685,Thái Bình,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000652,Lê Thị Hương,Nữ,1982-10-09 23:42:06.292685,Thái Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Closed,Y
+Y_000653,Lương Văn Uy,Nam,1998-10-05 23:42:06.292685,Ninh Bình,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Inactive,Y
+Y_000654,Đỗ Văn Hùng,Nam,1998-10-05 23:42:06.292685,Đà Nẵng,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000655,Trần Đức Thành,Nam,1985-10-08 23:42:06.292685,Hà Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000656,Đỗ Thị Yến,Nữ,1986-10-08 23:42:06.292685,Hưng Yên,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000657,Lê Văn Cường,Nam,1997-10-05 23:42:06.292685,Bắc Kạn,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000658,Hoàng Thị Em,Nữ,1997-10-05 23:42:06.292685,Đắk Nông,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000659,Đỗ Văn Hùng,Nam,1975-10-11 23:42:06.293693,Tây Ninh,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000660,Ngô Văn Long,Nam,1987-10-08 23:42:06.293693,Quảng Nam,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000661,Võ Văn Phúc,Nam,1988-10-07 23:42:06.293693,Bắc Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000662,Phan Thị Oanh,Nữ,1971-10-12 23:42:06.293693,Hà Giang,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000663,Phan Thị Oanh,Nữ,2005-10-03 23:42:06.293693,Tây Ninh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000664,Lương Thị Uy,Nữ,1986-10-08 23:42:06.293693,Tây Ninh,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000665,Phạm Thị Dũng,Nữ,1971-10-12 23:42:06.293693,Lâm Đồng,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000666,Trần Thị Bình,Nữ,1996-10-05 23:42:06.293693,Hà Nội,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Inactive,Y
+Y_000667,Phan Thị Oanh,Nữ,1986-10-08 23:42:06.293693,Thanh Hóa,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000668,Lương Văn Uy,Nam,1974-10-11 23:42:06.293693,Đắk Nông,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000669,Vũ Văn Phong,Nam,1983-10-09 23:42:06.293693,Tiền Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000670,Trần Văn Bình,Nam,1990-10-07 23:42:06.293693,Quảng Ninh,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,USD,Kinh doanh,Active,Y
+Y_000671,Bùi Thị Hải,Nữ,1993-10-06 23:42:06.293693,Phú Yên,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000672,Chu Văn Tài,Nam,1975-10-11 23:42:06.293693,Sơn La,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Inactive,Y
+Y_000673,Lý Thị Nam,Nữ,1991-10-07 23:42:06.293693,Thái Bình,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Inactive,Y
+Y_000674,Chu Thị Tài,Nữ,1970-10-12 23:42:06.293693,Bến Tre,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000675,Bùi Văn Thắng,Nam,1979-10-10 23:42:06.293693,Bình Phước,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000676,Nguyễn Thị Mai,Nữ,2000-10-04 23:42:06.293693,Nghệ An,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000677,Vũ Minh Tâm,Nam,1983-10-09 23:42:06.293693,Phú Yên,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000678,Phan Thị Oanh,Nữ,2004-10-03 23:42:06.293693,Bình Dương,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000679,Bùi Văn Thắng,Nam,1993-10-06 23:42:06.294687,Kon Tum,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000680,Phạm Văn Dũng,Nam,1997-10-05 23:42:06.294687,Quảng Nam,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000681,Đinh Văn Quang,Nam,2004-10-03 23:42:06.294687,Ninh Thuận,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Inactive,Y
+Y_000682,Chu Văn Tài,Nam,2001-10-04 23:42:06.294687,Thái Nguyên,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000683,Đỗ Văn Hùng,Nam,1980-10-09 23:42:06.294687,Thái Nguyên,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000684,Vũ Thị Phong,Nữ,1999-10-05 23:42:06.294687,Tuyên Quang,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000685,Phạm Văn Dũng,Nam,1971-10-12 23:42:06.294687,Tiền Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000686,Đặng Thị Giang,Nữ,2005-10-03 23:42:06.294687,Kon Tum,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Inactive,Y
+Y_000687,Lưu Văn Sơn,Nam,1978-10-10 23:42:06.294687,Đà Nẵng,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000688,Chu Văn Tài,Nam,2001-10-04 23:42:06.294687,Đắk Nông,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000689,Đặng Thị Thu,Nữ,2001-10-04 23:42:06.294687,Nghệ An,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000690,Lê Hoàng Nam,Nam,1990-10-07 23:42:06.294687,Phú Yên,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000691,Võ Văn Phúc,Nam,1979-10-10 23:42:06.294687,An Giang,Độc thân,Nước ngoài,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000692,Lê Thị Hương,Nữ,1973-10-11 23:42:06.294687,Vĩnh Phúc,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000693,Lê Hoàng Nam,Nam,1985-10-08 23:42:06.294687,Tiền Giang,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000694,Đinh Thị Quang,Nữ,1987-10-08 23:42:06.294687,Hải Dương,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000695,Bùi Văn Hải,Nam,1982-10-09 23:42:06.294687,Bắc Kạn,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Inactive,Y
+Y_000696,Hồ Văn Khoa,Nam,1983-10-09 23:42:06.294687,Quảng Ngãi,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Kinh doanh,Inactive,Y
+Y_000697,Ngô Thị Long,Nữ,1998-10-05 23:42:06.294687,Bến Tre,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000698,Lê Văn Cường,Nam,1971-10-12 23:42:06.294687,Hải Phòng,Độc thân,Nước ngoài,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000699,Vũ Thị Hoa,Nữ,1980-10-09 23:42:06.294687,Sóc Trăng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Inactive,Y
+Y_000700,Bùi Văn Thắng,Nam,1997-10-05 23:42:06.295686,Thanh Hóa,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000701,Vũ Văn Phong,Nam,1972-10-11 23:42:06.295686,Bắc Ninh,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000702,Vũ Thị Phong,Nữ,1987-10-08 23:42:06.295686,Đắk Lắk,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000703,Trần Văn Bình,Nam,1988-10-07 23:42:06.295686,Trà Vinh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000704,Hồ Thị Trang,Nữ,2003-10-04 23:42:06.295686,Thái Bình,Kết hôn,Nước ngoài,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000705,Dương Văn Minh,Nam,1991-10-07 23:42:06.295686,Lào Cai,Độc thân,Nước ngoài,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000706,Phạm Văn Dũng,Nam,1976-10-10 23:42:06.295686,Bến Tre,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000707,Võ Thị Phúc,Nữ,1995-10-06 23:42:06.295686,Sóc Trăng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Lương,Active,Y
+Y_000708,Phan Thị Oanh,Nữ,1991-10-07 23:42:06.295686,Vĩnh Long,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000709,Hồ Văn Khoa,Nam,2005-10-03 23:42:06.295686,Gia Lai,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000710,Phạm Thị Nga,Nữ,2004-10-03 23:42:06.295686,Sóc Trăng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000711,Lý Thị Nam,Nữ,1980-10-09 23:42:06.295686,Phú Thọ,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Inactive,Y
+Y_000712,Vũ Thị Hoa,Nữ,2005-10-03 23:42:06.295686,Hà Tĩnh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000713,Phạm Thị Dũng,Nữ,1978-10-10 23:42:06.295686,Gia Lai,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000714,Dương Văn Minh,Nam,2001-10-04 23:42:06.295686,Bến Tre,Độc thân,Nước ngoài,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000715,Đặng Thị Giang,Nữ,1996-10-05 23:42:06.295686,Thừa Thiên Huế,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000716,Vũ Minh Tâm,Nam,1986-10-08 23:42:06.295686,Hậu Giang,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000717,Hoàng Thị Em,Nữ,2005-10-03 23:42:06.295686,Lai Châu,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000718,Lưu Văn Sơn,Nam,1976-10-10 23:42:06.295686,Bắc Kạn,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000719,Lê Hoàng Nam,Nam,1980-10-09 23:42:06.295686,Trà Vinh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000720,Phan Thị Oanh,Nữ,1986-10-08 23:42:06.295686,Nam Định,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000721,Nguyễn Thị Mai,Nữ,1978-10-10 23:42:06.296687,Bắc Giang,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000722,Ngô Thị Long,Nữ,1998-10-05 23:42:06.296687,Đắk Nông,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Inactive,Y
+Y_000723,Hồ Văn Khoa,Nam,1981-10-09 23:42:06.296687,Bến Tre,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Inactive,Y
+Y_000724,Vũ Thị Hoa,Nữ,2003-10-04 23:42:06.296687,Cần Thơ,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Inactive,Y
+Y_000725,Nguyễn Thị Mai,Nữ,2000-10-04 23:42:06.296687,Hà Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000726,Vũ Minh Tâm,Nam,1987-10-08 23:42:06.296687,Lạng Sơn,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000727,Đinh Văn Quang,Nam,2002-10-04 23:42:06.296687,Cà Mau,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000728,Võ Văn Phúc,Nam,2002-10-04 23:42:06.296687,Vĩnh Long,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Inactive,Y
+Y_000729,Đặng Văn Giang,Nam,1980-10-09 23:42:06.296687,Hòa Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,USD,Lương,Active,Y
+Y_000730,Đỗ Thị Yến,Nữ,2001-10-04 23:42:06.296687,Quảng Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000731,Bùi Thị Hải,Nữ,1992-10-06 23:42:06.296687,Quảng Nam,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000732,Hoàng Thị Em,Nữ,2001-10-04 23:42:06.296687,Sóc Trăng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000733,Nguyễn Minh Tuấn,Nam,1999-10-05 23:42:06.296687,Quảng Ninh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Lương,Active,Y
+Y_000734,Đặng Thị Thu,Nữ,1970-10-12 23:42:06.296687,Tiền Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000735,Hồ Thị Trang,Nữ,2000-10-04 23:42:06.296687,Vĩnh Phúc,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,USD,Lương,Active,Y
+Y_000736,Chu Văn Tài,Nam,1992-10-06 23:42:06.296687,Đắk Lắk,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000737,Đỗ Văn Hùng,Nam,1985-10-08 23:42:06.296687,Gia Lai,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000738,Lưu Thị Sơn,Nữ,1988-10-07 23:42:06.296687,Đà Nẵng,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000739,Trần Văn Bình,Nam,1972-10-11 23:42:06.296687,Quảng Ngãi,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000740,Dương Thị Minh,Nữ,1988-10-07 23:42:06.296687,Hà Nội,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000741,Đặng Văn Giang,Nam,1970-10-12 23:42:06.296687,Lào Cai,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000742,Hoàng Văn Đức,Nam,2003-10-04 23:42:06.296687,Tây Ninh,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Inactive,Y
+Y_000743,Bùi Văn Hải,Nam,1995-10-06 23:42:06.297686,Ninh Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000744,Bùi Thị Hải,Nữ,1987-10-08 23:42:06.297686,Bình Phước,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000745,Dương Thị Minh,Nữ,1988-10-07 23:42:06.297686,TP. Hồ Chí Minh,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000746,Trần Văn Bình,Nam,1975-10-11 23:42:06.297686,Quảng Trị,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000747,Vũ Minh Tâm,Nam,1988-10-07 23:42:06.297686,Cao Bằng,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000748,Đinh Văn Quang,Nam,1979-10-10 23:42:06.297686,Hưng Yên,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000749,Ngô Văn Long,Nam,1985-10-08 23:42:06.297686,Cao Bằng,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000750,Bùi Văn Hải,Nam,2004-10-03 23:42:06.297686,TP. Hồ Chí Minh,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000751,Hoàng Thị Linh,Nữ,1991-10-07 23:42:06.297686,Cà Mau,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000752,Nguyễn Minh Tuấn,Nam,1997-10-05 23:42:06.297686,Đà Nẵng,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000753,Hồ Văn Tài,Nam,1976-10-10 23:42:06.297686,Bình Thuận,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000754,Bùi Thị Ngọc,Nữ,1981-10-09 23:42:06.297686,Hậu Giang,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000755,Đặng Văn Giang,Nam,1973-10-11 23:42:06.297686,Thái Nguyên,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000756,Đặng Thị Thu,Nữ,1985-10-08 23:42:06.297686,Hà Tĩnh,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Closed,Y
+Y_000757,Phạm Quang Huy,Nam,1981-10-09 23:42:06.297686,Lào Cai,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000758,Dương Văn Minh,Nam,1972-10-11 23:42:06.297686,Hà Nam,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Closed,Y
+Y_000759,Hồ Văn Tài,Nam,1976-10-10 23:42:06.297686,Quảng Nam,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000760,Đặng Quốc Bảo,Nam,1983-10-09 23:42:06.297686,An Giang,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,USD,Lương,Active,Y
+Y_000761,Phan Văn Oanh,Nam,1973-10-11 23:42:06.297686,Đà Nẵng,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Inactive,Y
+Y_000762,Phan Thị Oanh,Nữ,1987-10-08 23:42:06.297686,Hải Dương,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Lương,Active,Y
+Y_000763,Đặng Thị Thu,Nữ,1979-10-10 23:42:06.297686,Đồng Nai,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000764,Chu Thị Tài,Nữ,1973-10-11 23:42:06.298688,Hải Phòng,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000765,Hoàng Thị Em,Nữ,1970-10-12 23:42:06.298688,Thái Nguyên,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000766,Vũ Thị Hoa,Nữ,1991-10-07 23:42:06.298688,Trà Vinh,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000767,Phạm Văn Dũng,Nam,1974-10-11 23:42:06.298688,Bến Tre,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Lương,Active,Y
+Y_000768,Hoàng Thị Linh,Nữ,1971-10-12 23:42:06.298688,Sóc Trăng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000769,Phạm Thị Nga,Nữ,1974-10-11 23:42:06.298688,Bắc Kạn,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Closed,Y
+Y_000770,Hồ Văn Tài,Nam,1970-10-12 23:42:06.298688,Đồng Tháp,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000771,Lê Hoàng Nam,Nam,2002-10-04 23:42:06.298688,Quảng Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000772,Phạm Văn Dũng,Nam,2003-10-04 23:42:06.298688,Ninh Bình,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000773,Đỗ Minh Khang,Nam,1996-10-05 23:42:06.298688,Đà Nẵng,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000774,Lưu Thị Sơn,Nữ,1986-10-08 23:42:06.298688,Trà Vinh,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000775,Chu Thị Tài,Nữ,1992-10-06 23:42:06.298688,Đồng Tháp,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000776,Trần Văn Bình,Nam,1987-10-08 23:42:06.298688,Lạng Sơn,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000777,Trần Thị Bình,Nữ,1984-10-08 23:42:06.298688,Hòa Bình,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Inactive,Y
+Y_000778,Phạm Quang Huy,Nam,1975-10-11 23:42:06.298688,Thái Nguyên,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,USD,Lương,Active,Y
+Y_000779,Tôn Thị Rồng,Nữ,1980-10-09 23:42:06.298688,Hà Nam,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Y
+Y_000780,Lê Hoàng Nam,Nam,1997-10-05 23:42:06.298688,Hà Nam,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000781,Trần Văn Bình,Nam,2003-10-04 23:42:06.298688,Bắc Kạn,Kết hôn,Nước ngoài,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000782,Nguyễn Minh Tuấn,Nam,1987-10-08 23:42:06.298688,Bến Tre,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000783,Đặng Văn Giang,Nam,1977-10-10 23:42:06.298688,Lào Cai,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000784,Đặng Quốc Bảo,Nam,1979-10-10 23:42:06.298688,Sơn La,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Inactive,Y
+Y_000785,Tôn Văn Rồng,Nam,2001-10-04 23:42:06.299687,Đồng Tháp,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000786,Trần Đức Thành,Nam,1989-10-07 23:42:06.299687,Tây Ninh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000787,Vũ Thị Phong,Nữ,1985-10-08 23:42:06.299687,Hải Dương,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000788,Nguyễn Thị An,Nữ,1980-10-09 23:42:06.299687,Hưng Yên,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000789,Nguyễn Thị Mai,Nữ,2005-10-03 23:42:06.299687,Hòa Bình,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Lương,Active,Y
+Y_000790,Phan Thị Oanh,Nữ,1986-10-08 23:42:06.299687,Bình Thuận,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Inactive,Y
+Y_000791,Chu Văn Tài,Nam,1974-10-11 23:42:06.299687,Thái Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,USD,Lương,Active,Y
+Y_000792,Lê Văn Cường,Nam,1990-10-07 23:42:06.299687,Kon Tum,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000793,Lý Văn Nam,Nam,1989-10-07 23:42:06.299687,Thái Nguyên,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Inactive,Y
+Y_000794,Đặng Thị Giang,Nữ,1974-10-11 23:42:06.299687,Nam Định,Kết hôn,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000795,Vũ Thị Hoa,Nữ,1999-10-05 23:42:06.299687,Nghệ An,Độc thân,Việt Nam,Nhân viên văn phòng,20-50 triệu,VND,Lương,Active,Y
+Y_000796,Đặng Thị Thu,Nữ,1996-10-05 23:42:06.299687,Bình Thuận,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000797,Bùi Văn Hải,Nam,1978-10-10 23:42:06.299687,Thái Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Active,Y
+Y_000798,Lê Hoàng Nam,Nam,1985-10-08 23:42:06.299687,Lào Cai,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,20-50 triệu,VND,Kinh doanh,Active,Y
+Y_000799,Lý Văn Nam,Nam,1984-10-08 23:42:06.299687,Quảng Nam,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Kinh doanh,Active,Y
+Y_000800,Hoàng Thị Linh,Nữ,1989-10-07 23:42:06.299687,Hòa Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Lương,Inactive,Y
+Z_000801,Đinh Thị Quang,Nữ,2002-10-04 23:42:06.299687,Quảng Ngãi,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000802,Đỗ Minh Khang,Nam,1946-10-18 23:42:06.299687,Đắk Nông,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000803,Vũ Thị Hoa,Nữ,1966-10-13 23:42:06.299687,Nghệ An,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000804,Hoàng Thị Em,Nữ,2004-10-03 23:42:06.299687,Bến Tre,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000805,Lý Văn Nam,Nam,2003-10-04 23:42:06.299687,Đắk Lắk,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Inactive,Z
+Z_000806,Nguyễn Minh Tuấn,Nam,1949-10-17 23:42:06.299687,Quảng Ngãi,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000807,Lý Thị Nam,Nữ,1959-10-15 23:42:06.299687,Nghệ An,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000808,Ngô Thị Long,Nữ,2002-10-04 23:42:06.301047,Nam Định,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000809,Phạm Thị Nga,Nữ,2003-10-04 23:42:06.301047,Tuyên Quang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000810,Đặng Văn Giang,Nam,2003-10-04 23:42:06.301047,Trà Vinh,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000811,Đinh Văn Quang,Nam,1969-10-12 23:42:06.301047,Thanh Hóa,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000812,Hồ Thị Trang,Nữ,2002-10-04 23:42:06.301047,Bình Phước,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,<10 triệu,VND,Lương,Active,Z
+Z_000813,Dương Thị Minh,Nữ,1957-10-15 23:42:06.301047,Đà Nẵng,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000814,Bùi Thị Ngọc,Nữ,2007-10-03 23:42:06.301047,Hậu Giang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000815,Phan Thị Oanh,Nữ,2005-10-03 23:42:06.301047,Bắc Giang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000816,Bùi Thị Ngọc,Nữ,2003-10-04 23:42:06.301047,Khánh Hòa,Độc thân,Việt Nam,Công nhân / lao động phổ thông,<10 triệu,VND,Lương,Active,Z
+Z_000817,Hoàng Văn Em,Nam,2003-10-04 23:42:06.301047,Cà Mau,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000818,Trần Văn Bình,Nam,1964-10-13 23:42:06.301047,Hà Tĩnh,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,USD,Lương,Active,Z
+Z_000819,Lê Hoàng Nam,Nam,2006-10-03 23:42:06.301047,An Giang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000820,Đặng Thị Thu,Nữ,1962-10-14 23:42:06.301047,Bạc Liêu,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Closed,Z
+Z_000821,Hồ Văn Khoa,Nam,1950-10-17 23:42:06.301047,Bạc Liêu,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000822,Lê Hoàng Nam,Nam,2001-10-04 23:42:06.301047,Cao Bằng,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000823,Lê Thị Cường,Nữ,1950-10-17 23:42:06.301047,Nghệ An,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000824,Bùi Văn Thắng,Nam,1945-10-18 23:42:06.302168,Thái Bình,Độc thân,Việt Nam,Nhân viên văn phòng,<10 triệu,VND,Lương,Active,Z
+Z_000825,Chu Thị Tài,Nữ,1970-10-12 23:42:06.302168,Long An,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000826,Đinh Thị Quang,Nữ,1951-10-17 23:42:06.302168,Lâm Đồng,Độc thân,Việt Nam,Công nhân / lao động phổ thông,<10 triệu,VND,Lương,Active,Z
+Z_000827,Hồ Văn Khoa,Nam,2001-10-04 23:42:06.302168,Bạc Liêu,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000828,Phan Văn Oanh,Nam,1965-10-13 23:42:06.302168,Bình Thuận,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,USD,Lương,Active,Z
+Z_000829,Đỗ Văn Hùng,Nam,1965-10-13 23:42:06.302168,Cao Bằng,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000830,Bùi Thị Ngọc,Nữ,2007-10-03 23:42:06.302168,Tiền Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Khác,Inactive,Z
+Z_000831,Lưu Thị Sơn,Nữ,2003-10-04 23:42:06.302168,Hà Tĩnh,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000832,Nguyễn Thị An,Nữ,2002-10-04 23:42:06.302168,An Giang,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000833,Dương Văn Minh,Nam,1955-10-16 23:42:06.302168,Tuyên Quang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000834,Trần Đức Thành,Nam,2003-10-04 23:42:06.302168,Hà Nam,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Z
+Z_000835,Nguyễn Thị Mai,Nữ,2001-10-04 23:42:06.302168,Quảng Bình,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000836,Lý Văn Nam,Nam,1946-10-18 23:42:06.302168,Thái Nguyên,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000837,Đặng Quốc Bảo,Nam,2004-10-03 23:42:06.302168,Bình Thuận,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Closed,Z
+Z_000838,Bùi Văn Hải,Nam,2007-10-03 23:42:06.303165,Hà Nội,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Khác,Inactive,Z
+Z_000839,Dương Thị Minh,Nữ,2006-10-03 23:42:06.303165,Đắk Nông,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000840,Tôn Thị Rồng,Nữ,1954-10-16 23:42:06.303165,Quảng Bình,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000841,Lưu Thị Sơn,Nữ,1965-10-13 23:42:06.303165,Hòa Bình,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Inactive,Z
+Z_000842,Trần Thị Bình,Nữ,2001-10-04 23:42:06.303165,Hưng Yên,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Inactive,Z
+Z_000843,Ngô Thị Long,Nữ,2001-10-04 23:42:06.303165,Khánh Hòa,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000844,Lê Văn Cường,Nam,1951-10-17 23:42:06.303165,Bắc Kạn,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,USD,Khác,Active,Z
+Z_000845,Tôn Văn Rồng,Nam,1956-10-15 23:42:06.303165,Đắk Lắk,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000846,Đinh Thị Quang,Nữ,2005-10-03 23:42:06.304149,Khánh Hòa,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000847,Hoàng Thị Linh,Nữ,1960-10-14 23:42:06.304149,Lào Cai,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000848,Hoàng Thị Linh,Nữ,1949-10-17 23:42:06.304149,Thanh Hóa,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000849,Ngô Thị Long,Nữ,2001-10-04 23:42:06.304149,Ninh Bình,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000850,Hồ Thị Khoa,Nữ,2005-10-03 23:42:06.304149,Quảng Bình,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Lương,Inactive,Z
+Z_000851,Đỗ Văn Hùng,Nam,2007-10-03 23:42:06.304149,Đắk Lắk,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,USD,Khác,Active,Z
+Z_000852,Phạm Thị Nga,Nữ,1962-10-14 23:42:06.304149,Đà Nẵng,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000853,Hồ Văn Tài,Nam,2005-10-03 23:42:06.304149,Lai Châu,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Khác,Active,Z
+Z_000854,Phan Văn Oanh,Nam,1960-10-14 23:42:06.304149,Ninh Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,<10 triệu,VND,Lương,Active,Z
+Z_000855,Phan Thị Oanh,Nữ,1958-10-15 23:42:06.304149,Đồng Nai,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Inactive,Z
+Z_000856,Đinh Thị Quang,Nữ,1963-10-14 23:42:06.304149,Đồng Tháp,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000857,Lê Thị Cường,Nữ,2004-10-03 23:42:06.305142,Ninh Thuận,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Inactive,Z
+Z_000858,Hoàng Thị Linh,Nữ,1959-10-15 23:42:06.305142,Nghệ An,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000859,Dương Thị Minh,Nữ,2005-10-03 23:42:06.305142,Tây Ninh,Kết hôn,Việt Nam,Nhân viên văn phòng,<10 triệu,USD,Khác,Active,Z
+Z_000860,Ngô Thị Long,Nữ,2006-10-03 23:42:06.305142,Bắc Ninh,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000861,Đặng Văn Giang,Nam,1947-10-18 23:42:06.305142,Vĩnh Phúc,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000862,Võ Văn Phúc,Nam,2002-10-04 23:42:06.305142,Tây Ninh,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Inactive,Z
+Z_000863,Phạm Văn Dũng,Nam,1950-10-17 23:42:06.305142,Bến Tre,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000864,Đỗ Minh Khang,Nam,2004-10-03 23:42:06.305142,Điện Biên,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000865,Hồ Thị Trang,Nữ,2004-10-03 23:42:06.305142,Vĩnh Long,Kết hôn,Việt Nam,Nhân viên văn phòng,<10 triệu,VND,Lương,Active,Z
+Z_000866,Vũ Văn Phong,Nam,1953-10-16 23:42:06.306144,Bình Định,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000867,Phạm Thị Nga,Nữ,2003-10-04 23:42:06.306144,Kiên Giang,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000868,Tôn Thị Rồng,Nữ,1956-10-15 23:42:06.306144,Hải Dương,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000869,Vũ Thị Phong,Nữ,1967-10-13 23:42:06.306144,Tây Ninh,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Lương,Active,Z
+Z_000870,Đinh Thị Quang,Nữ,1968-10-12 23:42:06.306144,Bình Dương,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000871,Trần Văn Bình,Nam,1957-10-15 23:42:06.306144,Yên Bái,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000872,Chu Thị Tài,Nữ,1970-10-12 23:42:06.306144,Phú Thọ,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000873,Bùi Văn Thắng,Nam,1963-10-14 23:42:06.306144,Ninh Thuận,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000874,Đặng Thị Thu,Nữ,2003-10-04 23:42:06.306144,Long An,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000875,Đặng Quốc Bảo,Nam,2006-10-03 23:42:06.306144,Quảng Ngãi,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000876,Bùi Văn Thắng,Nam,2004-10-03 23:42:06.307142,Đắk Nông,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,USD,Khác,Active,Z
+Z_000877,Hoàng Văn Đức,Nam,2001-10-04 23:42:06.307142,Nam Định,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000878,Hoàng Thị Em,Nữ,1964-10-13 23:42:06.307142,Hà Nội,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000879,Nguyễn Thị An,Nữ,2006-10-03 23:42:06.307142,Bình Phước,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000880,Đặng Văn Giang,Nam,1956-10-15 23:42:06.307142,Bến Tre,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000881,Bùi Văn Thắng,Nam,2005-10-03 23:42:06.307142,Cần Thơ,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000882,Đỗ Văn Hùng,Nam,2007-10-03 23:42:06.307142,Tây Ninh,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000883,Tôn Thị Rồng,Nữ,2001-10-04 23:42:06.307142,Hậu Giang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000884,Hồ Văn Tài,Nam,2001-10-04 23:42:06.307142,Hòa Bình,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Closed,Z
+Z_000885,Lê Thị Cường,Nữ,1970-10-12 23:42:06.308141,Hà Giang,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000886,Tôn Thị Rồng,Nữ,2002-10-04 23:42:06.308141,Gia Lai,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000887,Bùi Thị Ngọc,Nữ,1950-10-17 23:42:06.308141,Long An,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000888,Hoàng Văn Em,Nam,1963-10-14 23:42:06.308141,Khánh Hòa,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000889,Lưu Văn Sơn,Nam,1949-10-17 23:42:06.308141,Hà Nội,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000890,Hoàng Thị Linh,Nữ,1957-10-15 23:42:06.308141,Đắk Nông,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000891,Lưu Văn Sơn,Nam,1970-10-12 23:42:06.308141,Kon Tum,Độc thân,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Khác,Active,Z
+Z_000892,Đỗ Minh Khang,Nam,1958-10-15 23:42:06.308141,Cần Thơ,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000893,Phan Văn Oanh,Nam,2005-10-03 23:42:06.308141,Sóc Trăng,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000894,Võ Văn Phúc,Nam,2007-10-03 23:42:06.308141,Bình Thuận,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000895,Nguyễn Minh Tuấn,Nam,1947-10-18 23:42:06.308141,Hải Phòng,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,USD,Lương,Inactive,Z
+Z_000896,Võ Thị Phúc,Nữ,1949-10-17 23:42:06.308141,Cà Mau,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000897,Nguyễn Thị Mai,Nữ,1954-10-16 23:42:06.308141,Đồng Nai,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000898,Phạm Thị Nga,Nữ,1964-10-13 23:42:06.308141,Quảng Ngãi,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Khác,Active,Z
+Z_000899,Hoàng Thị Linh,Nữ,2002-10-04 23:42:06.308141,Nam Định,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000900,Bùi Văn Thắng,Nam,2002-10-04 23:42:06.308141,Lạng Sơn,Kết hôn,Việt Nam,Nhân viên văn phòng,<10 triệu,VND,Khác,Active,Z
+Z_000901,Đặng Văn Giang,Nam,1953-10-16 23:42:06.308141,Kon Tum,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000902,Bùi Văn Thắng,Nam,2005-10-03 23:42:06.308141,Hà Tĩnh,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000903,Hồ Thị Trang,Nữ,1949-10-17 23:42:06.308141,Quảng Bình,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000904,Nguyễn Minh Tuấn,Nam,1945-10-18 23:42:06.308141,Lai Châu,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000905,Nguyễn Minh Tuấn,Nam,1956-10-15 23:42:06.308141,Bình Phước,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000906,Đặng Thị Thu,Nữ,2003-10-04 23:42:06.308141,An Giang,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Closed,Z
+Z_000907,Đặng Văn Giang,Nam,2004-10-03 23:42:06.309169,Quảng Ninh,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,<10 triệu,VND,Lương,Active,Z
+Z_000908,Phạm Thị Dũng,Nữ,1959-10-15 23:42:06.309169,Sóc Trăng,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Inactive,Z
+Z_000909,Hồ Thị Trang,Nữ,1951-10-17 23:42:06.309169,Vĩnh Phúc,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000910,Tôn Thị Rồng,Nữ,1946-10-18 23:42:06.309169,Cần Thơ,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000911,Đặng Thị Giang,Nữ,1965-10-13 23:42:06.309169,Bạc Liêu,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Khác,Active,Z
+Z_000912,Hồ Thị Khoa,Nữ,1959-10-15 23:42:06.309169,Quảng Nam,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000913,Đặng Văn Giang,Nam,2004-10-03 23:42:06.309169,Điện Biên,Độc thân,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Khác,Active,Z
+Z_000914,Trần Thị Lan,Nữ,2002-10-04 23:42:06.309169,Hà Nam,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000915,Dương Văn Minh,Nam,1967-10-13 23:42:06.309169,Hưng Yên,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000916,Hoàng Thị Linh,Nữ,2006-10-03 23:42:06.309169,Kon Tum,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Khác,Active,Z
+Z_000917,Đinh Thị Quang,Nữ,1955-10-16 23:42:06.309169,Tây Ninh,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000918,Trần Văn Bình,Nam,1951-10-17 23:42:06.309169,Vĩnh Phúc,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000919,Hồ Thị Khoa,Nữ,2003-10-04 23:42:06.309169,An Giang,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000920,Hồ Văn Khoa,Nam,2001-10-04 23:42:06.309169,Quảng Nam,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000921,Hồ Thị Trang,Nữ,2003-10-04 23:42:06.309169,Thái Nguyên,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,USD,Khác,Inactive,Z
+Z_000922,Nguyễn Minh Tuấn,Nam,2004-10-03 23:42:06.309169,Hòa Bình,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000923,Võ Thị Phúc,Nữ,1957-10-15 23:42:06.309169,Vĩnh Phúc,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000924,Nguyễn Thị An,Nữ,1960-10-14 23:42:06.309169,Lai Châu,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000925,Phạm Quang Huy,Nam,1952-10-16 23:42:06.309169,Đắk Nông,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000926,Đặng Thị Giang,Nữ,1968-10-12 23:42:06.310167,Hải Dương,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Closed,Z
+Z_000927,Dương Văn Minh,Nam,2001-10-04 23:42:06.310167,Đắk Lắk,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Closed,Z
+Z_000928,Đỗ Minh Khang,Nam,1961-10-14 23:42:06.310167,Hà Giang,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000929,Lương Thị Uy,Nữ,1967-10-13 23:42:06.310167,Cao Bằng,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Inactive,Z
+Z_000930,Hồ Văn Khoa,Nam,1957-10-15 23:42:06.310167,Bắc Kạn,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Closed,Z
+Z_000931,Phạm Thị Nga,Nữ,1958-10-15 23:42:06.310167,Hà Tĩnh,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000932,Nguyễn Văn An,Nam,2005-10-03 23:42:06.310167,Bắc Kạn,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,USD,Khác,Active,Z
+Z_000933,Đỗ Thị Yến,Nữ,2007-10-03 23:42:06.310167,Phú Yên,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000934,Tôn Văn Rồng,Nam,2001-10-04 23:42:06.310167,Lâm Đồng,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000935,Bùi Văn Thắng,Nam,1963-10-14 23:42:06.310167,Nam Định,Độc thân,Việt Nam,Công nhân / lao động phổ thông,<10 triệu,VND,Khác,Active,Z
+Z_000936,Nguyễn Minh Tuấn,Nam,2005-10-03 23:42:06.310167,Đắk Nông,Độc thân,Việt Nam,Nhân viên văn phòng,<10 triệu,VND,Lương,Active,Z
+Z_000937,Lý Thị Nam,Nữ,1970-10-12 23:42:06.310167,Bắc Ninh,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000938,Đỗ Minh Khang,Nam,2005-10-03 23:42:06.310167,Yên Bái,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000939,Dương Thị Minh,Nữ,2005-10-03 23:42:06.311167,Quảng Ngãi,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000940,Vũ Thị Hoa,Nữ,1970-10-12 23:42:06.311167,Gia Lai,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000941,Phạm Thị Nga,Nữ,1948-10-17 23:42:06.311167,Thái Bình,Độc thân,Việt Nam,Công nhân / lao động phổ thông,<10 triệu,VND,Lương,Closed,Z
+Z_000942,Ngô Thị Long,Nữ,1950-10-17 23:42:06.311167,Bình Thuận,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000943,Hồ Văn Khoa,Nam,2001-10-04 23:42:06.311167,Vĩnh Phúc,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000944,Nguyễn Minh Tuấn,Nam,2006-10-03 23:42:06.311167,Thái Nguyên,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000945,Dương Thị Minh,Nữ,2003-10-04 23:42:06.311167,Hà Nội,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000946,Lý Thị Nam,Nữ,1955-10-16 23:42:06.311167,Ninh Thuận,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,USD,Khác,Active,Z
+Z_000947,Dương Thị Minh,Nữ,1955-10-16 23:42:06.311167,Hòa Bình,Kết hôn,Nước ngoài,Nhân viên văn phòng,<10 triệu,VND,Lương,Inactive,Z
+Z_000948,Lê Thị Hương,Nữ,1963-10-14 23:42:06.311167,Hải Dương,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000949,Nguyễn Thị An,Nữ,2006-10-03 23:42:06.311167,Bến Tre,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000950,Trần Thị Bình,Nữ,2001-10-04 23:42:06.311167,Lào Cai,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000951,Ngô Văn Long,Nam,2002-10-04 23:42:06.311167,Ninh Thuận,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000952,Hồ Thị Khoa,Nữ,2001-10-04 23:42:06.311167,Quảng Nam,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000953,Trần Thị Lan,Nữ,1950-10-17 23:42:06.311167,Cà Mau,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Closed,Z
+Z_000954,Hồ Thị Khoa,Nữ,1962-10-14 23:42:06.311167,Bến Tre,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000955,Nguyễn Thị Mai,Nữ,2003-10-04 23:42:06.311167,Kon Tum,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Inactive,Z
+Z_000956,Lương Thị Uy,Nữ,2007-10-03 23:42:06.311167,Ninh Bình,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000957,Đặng Thị Giang,Nữ,1951-10-17 23:42:06.311167,Tây Ninh,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000958,Nguyễn Minh Tuấn,Nam,1966-10-13 23:42:06.311167,Quảng Ninh,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000959,Phan Thị Oanh,Nữ,2005-10-03 23:42:06.311167,Thanh Hóa,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000960,Phạm Thị Nga,Nữ,1967-10-13 23:42:06.312153,Bình Phước,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000961,Đinh Thị Quang,Nữ,2001-10-04 23:42:06.312153,Bến Tre,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000962,Đỗ Văn Hùng,Nam,2002-10-04 23:42:06.312153,Đồng Nai,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000963,Bùi Văn Hải,Nam,1953-10-16 23:42:06.312153,Quảng Ninh,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000964,Phạm Thị Dũng,Nữ,1960-10-14 23:42:06.312153,Hậu Giang,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000965,Lê Thị Cường,Nữ,2004-10-03 23:42:06.312153,Quảng Trị,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000966,Vũ Thị Hoa,Nữ,2002-10-04 23:42:06.312153,Hà Giang,Kết hôn,Nước ngoài,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000967,Đinh Thị Quang,Nữ,2003-10-04 23:42:06.312153,Khánh Hòa,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Inactive,Z
+Z_000968,Nguyễn Văn An,Nam,2002-10-04 23:42:06.312153,Nghệ An,Độc thân,Nước ngoài,Nhân viên văn phòng,10-20 triệu,VND,Lương,Inactive,Z
+Z_000969,Ngô Thị Long,Nữ,1947-10-18 23:42:06.312153,Đắk Lắk,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000970,Tôn Thị Rồng,Nữ,1948-10-17 23:42:06.312153,Bến Tre,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000971,Hồ Thị Trang,Nữ,1968-10-12 23:42:06.312153,Bà Rịa - Vũng Tàu,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000972,Đặng Văn Giang,Nam,2004-10-03 23:42:06.312153,Hà Nam,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000973,Vũ Thị Hoa,Nữ,1955-10-16 23:42:06.312153,Hà Nam,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,10-20 triệu,VND,Khác,Active,Z
+Z_000974,Hoàng Văn Em,Nam,2006-10-03 23:42:06.312153,Sơn La,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000975,Đỗ Văn Hùng,Nam,1956-10-15 23:42:06.312153,Tiền Giang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000976,Phan Văn Oanh,Nam,1965-10-13 23:42:06.312153,Tiền Giang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000977,Lê Thị Hương,Nữ,2004-10-03 23:42:06.312153,Gia Lai,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000978,Đặng Thị Thu,Nữ,2006-10-03 23:42:06.312153,Đồng Nai,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000979,Bùi Thị Ngọc,Nữ,2007-10-03 23:42:06.312153,Hà Tĩnh,Kết hôn,Việt Nam,Nhân viên văn phòng,<10 triệu,VND,Lương,Inactive,Z
+Z_000980,Tôn Thị Rồng,Nữ,2002-10-04 23:42:06.312153,Bắc Giang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000981,Nguyễn Thị An,Nữ,2004-10-03 23:42:06.313152,Bắc Kạn,Độc thân,Việt Nam,Nhân viên văn phòng,<10 triệu,VND,Lương,Active,Z
+Z_000982,Hồ Văn Khoa,Nam,2005-10-03 23:42:06.313152,Bạc Liêu,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000983,Lê Thị Cường,Nữ,2005-10-03 23:42:06.313152,Kiên Giang,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000984,Hồ Thị Khoa,Nữ,2006-10-03 23:42:06.313152,Sóc Trăng,Kết hôn,Việt Nam,Nhân viên văn phòng,10-20 triệu,VND,Lương,Active,Z
+Z_000985,Lương Văn Uy,Nam,2001-10-04 23:42:06.313152,Lào Cai,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Active,Z
+Z_000986,Đinh Văn Quang,Nam,1967-10-13 23:42:06.313152,Nghệ An,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,USD,Khác,Active,Z
+Z_000987,Bùi Thị Hải,Nữ,1958-10-15 23:42:06.313152,Tiền Giang,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000988,Võ Thị Phúc,Nữ,2001-10-04 23:42:06.313152,Vĩnh Long,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000989,Vũ Thị Hoa,Nữ,2001-10-04 23:42:06.313152,Đà Nẵng,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000990,Chu Văn Tài,Nam,1961-10-14 23:42:06.313152,Quảng Trị,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Active,Z
+Z_000991,Đặng Văn Giang,Nam,1947-10-18 23:42:06.313152,Nghệ An,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Khác,Inactive,Z
+Z_000992,Đặng Văn Giang,Nam,1952-10-16 23:42:06.313152,Sơn La,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000993,Dương Thị Minh,Nữ,1948-10-17 23:42:06.313152,Lai Châu,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000994,Võ Văn Phúc,Nam,2005-10-03 23:42:06.313152,Hưng Yên,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Inactive,Z
+Z_000995,Hồ Thị Khoa,Nữ,2007-10-03 23:42:06.313152,Kiên Giang,Kết hôn,Việt Nam,Công nhân / lao động phổ thông,<10 triệu,VND,Khác,Closed,Z
+Z_000996,Trần Thị Lan,Nữ,2002-10-04 23:42:06.313152,Bạc Liêu,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Inactive,Z
+Z_000997,Đặng Quốc Bảo,Nam,1951-10-17 23:42:06.313152,Lạng Sơn,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_000998,Tôn Văn Rồng,Nam,2003-10-04 23:42:06.313152,Hưng Yên,Kết hôn,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Lương,Active,Z
+Z_000999,Hoàng Thị Linh,Nữ,1967-10-13 23:42:06.313152,Thái Bình,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",<10 triệu,VND,Lương,Active,Z
+Z_001000,Nguyễn Thị Mai,Nữ,1952-10-16 23:42:06.314158,Điện Biên,Độc thân,Việt Nam,"Khác (sinh viên, nội trợ…)",10-20 triệu,VND,Khác,Inactive,Z

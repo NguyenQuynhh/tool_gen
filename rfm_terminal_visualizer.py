@@ -105,36 +105,42 @@ class RFMTerminalVisualizer:
         print("="*60)
     
     def show_rfm_overview(self):
-        """Show RFM overview"""
-        print("\n📊 RFM OVERVIEW")
-        print("-" * 40)
+        """Show RFM overview với logic mới"""
+        print("\n📊 RFM OVERVIEW - NEW LOGIC")
+        print("-" * 50)
         
         if self.rfm_data is None:
             print("❌ No RFM data available. Please calculate RFM first.")
             return
         
         # Overall statistics
-        print(f"Total Customers: {len(self.rfm_data):,}")
-        print(f"Total Transactions: {len(self.transactions_df):,}")
-        print(f"Total Accounts: {len(self.accounts_df):,}")
+        print(f"📈 Total Customers: {len(self.rfm_data):,}")
+        print(f"📈 Total Transactions: {len(self.transactions_df):,}")
+        print(f"📈 Total Accounts: {len(self.accounts_df):,}")
         
-        # RFM statistics
-        print(f"\n📈 RFM Statistics:")
-        print(f"Recency - Min: {self.rfm_data['recency'].min():.0f} days, Max: {self.rfm_data['recency'].max():.0f} days, Avg: {self.rfm_data['recency'].mean():.1f} days")
-        print(f"Frequency - Min: {self.rfm_data['frequency'].min():.1f}, Max: {self.rfm_data['frequency'].max():.1f}, Avg: {self.rfm_data['frequency'].mean():.1f}")
-        print(f"Monetary - Min: {self.rfm_data['monetary'].min():,.0f}, Max: {self.rfm_data['monetary'].max():,.0f}, Avg: {self.rfm_data['monetary'].mean():,.0f}")
-        
-        # Segment distribution
-        print(f"\n👥 Segment Distribution:")
+        # Segment distribution với logic mới
+        print(f"\n🎯 Segment Distribution (NEW LOGIC):")
         segment_counts = self.rfm_data['segment'].value_counts()
         for segment, count in segment_counts.items():
             percentage = (count / len(self.rfm_data)) * 100
-            print(f"  {segment}: {count:,} ({percentage:.1f}%)")
+            segment_name = {'X': 'VIP (50%)', 'Y': 'MEDIUM (30%)', 'Z': 'LOW (20%)'}.get(segment, segment)
+            print(f"  {segment} ({segment_name}): {count:,} ({percentage:.1f}%)")
+        
+        # RFM statistics by segment
+        print(f"\n📊 RFM Statistics by Segment:")
+        for segment in ['X', 'Y', 'Z']:
+            segment_data = self.rfm_data[self.rfm_data['segment'] == segment]
+            if len(segment_data) > 0:
+                segment_name = {'X': 'VIP', 'Y': 'MEDIUM', 'Z': 'LOW'}.get(segment, segment)
+                print(f"\n  {segment} ({segment_name}) - {len(segment_data)} customers:")
+                print(f"    Recency: Min={segment_data['recency'].min():.0f}, Max={segment_data['recency'].max():.0f}, Mean={segment_data['recency'].mean():.1f} days")
+                print(f"    Frequency: Min={segment_data['frequency'].min():.1f}, Max={segment_data['frequency'].max():.1f}, Mean={segment_data['frequency'].mean():.1f} per month")
+                print(f"    Monetary: Min={segment_data['monetary'].min():,.0f}, Max={segment_data['monetary'].max():,.0f}, Mean={segment_data['monetary'].mean():,.0f} VND")
     
     def show_segment_analysis(self):
-        """Show segment analysis"""
-        print("\n📈 SEGMENT ANALYSIS")
-        print("-" * 40)
+        """Show segment analysis với logic mới"""
+        print("\n📈 SEGMENT ANALYSIS - NEW LOGIC")
+        print("-" * 50)
         
         if self.rfm_data is None:
             print("❌ No RFM data available. Please calculate RFM first.")
@@ -145,25 +151,29 @@ class RFMTerminalVisualizer:
             if len(segment_data) == 0:
                 continue
             
-            print(f"\n🎯 Segment {segment} ({len(segment_data)} customers):")
+            segment_name = {'X': 'VIP (50%)', 'Y': 'MEDIUM (30%)', 'Z': 'LOW (20%)'}.get(segment, segment)
+            print(f"\n🎯 Segment {segment} ({segment_name}) - {len(segment_data)} customers:")
             print(f"  Recency: {segment_data['recency'].mean():.1f} days (avg)")
             print(f"  Frequency: {segment_data['frequency'].mean():.1f} transactions/month")
             print(f"  Monetary: {segment_data['monetary'].mean():,.0f} VND (avg)")
             print(f"  Total Amount: {segment_data['total_amount'].sum():,.0f} VND")
             
-            # RFM compliance check
-            if segment == 'X':
+            # RFM compliance check với logic mới
+            if segment == 'X':  # VIP - 50%
                 recency_compliant = (segment_data['recency'] <= 30).sum()
                 frequency_compliant = ((segment_data['frequency'] >= 6) & (segment_data['frequency'] <= 8)).sum()
                 monetary_compliant = (segment_data['monetary'] >= 50_000_000).sum()
-            elif segment == 'Y':
+                print(f"  Target: Recent (≤30d), High freq (6-8/month), High amount (≥50M VND)")
+            elif segment == 'Y':  # MEDIUM - 30%
                 recency_compliant = ((segment_data['recency'] >= 60) & (segment_data['recency'] <= 180)).sum()
                 frequency_compliant = ((segment_data['frequency'] >= 3) & (segment_data['frequency'] <= 4)).sum()
                 monetary_compliant = (segment_data['monetary'] >= 30_000_000).sum()
-            else:  # Z
+                print(f"  Target: Medium recent (60-180d), Medium freq (3-4/month), Medium amount (≥30M VND)")
+            else:  # Z - LOW - 20%
                 recency_compliant = (segment_data['recency'] > 180).sum()
                 frequency_compliant = ((segment_data['frequency'] >= 2) & (segment_data['frequency'] <= 3)).sum()
                 monetary_compliant = ((segment_data['monetary'] >= 5_000_000) & (segment_data['monetary'] <= 20_000_000)).sum()
+                print(f"  Target: Old (>180d), Low freq (2-3/month), Low amount (5-20M VND)")
             
             print(f"  Compliance:")
             print(f"    Recency: {recency_compliant}/{len(segment_data)} ({recency_compliant/len(segment_data)*100:.1f}%)")
@@ -605,12 +615,12 @@ class RFMTerminalVisualizer:
 
 def main():
     """Main function"""
-    parser = argparse.ArgumentParser(description='RFM Terminal Visualizer')
-    parser.add_argument('--transactions', default='output/rfm_fixed_banking_data_transactions.csv',
+    parser = argparse.ArgumentParser(description='RFM Terminal Visualizer - NEW LOGIC')
+    parser.add_argument('--transactions', default='output/banking_data_transactions.csv',
                        help='Path to transactions CSV file')
-    parser.add_argument('--accounts', default='output/rfm_fixed_banking_data_accounts.csv',
+    parser.add_argument('--accounts', default='output/banking_data_accounts.csv',
                        help='Path to accounts CSV file')
-    parser.add_argument('--customers', default='output/rfm_fixed_banking_data_customers.csv',
+    parser.add_argument('--customers', default='output/banking_data_customers.csv',
                        help='Path to customers CSV file')
     
     args = parser.parse_args()
