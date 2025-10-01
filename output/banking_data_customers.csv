@@ -1,0 +1,1001 @@
+customer_code,full_name,gender,dob,city,marital_status,nationality,occupation,income_range,income_currency,source_of_income,status,customer_segment
+A_000001,Ho Van Tai,Nam,1988-10-08 16:33:08.334048,Nghe An,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Luong cao cap,Active,A
+A_000002,Tran Thi Binh,Nữ,1995-10-07 16:33:08.334048,Ba Ria - Vung Tau,Độc thân,Việt Nam,Chu doanh nghiep,100-200 trieu,VND,Dau tu,Active,A
+A_000003,Tran Thi Lan,Nữ,1975-10-12 16:33:08.334048,Hai Phong,Độc thân,Việt Nam,Giam doc,>200 trieu,VND,Kinh doanh,Inactive,A
+A_000004,Ho Van Khoa,Nam,1993-10-07 16:33:08.334048,TP. Ho Chi Minh,Kết hôn,Việt Nam,Giam doc,50-100 trieu,VND,Kinh doanh,Active,A
+A_000005,Do Minh Khang,Nam,1989-10-08 16:33:08.334048,Lam Dong,Độc thân,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Kinh doanh,Active,A
+A_000006,Dang Quoc Bao,Nam,1975-10-12 16:33:08.334048,TP. Ho Chi Minh,Độc thân,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Kinh doanh,Active,A
+A_000007,Ton Thi Rong,Nữ,1981-10-10 16:33:08.334048,Hai Phong,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Kinh doanh,Active,A
+A_000008,Nguyen Thi Mai,Nữ,1980-10-10 16:33:08.334048,Hai Phong,Kết hôn,Việt Nam,Giam doc,>200 trieu,VND,Kinh doanh,Active,A
+A_000009,Vo Thi Phuc,Nữ,1986-10-09 16:33:08.334048,Ha Noi,Kết hôn,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Dau tu,Active,A
+A_000010,Bui Van Hai,Nam,1995-10-07 16:33:08.334048,Phu Yen,Kết hôn,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Kinh doanh,Active,A
+A_000011,Ly Thi Nam,Nữ,1989-10-08 16:33:08.334048,Ha Noi,Kết hôn,Việt Nam,Chu doanh nghiep,100-200 trieu,VND,Dau tu,Inactive,A
+A_000012,Bui Van Thang,Nam,1990-10-08 16:33:08.334048,Dong Nai,Độc thân,Việt Nam,Quan ly cap cao,>200 trieu,VND,Kinh doanh,Inactive,A
+A_000013,Dinh Van Quang,Nam,1979-10-11 16:33:08.334048,Bac Kan,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,USD,Dau tu,Active,A
+A_000014,Nguyen Van An,Nam,1976-10-11 16:33:08.334048,Quang Ninh,Độc thân,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Kinh doanh,Active,A
+A_000015,Bui Van Thang,Nam,1978-10-11 16:33:08.334048,Thua Thien Hue,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Dau tu,Active,A
+A_000016,Ly Thi Nam,Nữ,1975-10-12 16:33:08.334048,Ha Noi,Kết hôn,Việt Nam,Chu doanh nghiep,50-100 trieu,VND,Kinh doanh,Active,A
+A_000017,Nguyen Van An,Nam,1994-10-07 16:33:08.334048,Ha Noi,Độc thân,Việt Nam,Chu doanh nghiep,>200 trieu,VND,Kinh doanh,Active,A
+A_000018,Le Van Cuong,Nam,1978-10-11 16:33:08.334048,Ben Tre,Độc thân,Việt Nam,Giam doc,>200 trieu,VND,Dau tu,Closed,A
+A_000019,Ly Van Nam,Nam,1986-10-09 16:33:08.334048,Da Nang,Kết hôn,Việt Nam,Chu doanh nghiep,100-200 trieu,VND,Dau tu,Active,A
+A_000020,Dang Van Giang,Nam,1983-10-10 16:33:08.334048,Can Tho,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Dau tu,Active,A
+A_000021,Dang Quoc Bao,Nam,1992-10-07 16:33:08.334048,Hai Phong,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Kinh doanh,Inactive,A
+A_000022,Dang Van Giang,Nam,1975-10-12 16:33:08.334048,TP. Ho Chi Minh,Kết hôn,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Dau tu,Active,A
+A_000023,Dinh Thi Quang,Nữ,1988-10-08 16:33:08.334048,Da Nang,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Luong cao cap,Inactive,A
+A_000024,Ton Thi Rong,Nữ,1975-10-12 16:33:08.334048,Can Tho,Kết hôn,Việt Nam,Chu doanh nghiep,>200 trieu,VND,Dau tu,Active,A
+A_000025,Ly Thi Nam,Nữ,1975-10-12 16:33:08.334048,Thanh Hoa,Kết hôn,Việt Nam,Giam doc,50-100 trieu,VND,Dau tu,Active,A
+A_000026,Vu Thi Hoa,Nữ,1977-10-11 16:33:08.334048,Quang Ninh,Độc thân,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Luong cao cap,Active,A
+A_000027,Ly Van Nam,Nam,1975-10-12 16:33:08.334048,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Dau tu,Active,A
+A_000028,Ho Van Khoa,Nam,1977-10-11 16:33:08.334048,TP. Ho Chi Minh,Kết hôn,Việt Nam,Chuyen gia cao cap,50-100 trieu,USD,Dau tu,Active,A
+A_000029,Dinh Van Quang,Nam,1975-10-12 16:33:08.334048,Ha Noi,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Luong cao cap,Inactive,A
+A_000030,Bui Thi Hai,Nữ,1983-10-10 16:33:08.334048,Da Nang,Độc thân,Việt Nam,Quan ly cap cao,>200 trieu,VND,Kinh doanh,Active,A
+A_000031,Ho Thi Trang,Nữ,1988-10-08 16:33:08.334048,Lai Chau,Độc thân,Việt Nam,Quan ly cap cao,>200 trieu,VND,Dau tu,Active,A
+A_000032,Tran Thi Lan,Nữ,1985-10-09 16:33:08.334048,Binh Duong,Kết hôn,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Luong cao cap,Active,A
+A_000033,Ho Thi Trang,Nữ,1984-10-09 16:33:08.334048,Thanh Hoa,Kết hôn,Việt Nam,Giam doc,>200 trieu,VND,Kinh doanh,Inactive,A
+A_000034,Vu Thi Hoa,Nữ,1990-10-08 16:33:08.334048,Da Nang,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Kinh doanh,Active,A
+A_000035,Ly Van Nam,Nam,1979-10-11 16:33:08.334048,Hai Phong,Kết hôn,Việt Nam,Quan ly cap cao,>200 trieu,VND,Dau tu,Active,A
+A_000036,Dang Thi Thu,Nữ,1986-10-09 16:33:08.334048,Kon Tum,Độc thân,Việt Nam,Quan ly cap cao,>200 trieu,VND,Luong cao cap,Inactive,A
+A_000037,Duong Thi Minh,Nữ,1995-10-07 16:33:08.334048,Ha Noi,Độc thân,Việt Nam,Chu doanh nghiep,50-100 trieu,VND,Dau tu,Active,A
+A_000038,Tran Thi Binh,Nữ,1992-10-07 16:33:08.334048,Hai Phong,Độc thân,Việt Nam,Giam doc,50-100 trieu,VND,Luong cao cap,Active,A
+A_000039,Tran Duc Thanh,Nam,1975-10-12 16:33:08.334048,Ba Ria - Vung Tau,Độc thân,Việt Nam,Quan ly cap cao,>200 trieu,VND,Luong cao cap,Active,A
+A_000040,Pham Quang Huy,Nam,1988-10-08 16:33:08.334048,Da Nang,Kết hôn,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Kinh doanh,Active,A
+A_000041,Hoang Thi Em,Nữ,1988-10-08 16:33:08.334048,Ha Noi,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Dau tu,Inactive,A
+A_000042,Vu Minh Tam,Nam,1985-10-09 16:33:08.334048,Can Tho,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Dau tu,Closed,A
+A_000043,Do Thi Yen,Nữ,1995-10-07 16:33:08.334048,Ha Noi,Độc thân,Việt Nam,Giam doc,>200 trieu,VND,Luong cao cap,Active,A
+A_000044,Ton Thi Rong,Nữ,1995-10-07 16:33:08.334048,An Giang,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Dau tu,Closed,A
+A_000045,Ho Thi Trang,Nữ,1989-10-08 16:33:08.334048,Ba Ria - Vung Tau,Độc thân,Việt Nam,Quan ly cap cao,>200 trieu,VND,Kinh doanh,Active,A
+A_000046,Tran Thi Lan,Nữ,1981-10-10 16:33:08.334048,Dong Nai,Độc thân,Việt Nam,Quan ly cap cao,>200 trieu,VND,Dau tu,Active,A
+A_000047,Dinh Van Quang,Nam,1991-10-08 16:33:08.335033,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Kinh doanh,Active,A
+A_000048,Hoang Thi Linh,Nữ,1995-10-07 16:33:08.335033,Ha Noi,Kết hôn,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Dau tu,Active,A
+A_000049,Chu Thi Tai,Nữ,1980-10-10 16:33:08.335033,Can Tho,Độc thân,Việt Nam,Giam doc,50-100 trieu,VND,Luong cao cap,Active,A
+A_000050,Nguyen Thi An,Nữ,1987-10-09 16:33:08.335033,Kien Giang,Kết hôn,Việt Nam,Giam doc,50-100 trieu,VND,Kinh doanh,Active,A
+A_000051,Pham Thi Dung,Nữ,1981-10-10 16:33:08.335033,Ha Noi,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Luong cao cap,Active,A
+A_000052,Nguyen Van An,Nam,1991-10-08 16:33:08.335033,Hai Phong,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Kinh doanh,Closed,A
+A_000053,Nguyen Thi Mai,Nữ,1992-10-07 16:33:08.335033,Dong Nai,Kết hôn,Việt Nam,Chuyen gia cao cap,>200 trieu,VND,Dau tu,Active,A
+A_000054,Ly Thi Nam,Nữ,1985-10-09 16:33:08.335033,Ha Noi,Kết hôn,Việt Nam,Giam doc,50-100 trieu,VND,Luong cao cap,Active,A
+A_000055,Le Thi Huong,Nữ,1992-10-07 16:33:08.335033,Long An,Độc thân,Việt Nam,Chu doanh nghiep,>200 trieu,VND,Dau tu,Active,A
+A_000056,Dinh Van Quang,Nam,1989-10-08 16:33:08.335033,Hai Phong,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Kinh doanh,Active,A
+A_000057,Chu Thi Tai,Nữ,1989-10-08 16:33:08.335033,Phu Tho,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Kinh doanh,Active,A
+A_000058,Ton Thi Rong,Nữ,1982-10-10 16:33:08.335033,TP. Ho Chi Minh,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Luong cao cap,Active,A
+A_000059,Vu Thi Phong,Nữ,1984-10-09 16:33:08.335033,Lam Dong,Kết hôn,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Kinh doanh,Active,A
+A_000060,Bui Thi Ngoc,Nữ,1975-10-12 16:33:08.335033,Ba Ria - Vung Tau,Độc thân,Việt Nam,Quan ly cap cao,>200 trieu,VND,Luong cao cap,Active,A
+A_000061,Luu Thi Son,Nữ,1995-10-07 16:33:08.335033,Da Nang,Kết hôn,Việt Nam,Chu doanh nghiep,50-100 trieu,VND,Dau tu,Active,A
+A_000062,Luu Thi Son,Nữ,1982-10-10 16:33:08.335033,Long An,Kết hôn,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Luong cao cap,Closed,A
+A_000063,Vo Van Phuc,Nam,1983-10-10 16:33:08.335033,Can Tho,Độc thân,Việt Nam,Chuyen gia cao cap,>200 trieu,VND,Kinh doanh,Active,A
+A_000064,Bui Thi Hai,Nữ,1991-10-08 16:33:08.335033,Ha Noi,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Kinh doanh,Inactive,A
+A_000065,Dinh Thi Quang,Nữ,1983-10-10 16:33:08.335033,Hai Phong,Kết hôn,Việt Nam,Giam doc,50-100 trieu,VND,Dau tu,Active,A
+A_000066,Ho Van Tai,Nam,1990-10-08 16:33:08.335033,Hai Phong,Kết hôn,Việt Nam,Chuyen gia cao cap,>200 trieu,VND,Luong cao cap,Active,A
+A_000067,Vu Thi Hoa,Nữ,1977-10-11 16:33:08.335033,Ha Noi,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Dau tu,Active,A
+A_000068,Ho Thi Trang,Nữ,1989-10-08 16:33:08.335033,Thanh Hoa,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Dau tu,Active,A
+A_000069,Nguyen Minh Tuan,Nam,1986-10-09 16:33:08.335033,TP. Ho Chi Minh,Kết hôn,Việt Nam,Giam doc,>200 trieu,VND,Kinh doanh,Active,A
+A_000070,Ton Van Rong,Nam,1995-10-07 16:33:08.335033,Tien Giang,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Kinh doanh,Active,A
+A_000071,Dinh Thi Quang,Nữ,1982-10-10 16:33:08.335033,TP. Ho Chi Minh,Kết hôn,Việt Nam,Giam doc,50-100 trieu,VND,Kinh doanh,Active,A
+A_000072,Le Thi Cuong,Nữ,1993-10-07 16:33:08.335033,Da Nang,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Dau tu,Active,A
+A_000073,Do Van Hung,Nam,1981-10-10 16:33:08.335033,Binh Duong,Độc thân,Nước ngoài,Chu doanh nghiep,100-200 trieu,VND,Kinh doanh,Active,A
+A_000074,Pham Thi Nga,Nữ,1992-10-07 16:33:08.335033,Can Tho,Độc thân,Việt Nam,Chu doanh nghiep,100-200 trieu,VND,Dau tu,Inactive,A
+A_000075,Luong Thi Uy,Nữ,1976-10-11 16:33:08.335033,Hai Phong,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Luong cao cap,Active,A
+A_000076,Pham Thi Dung,Nữ,1986-10-09 16:33:08.335033,Hai Phong,Độc thân,Việt Nam,Quan ly cap cao,>200 trieu,VND,Luong cao cap,Active,A
+A_000077,Ly Thi Nam,Nữ,1980-10-10 16:33:08.335033,Ha Noi,Độc thân,Việt Nam,Chu doanh nghiep,100-200 trieu,VND,Dau tu,Inactive,A
+A_000078,Le Thi Huong,Nữ,1979-10-11 16:33:08.335033,Hai Phong,Kết hôn,Việt Nam,Chu doanh nghiep,50-100 trieu,USD,Kinh doanh,Active,A
+A_000079,Vu Thi Phong,Nữ,1988-10-08 16:33:08.335033,Can Tho,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Kinh doanh,Active,A
+A_000080,Luong Thi Uy,Nữ,1982-10-10 16:33:08.335033,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Giam doc,50-100 trieu,VND,Dau tu,Active,A
+A_000081,Do Van Hung,Nam,1984-10-09 16:33:08.335033,TP. Ho Chi Minh,Kết hôn,Việt Nam,Chu doanh nghiep,>200 trieu,VND,Kinh doanh,Active,A
+A_000082,Tran Thi Lan,Nữ,1982-10-10 16:33:08.335033,Can Tho,Kết hôn,Việt Nam,Chu doanh nghiep,100-200 trieu,USD,Kinh doanh,Inactive,A
+A_000083,Luu Thi Son,Nữ,1982-10-10 16:33:08.335033,Can Tho,Kết hôn,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Luong cao cap,Active,A
+A_000084,Vo Thi Phuc,Nữ,1985-10-09 16:33:08.335033,TP. Ho Chi Minh,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Kinh doanh,Inactive,A
+A_000085,Le Thi Huong,Nữ,1991-10-08 16:33:08.335033,Hai Phong,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Luong cao cap,Active,A
+A_000086,Hoang Thi Em,Nữ,1976-10-11 16:33:08.335033,Ha Noi,Kết hôn,Việt Nam,Quan ly cap cao,100-200 trieu,USD,Kinh doanh,Active,A
+A_000087,Pham Thi Nga,Nữ,1984-10-09 16:33:08.335033,TP. Ho Chi Minh,Kết hôn,Việt Nam,Giam doc,>200 trieu,VND,Luong cao cap,Active,A
+A_000088,Vo Van Phuc,Nam,1988-10-08 16:33:08.335033,Da Nang,Kết hôn,Việt Nam,Chuyen gia cao cap,>200 trieu,VND,Dau tu,Active,A
+A_000089,Phan Thi Oanh,Nữ,1988-10-08 16:33:08.335033,Hai Phong,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Luong cao cap,Active,A
+A_000090,Le Van Cuong,Nam,1984-10-09 16:33:08.335033,Da Nang,Kết hôn,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Dau tu,Active,A
+A_000091,Le Van Cuong,Nam,1995-10-07 16:33:08.335033,Can Tho,Kết hôn,Việt Nam,Quan ly cap cao,>200 trieu,VND,Kinh doanh,Inactive,A
+A_000092,Pham Thi Dung,Nữ,1984-10-09 16:33:08.335033,Da Nang,Độc thân,Việt Nam,Giam doc,50-100 trieu,VND,Kinh doanh,Active,A
+A_000093,Tran Thi Lan,Nữ,1985-10-09 16:33:08.335033,Da Nang,Kết hôn,Việt Nam,Chu doanh nghiep,>200 trieu,VND,Dau tu,Closed,A
+A_000094,Ho Van Tai,Nam,1987-10-09 16:33:08.335033,Da Nang,Kết hôn,Việt Nam,Quan ly cap cao,>200 trieu,VND,Luong cao cap,Active,A
+A_000095,Vo Thi Phuc,Nữ,1990-10-08 16:33:08.335033,Ha Noi,Độc thân,Việt Nam,Chu doanh nghiep,>200 trieu,USD,Luong cao cap,Active,A
+A_000096,Duong Van Minh,Nam,1979-10-11 16:33:08.335033,Can Tho,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Kinh doanh,Active,A
+A_000097,Nguyen Van An,Nam,1988-10-08 16:33:08.335033,Hai Phong,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Luong cao cap,Active,A
+A_000098,Bui Van Hai,Nam,1984-10-09 16:33:08.335033,Binh Phuoc,Độc thân,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Kinh doanh,Active,A
+A_000099,Dang Quoc Bao,Nam,1985-10-09 16:33:08.335033,Hai Phong,Độc thân,Việt Nam,Chu doanh nghiep,100-200 trieu,VND,Dau tu,Active,A
+A_000100,Duong Van Minh,Nam,1976-10-11 16:33:08.335033,TP. Ho Chi Minh,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Luong cao cap,Active,A
+B_000101,Hoang Van Duc,Nam,2000-10-05 16:33:08.335033,Hai Phong,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Inactive,B
+B_000102,Vu Minh Tam,Nam,1997-10-06 16:33:08.335033,TP. Ho Chi Minh,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Dau tu,Inactive,B
+B_000103,Ton Van Rong,Nam,1981-10-10 16:33:08.335033,Hai Phong,Kết hôn,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Luong,Inactive,B
+B_000104,Chu Van Tai,Nam,1994-10-07 16:33:08.335033,Hai Phong,Kết hôn,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Dau tu,Closed,B
+B_000105,Ngo Thi Long,Nữ,1988-10-08 16:33:08.335033,Lao Cai,Độc thân,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000106,Vu Thi Phong,Nữ,1982-10-10 16:33:08.335033,Ba Ria - Vung Tau,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000107,Phan Thi Oanh,Nữ,1999-10-06 16:33:08.335033,Da Nang,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000108,Duong Thi Minh,Nữ,1998-10-06 16:33:08.335033,Da Nang,Độc thân,Việt Nam,Chuyen gia,50-100 trieu,VND,Dau tu,Active,B
+B_000109,Do Van Hung,Nam,1998-10-06 16:33:08.335033,Can Tho,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Kinh doanh,Inactive,B
+B_000110,Ngo Van Long,Nam,1998-10-06 16:33:08.335033,Can Tho,Độc thân,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Luong,Closed,B
+B_000111,Ly Thi Nam,Nữ,1997-10-06 16:33:08.335033,Hai Phong,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000112,Vu Minh Tam,Nam,1985-10-09 16:33:08.335033,Thanh Hoa,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Kinh doanh,Active,B
+B_000113,Bui Thi Ngoc,Nữ,1986-10-09 16:33:08.335033,Thua Thien Hue,Độc thân,Việt Nam,Chuyen gia,50-100 trieu,VND,Dau tu,Active,B
+B_000114,Vo Van Phuc,Nam,1987-10-09 16:33:08.335033,Long An,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Dau tu,Active,B
+B_000115,Ho Thi Khoa,Nữ,2000-10-05 16:33:08.335033,An Giang,Kết hôn,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000116,Le Hoang Nam,Nam,1996-10-06 16:33:08.335033,Da Nang,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Luong,Active,B
+B_000117,Duong Van Minh,Nam,1998-10-06 16:33:08.335033,Khanh Hoa,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000118,Bui Thi Ngoc,Nữ,1994-10-07 16:33:08.335033,Kon Tum,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Inactive,B
+B_000119,Tran Van Binh,Nam,1981-10-10 16:33:08.335033,Ha Noi,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Dau tu,Active,B
+B_000120,Duong Thi Minh,Nữ,1986-10-09 16:33:08.335033,TP. Ho Chi Minh,Độc thân,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Active,B
+B_000121,Bui Thi Hai,Nữ,1986-10-09 16:33:08.335033,TP. Ho Chi Minh,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000122,Ho Thi Trang,Nữ,1980-10-10 16:33:08.335033,Hai Phong,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000123,Luu Thi Son,Nữ,1980-10-10 16:33:08.335033,Vinh Long,Kết hôn,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Kinh doanh,Active,B
+B_000124,Nguyen Thi An,Nữ,1982-10-10 16:33:08.335033,Son La,Kết hôn,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Dau tu,Inactive,B
+B_000125,Vo Thi Phuc,Nữ,1984-10-09 16:33:08.335033,Binh Thuan,Kết hôn,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000126,Chu Thi Tai,Nữ,1991-10-08 16:33:08.335033,Hai Phong,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000127,Pham Thi Dung,Nữ,1993-10-07 16:33:08.335033,Tien Giang,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000128,Bui Van Thang,Nam,1989-10-08 16:33:08.335033,An Giang,Kết hôn,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Luong,Active,B
+B_000129,Vo Van Phuc,Nam,1991-10-08 16:33:08.335033,Can Tho,Độc thân,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Inactive,B
+B_000130,Hoang Thi Em,Nữ,1981-10-10 16:33:08.335033,Ninh Thuan,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Kinh doanh,Active,B
+B_000131,Ngo Thi Long,Nữ,1999-10-06 16:33:08.335033,TP. Ho Chi Minh,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Kinh doanh,Active,B
+B_000132,Le Thi Cuong,Nữ,1980-10-10 16:33:08.335033,Tien Giang,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Kinh doanh,Active,B
+B_000133,Bui Van Thang,Nam,1993-10-07 16:33:08.335033,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000134,Bui Van Thang,Nam,2000-10-05 16:33:08.336067,Hai Phong,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000135,Ho Van Khoa,Nam,1981-10-10 16:33:08.336067,Ha Noi,Kết hôn,Việt Nam,Kinh doanh ca the,50-100 trieu,VND,Kinh doanh,Active,B
+B_000136,Vu Minh Tam,Nam,1987-10-09 16:33:08.336067,TP. Ho Chi Minh,Độc thân,Việt Nam,Kinh doanh ca the,50-100 trieu,VND,Luong,Active,B
+B_000137,Vu Thi Phong,Nữ,1992-10-07 16:33:08.336067,Thai Nguyen,Kết hôn,Việt Nam,Kinh doanh ca the,50-100 trieu,VND,Luong,Active,B
+B_000138,Dinh Thi Quang,Nữ,1995-10-07 16:33:08.336067,Ba Ria - Vung Tau,Kết hôn,Nước ngoài,Chuyen gia,50-100 trieu,VND,Luong,Closed,B
+B_000139,Pham Thi Dung,Nữ,1985-10-09 16:33:08.336067,Binh Duong,Kết hôn,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000140,Pham Quang Huy,Nam,1986-10-09 16:33:08.336067,Da Nang,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Kinh doanh,Active,B
+B_000141,Do Thi Yen,Nữ,1988-10-08 16:33:08.336067,Hai Phong,Độc thân,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Active,B
+B_000142,Luong Thi Uy,Nữ,1998-10-06 16:33:08.336067,Ha Noi,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Dau tu,Closed,B
+B_000143,Le Thi Huong,Nữ,2000-10-05 16:33:08.336067,Long An,Độc thân,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Dau tu,Active,B
+B_000144,Ly Thi Nam,Nữ,1983-10-10 16:33:08.336067,Dong Nai,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000145,Do Van Hung,Nam,1988-10-08 16:33:08.336067,Can Tho,Kết hôn,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Active,B
+B_000146,Vo Thi Phuc,Nữ,1990-10-08 16:33:08.336067,Ha Noi,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Kinh doanh,Active,B
+B_000147,Dang Thi Thu,Nữ,1999-10-06 16:33:08.336067,Hai Phong,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,USD,Luong,Active,B
+B_000148,Do Thi Hung,Nữ,1996-10-06 16:33:08.336067,Ba Ria - Vung Tau,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000149,Pham Thi Dung,Nữ,1982-10-10 16:33:08.336067,Da Nang,Kết hôn,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Luong,Active,B
+B_000150,Ton Thi Rong,Nữ,1980-10-10 16:33:08.336067,TP. Ho Chi Minh,Kết hôn,Việt Nam,Chuyen gia,50-100 trieu,VND,Dau tu,Inactive,B
+B_000151,Vu Thi Hoa,Nữ,1990-10-08 16:33:08.336067,Da Nang,Kết hôn,Việt Nam,Chuyen gia,50-100 trieu,VND,Kinh doanh,Active,B
+B_000152,Tran Duc Thanh,Nam,1996-10-06 16:33:08.336067,Hai Phong,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Kinh doanh,Inactive,B
+B_000153,Ton Van Rong,Nam,1987-10-09 16:33:08.336067,Can Tho,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Dau tu,Inactive,B
+B_000154,Nguyen Thi An,Nữ,2000-10-05 16:33:08.336067,Quang Binh,Độc thân,Việt Nam,Kinh doanh ca the,50-100 trieu,VND,Luong,Active,B
+B_000155,Ho Van Khoa,Nam,1983-10-10 16:33:08.336067,Quang Ninh,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,USD,Luong,Active,B
+B_000156,Pham Van Dung,Nam,1986-10-09 16:33:08.336067,Hai Phong,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000157,Dang Thi Giang,Nữ,1997-10-06 16:33:08.336067,Lam Dong,Độc thân,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Inactive,B
+B_000158,Vu Thi Hoa,Nữ,1991-10-08 16:33:08.336067,Can Tho,Độc thân,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000159,Bui Thi Hai,Nữ,1996-10-06 16:33:08.336067,Nghe An,Độc thân,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000160,Luu Thi Son,Nữ,1999-10-06 16:33:08.336067,TP. Ho Chi Minh,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Dau tu,Active,B
+B_000161,Duong Thi Minh,Nữ,1984-10-09 16:33:08.336067,Can Tho,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Kinh doanh,Inactive,B
+B_000162,Nguyen Thi Mai,Nữ,1981-10-10 16:33:08.336067,Ha Noi,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Inactive,B
+B_000163,Luu Van Son,Nam,1987-10-09 16:33:08.336067,TP. Ho Chi Minh,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000164,Chu Van Tai,Nam,1981-10-10 16:33:08.336067,Can Tho,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Dau tu,Active,B
+B_000165,Tran Thi Lan,Nữ,1993-10-07 16:33:08.336067,Kien Giang,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000166,Do Minh Khang,Nam,1986-10-09 16:33:08.336067,Da Nang,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,USD,Luong,Active,B
+B_000167,Nguyen Thi Mai,Nữ,1997-10-06 16:33:08.336067,Son La,Kết hôn,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Inactive,B
+B_000168,Ly Thi Nam,Nữ,1987-10-09 16:33:08.336067,Long An,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Luong,Active,B
+B_000169,Ly Thi Nam,Nữ,1993-10-07 16:33:08.336067,Long An,Kết hôn,Việt Nam,Kinh doanh ca the,50-100 trieu,VND,Luong,Active,B
+B_000170,Dinh Van Quang,Nam,1986-10-09 16:33:08.336067,Ba Ria - Vung Tau,Độc thân,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000171,Bui Thi Ngoc,Nữ,1994-10-07 16:33:08.336067,Hai Phong,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000172,Hoang Thi Em,Nữ,1990-10-08 16:33:08.336067,Thua Thien Hue,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Dau tu,Active,B
+B_000173,Pham Thi Dung,Nữ,1998-10-06 16:33:08.336067,Da Nang,Kết hôn,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Luong,Active,B
+B_000174,Ly Van Nam,Nam,1993-10-07 16:33:08.336067,Quang Ninh,Kết hôn,Việt Nam,Kinh doanh ca the,50-100 trieu,VND,Luong,Inactive,B
+B_000175,Nguyen Thi An,Nữ,1985-10-09 16:33:08.336067,Da Nang,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Closed,B
+B_000176,Do Thi Yen,Nữ,1993-10-07 16:33:08.336067,Da Nang,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Kinh doanh,Active,B
+B_000177,Hoang Van Em,Nam,1989-10-08 16:33:08.336067,Hai Phong,Kết hôn,Việt Nam,Nhan vien cao cap,50-100 trieu,USD,Luong,Active,B
+B_000178,Dang Van Giang,Nam,1988-10-08 16:33:08.336067,An Giang,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000179,Tran Van Binh,Nam,2000-10-05 16:33:08.336067,Tien Giang,Kết hôn,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Luong,Active,B
+B_000180,Tran Thi Binh,Nữ,1984-10-09 16:33:08.336067,Da Nang,Độc thân,Việt Nam,Chuyen gia,50-100 trieu,VND,Kinh doanh,Active,B
+B_000181,Luong Van Uy,Nam,1989-10-08 16:33:08.336067,Hai Phong,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Dau tu,Active,B
+B_000182,Hoang Thi Em,Nữ,1982-10-10 16:33:08.336067,Hai Phong,Độc thân,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Active,B
+B_000183,Pham Van Dung,Nam,1997-10-06 16:33:08.336067,Tay Ninh,Độc thân,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000184,Dang Quoc Bao,Nam,1980-10-10 16:33:08.336067,Long An,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000185,Dang Thi Giang,Nữ,1990-10-08 16:33:08.336067,Tra Vinh,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000186,Vu Van Phong,Nam,1995-10-07 16:33:08.336067,Nghe An,Độc thân,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000187,Ho Van Tai,Nam,1997-10-06 16:33:08.336067,Tien Giang,Độc thân,Việt Nam,Chuyen gia,50-100 trieu,VND,Kinh doanh,Active,B
+B_000188,Ly Thi Nam,Nữ,1994-10-07 16:33:08.336067,Long An,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000189,Le Thi Huong,Nữ,1995-10-07 16:33:08.336067,TP. Ho Chi Minh,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Closed,B
+B_000190,Duong Thi Minh,Nữ,1998-10-06 16:33:08.336067,Da Nang,Kết hôn,Việt Nam,Kinh doanh ca the,20-50 trieu,USD,Luong,Active,B
+B_000191,Nguyen Minh Tuan,Nam,1985-10-09 16:33:08.336067,Hai Phong,Kết hôn,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Inactive,B
+B_000192,Ho Van Tai,Nam,1997-10-06 16:33:08.336067,Dien Bien,Kết hôn,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Dau tu,Active,B
+B_000193,Ton Van Rong,Nam,1999-10-06 16:33:08.336067,Phu Tho,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Dau tu,Active,B
+B_000194,Do Minh Khang,Nam,1990-10-08 16:33:08.336067,Da Nang,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,USD,Luong,Active,B
+B_000195,Duong Van Minh,Nam,1999-10-06 16:33:08.336067,Can Tho,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Closed,B
+B_000196,Ton Thi Rong,Nữ,1994-10-07 16:33:08.336067,TP. Ho Chi Minh,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Dau tu,Inactive,B
+B_000197,Ho Van Khoa,Nam,1988-10-08 16:33:08.336067,Kien Giang,Kết hôn,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Luong,Active,B
+B_000198,Duong Van Minh,Nam,1983-10-10 16:33:08.336067,TP. Ho Chi Minh,Kết hôn,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Closed,B
+B_000199,Dang Thi Giang,Nữ,1990-10-08 16:33:08.336067,Hai Phong,Độc thân,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Dau tu,Active,B
+B_000200,Vo Van Phuc,Nam,1987-10-09 16:33:08.336067,An Giang,Kết hôn,Việt Nam,Kinh doanh ca the,50-100 trieu,VND,Kinh doanh,Active,B
+B_000201,Pham Van Dung,Nam,1981-10-10 16:33:08.336067,TP. Ho Chi Minh,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Dau tu,Active,B
+B_000202,Ton Van Rong,Nam,1980-10-10 16:33:08.336067,Dong Thap,Độc thân,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000203,Dinh Thi Quang,Nữ,1984-10-09 16:33:08.336067,Tien Giang,Độc thân,Việt Nam,Kinh doanh ca the,50-100 trieu,VND,Luong,Active,B
+B_000204,Bui Thi Ngoc,Nữ,1985-10-09 16:33:08.336067,Hai Duong,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Kinh doanh,Active,B
+B_000205,Dinh Van Quang,Nam,1984-10-09 16:33:08.336067,Hai Phong,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Kinh doanh,Active,B
+B_000206,Ho Van Khoa,Nam,1986-10-09 16:33:08.336067,An Giang,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Dau tu,Active,B
+B_000207,Vu Thi Hoa,Nữ,1984-10-09 16:33:08.336067,Ha Noi,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000208,Pham Thi Dung,Nữ,1995-10-07 16:33:08.336067,TP. Ho Chi Minh,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000209,Nguyen Minh Tuan,Nam,1980-10-10 16:33:08.336067,TP. Ho Chi Minh,Kết hôn,Nước ngoài,Nhan vien cao cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000210,Chu Van Tai,Nam,1997-10-06 16:33:08.336067,Thanh Hoa,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000211,Luong Van Uy,Nam,1993-10-07 16:33:08.336067,Hai Phong,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000212,Luu Van Son,Nam,1981-10-10 16:33:08.336067,Nghe An,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Kinh doanh,Active,B
+B_000213,Phan Thi Oanh,Nữ,1994-10-07 16:33:08.336067,Kien Giang,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Kinh doanh,Active,B
+B_000214,Do Minh Khang,Nam,1984-10-09 16:33:08.336067,Kon Tum,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000215,Vu Minh Tam,Nam,2000-10-05 16:33:08.336067,Da Nang,Kết hôn,Việt Nam,Chuyen gia,50-100 trieu,USD,Luong,Active,B
+B_000216,Dinh Van Quang,Nam,1985-10-09 16:33:08.336067,Nghe An,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000217,Pham Thi Nga,Nữ,1992-10-07 16:33:08.336067,Tien Giang,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000218,Nguyen Minh Tuan,Nam,1992-10-07 16:33:08.336067,Ba Ria - Vung Tau,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,USD,Dau tu,Active,B
+B_000219,Vu Minh Tam,Nam,1981-10-10 16:33:08.336067,Dong Nai,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000220,Vu Van Phong,Nam,1993-10-07 16:33:08.337065,Hai Phong,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Dau tu,Inactive,B
+B_000221,Dinh Van Quang,Nam,1989-10-08 16:33:08.337065,Kien Giang,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Dau tu,Active,B
+B_000222,Dang Thi Giang,Nữ,1983-10-10 16:33:08.337065,Binh Duong,Kết hôn,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Luong,Active,B
+B_000223,Nguyen Thi An,Nữ,1980-10-10 16:33:08.337065,Thai Binh,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Dau tu,Active,B
+B_000224,Pham Van Dung,Nam,1998-10-06 16:33:08.337065,Binh Dinh,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000225,Phan Van Oanh,Nam,1997-10-06 16:33:08.337065,Long An,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Kinh doanh,Active,B
+B_000226,Hoang Van Duc,Nam,1983-10-10 16:33:08.337065,An Giang,Kết hôn,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Luong,Active,B
+B_000227,Chu Thi Tai,Nữ,1994-10-07 16:33:08.337065,Can Tho,Kết hôn,Việt Nam,Chuyen gia,50-100 trieu,VND,Luong,Active,B
+B_000228,Dang Thi Giang,Nữ,1988-10-08 16:33:08.337065,Binh Dinh,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Dau tu,Active,B
+B_000229,Luu Thi Son,Nữ,1995-10-07 16:33:08.337065,Da Nang,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Closed,B
+B_000230,Chu Thi Tai,Nữ,1991-10-08 16:33:08.337065,Khanh Hoa,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Dau tu,Active,B
+B_000231,Bui Van Thang,Nam,1998-10-06 16:33:08.337065,Can Tho,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Inactive,B
+B_000232,Nguyen Thi Mai,Nữ,1997-10-06 16:33:08.337065,Thua Thien Hue,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Luong,Active,B
+B_000233,Le Van Cuong,Nam,1999-10-06 16:33:08.337065,TP. Ho Chi Minh,Kết hôn,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Luong,Active,B
+B_000234,Bui Thi Ngoc,Nữ,1980-10-10 16:33:08.337065,Da Nang,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Dau tu,Active,B
+B_000235,Chu Thi Tai,Nữ,1995-10-07 16:33:08.337065,Hai Phong,Độc thân,Việt Nam,Chuyen gia,20-50 trieu,VND,Kinh doanh,Active,B
+B_000236,Do Minh Khang,Nam,1992-10-07 16:33:08.337065,Lam Dong,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Kinh doanh,Active,B
+B_000237,Nguyen Thi An,Nữ,1985-10-09 16:33:08.337065,Dong Thap,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000238,Tran Thi Lan,Nữ,1980-10-10 16:33:08.337065,TP. Ho Chi Minh,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Kinh doanh,Active,B
+B_000239,Duong Van Minh,Nam,1992-10-07 16:33:08.337065,Hai Phong,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Kinh doanh,Active,B
+B_000240,Hoang Van Em,Nam,1989-10-08 16:33:08.337065,Long An,Độc thân,Việt Nam,Kinh doanh ca the,20-50 trieu,VND,Kinh doanh,Inactive,B
+B_000241,Ngo Van Long,Nam,1980-10-10 16:33:08.337065,Ba Ria - Vung Tau,Độc thân,Việt Nam,Nhan vien cao cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000242,Pham Thi Dung,Nữ,1998-10-06 16:33:08.337065,Quang Ninh,Độc thân,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000243,Le Thi Cuong,Nữ,1980-10-10 16:33:08.337065,Dak Lak,Độc thân,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Kinh doanh,Active,B
+B_000244,Duong Van Minh,Nam,1995-10-07 16:33:08.337065,Da Nang,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Active,B
+B_000245,Pham Thi Nga,Nữ,1986-10-09 16:33:08.337065,Da Nang,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000246,Ly Van Nam,Nam,1982-10-10 16:33:08.337065,Ha Noi,Kết hôn,Việt Nam,Chuyen gia,20-50 trieu,VND,Luong,Active,B
+B_000247,Hoang Thi Em,Nữ,1990-10-08 16:33:08.337065,Da Nang,Độc thân,Việt Nam,Quan ly trung cap,50-100 trieu,VND,Kinh doanh,Active,B
+B_000248,Dang Quoc Bao,Nam,1995-10-07 16:33:08.337065,Hai Phong,Kết hôn,Việt Nam,Nhan vien cao cap,20-50 trieu,VND,Luong,Active,B
+B_000249,Ngo Thi Long,Nữ,1992-10-07 16:33:08.337065,Binh Duong,Kết hôn,Việt Nam,Quan ly trung cap,20-50 trieu,VND,Luong,Inactive,B
+B_000250,Dinh Van Quang,Nam,1989-10-08 16:33:08.337065,Hai Phong,Độc thân,Việt Nam,Kinh doanh ca the,50-100 trieu,VND,Luong,Active,B
+C_000251,Ngo Thi Long,Nữ,1985-10-09 16:33:08.337065,Can Tho,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Dau tu,Active,C
+C_000252,Duong Thi Minh,Nữ,1981-10-10 16:33:08.337065,Da Nang,Độc thân,Việt Nam,Chu doanh nghiep,100-200 trieu,VND,Kinh doanh,Active,C
+C_000253,Ho Van Tai,Nam,1980-10-10 16:33:08.337065,An Giang,Độc thân,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Kinh doanh,Active,C
+C_000254,Dang Van Giang,Nam,1975-10-12 16:33:08.337065,Ha Noi,Độc thân,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Kinh doanh,Active,C
+C_000255,Vo Thi Phuc,Nữ,1982-10-10 16:33:08.337065,Quang Ninh,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Kinh doanh,Active,C
+C_000256,Dang Thi Giang,Nữ,1986-10-09 16:33:08.337065,Khanh Hoa,Kết hôn,Việt Nam,Giam doc,100-200 trieu,VND,Luong cao cap,Active,C
+C_000257,Do Thi Hung,Nữ,1971-10-13 16:33:08.337065,Hai Phong,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Dau tu,Active,C
+C_000258,Vo Van Phuc,Nam,1973-10-12 16:33:08.337065,Hai Phong,Kết hôn,Việt Nam,Giam doc,100-200 trieu,USD,Dau tu,Active,C
+C_000259,Duong Van Minh,Nam,1978-10-11 16:33:08.337065,Tien Giang,Độc thân,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Kinh doanh,Inactive,C
+C_000260,Dinh Thi Quang,Nữ,1980-10-10 16:33:08.337065,Can Tho,Độc thân,Việt Nam,Chu doanh nghiep,100-200 trieu,VND,Kinh doanh,Active,C
+C_000261,Luong Thi Uy,Nữ,1978-10-11 16:33:08.337065,Thanh Hoa,Độc thân,Việt Nam,Giam doc,50-100 trieu,VND,Luong cao cap,Active,C
+C_000262,Bui Van Hai,Nam,1971-10-13 16:33:08.337065,Hai Phong,Kết hôn,Việt Nam,Giam doc,>200 trieu,VND,Dau tu,Active,C
+C_000263,Ngo Van Long,Nam,1983-10-10 16:33:08.337065,Khanh Hoa,Kết hôn,Việt Nam,Quan ly cap cao,>200 trieu,VND,Dau tu,Active,C
+C_000264,Le Van Cuong,Nam,1989-10-08 16:33:08.337065,Da Nang,Độc thân,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Luong cao cap,Active,C
+C_000265,Vo Thi Phuc,Nữ,1973-10-12 16:33:08.337065,Da Nang,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Kinh doanh,Active,C
+C_000266,Do Thi Yen,Nữ,1975-10-12 16:33:08.337065,Lam Dong,Kết hôn,Việt Nam,Giam doc,>200 trieu,VND,Dau tu,Active,C
+C_000267,Le Thi Cuong,Nữ,1987-10-09 16:33:08.337065,Da Nang,Độc thân,Việt Nam,Chuyen gia cao cap,>200 trieu,USD,Kinh doanh,Active,C
+C_000268,Nguyen Thi An,Nữ,1980-10-10 16:33:08.337065,Ben Tre,Độc thân,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Dau tu,Active,C
+C_000269,Pham Quang Huy,Nam,1986-10-09 16:33:08.337065,Can Tho,Kết hôn,Việt Nam,Giam doc,50-100 trieu,VND,Kinh doanh,Active,C
+C_000270,Le Thi Huong,Nữ,1983-10-10 16:33:08.337065,Can Tho,Kết hôn,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Kinh doanh,Active,C
+C_000271,Dang Thi Giang,Nữ,1972-10-12 16:33:08.337065,Tien Giang,Kết hôn,Việt Nam,Chuyen gia cao cap,>200 trieu,VND,Kinh doanh,Inactive,C
+C_000272,Phan Van Oanh,Nam,1984-10-09 16:33:08.337065,Khanh Hoa,Độc thân,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Dau tu,Active,C
+C_000273,Duong Thi Minh,Nữ,1988-10-08 16:33:08.337065,Long An,Độc thân,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Kinh doanh,Active,C
+C_000274,Bui Van Thang,Nam,1979-10-11 16:33:08.337065,Lam Dong,Kết hôn,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Dau tu,Active,C
+C_000275,Nguyen Thi Mai,Nữ,1976-10-11 16:33:08.337065,Ha Noi,Kết hôn,Việt Nam,Giam doc,>200 trieu,VND,Luong cao cap,Active,C
+C_000276,Dang Van Giang,Nam,1972-10-12 16:33:08.337065,Ba Ria - Vung Tau,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Dau tu,Active,C
+C_000277,Vu Minh Tam,Nam,1983-10-10 16:33:08.337065,Long An,Độc thân,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Dau tu,Active,C
+C_000278,Pham Quang Huy,Nam,1972-10-12 16:33:08.337065,Ha Giang,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Luong cao cap,Active,C
+C_000279,Hoang Thi Linh,Nữ,1981-10-10 16:33:08.337065,Long An,Độc thân,Nước ngoài,Quan ly cap cao,>200 trieu,VND,Dau tu,Active,C
+C_000280,Ton Thi Rong,Nữ,1971-10-13 16:33:08.337065,Quang Tri,Độc thân,Việt Nam,Chu doanh nghiep,>200 trieu,VND,Dau tu,Active,C
+C_000281,Hoang Van Em,Nam,1979-10-11 16:33:08.337065,An Giang,Độc thân,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Kinh doanh,Inactive,C
+C_000282,Do Thi Hung,Nữ,1978-10-11 16:33:08.337065,Soc Trang,Độc thân,Việt Nam,Chu doanh nghiep,100-200 trieu,VND,Luong cao cap,Active,C
+C_000283,Ho Van Tai,Nam,1972-10-12 16:33:08.337065,Long An,Độc thân,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Kinh doanh,Active,C
+C_000284,Phan Van Oanh,Nam,1987-10-09 16:33:08.337065,Dien Bien,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Kinh doanh,Active,C
+C_000285,Le Thi Cuong,Nữ,1972-10-12 16:33:08.337065,Khanh Hoa,Độc thân,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Dau tu,Inactive,C
+C_000286,Pham Van Dung,Nam,1970-10-13 16:33:08.337065,Tay Ninh,Độc thân,Việt Nam,Chu doanh nghiep,50-100 trieu,VND,Dau tu,Inactive,C
+C_000287,Do Van Hung,Nam,1978-10-11 16:33:08.337065,TP. Ho Chi Minh,Độc thân,Việt Nam,Chu doanh nghiep,>200 trieu,VND,Dau tu,Active,C
+C_000288,Hoang Van Duc,Nam,1984-10-09 16:33:08.337065,Long An,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Dau tu,Active,C
+C_000289,Le Hoang Nam,Nam,1980-10-10 16:33:08.337065,Yen Bai,Kết hôn,Việt Nam,Giam doc,50-100 trieu,VND,Dau tu,Active,C
+C_000290,Duong Van Minh,Nam,1976-10-11 16:33:08.337065,Dak Lak,Kết hôn,Việt Nam,Quan ly cap cao,100-200 trieu,VND,Luong cao cap,Active,C
+C_000291,Vo Van Phuc,Nam,1975-10-12 16:33:08.337065,Binh Thuan,Kết hôn,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Kinh doanh,Active,C
+C_000292,Hoang Van Duc,Nam,1973-10-12 16:33:08.337065,Binh Dinh,Kết hôn,Việt Nam,Giam doc,>200 trieu,VND,Luong cao cap,Active,C
+C_000293,Chu Van Tai,Nam,1986-10-09 16:33:08.337065,Dong Nai,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Kinh doanh,Inactive,C
+C_000294,Tran Thi Lan,Nữ,1978-10-11 16:33:08.337065,Lao Cai,Độc thân,Việt Nam,Giam doc,50-100 trieu,VND,Kinh doanh,Active,C
+C_000295,Ngo Thi Long,Nữ,1975-10-12 16:33:08.337065,Lam Dong,Độc thân,Việt Nam,Chuyen gia cao cap,50-100 trieu,VND,Kinh doanh,Inactive,C
+C_000296,Pham Van Dung,Nam,1978-10-11 16:33:08.337065,Hai Phong,Độc thân,Việt Nam,Giam doc,100-200 trieu,VND,Kinh doanh,Active,C
+C_000297,Le Thi Cuong,Nữ,1970-10-13 16:33:08.337065,Ha Noi,Kết hôn,Việt Nam,Chu doanh nghiep,>200 trieu,VND,Dau tu,Active,C
+C_000298,Nguyen Van An,Nam,1989-10-08 16:33:08.337065,Hau Giang,Kết hôn,Việt Nam,Quan ly cap cao,50-100 trieu,VND,Kinh doanh,Inactive,C
+C_000299,Vo Thi Phuc,Nữ,1975-10-12 16:33:08.337065,TP. Ho Chi Minh,Kết hôn,Việt Nam,Quan ly cap cao,>200 trieu,VND,Luong cao cap,Active,C
+C_000300,Dang Thi Thu,Nữ,1990-10-08 16:33:08.337065,Lam Dong,Kết hôn,Việt Nam,Chuyen gia cao cap,100-200 trieu,VND,Dau tu,Active,C
+D_000301,Pham Quang Huy,Nam,1968-10-13 16:33:08.337065,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000302,Dang Van Giang,Nam,1984-10-09 16:33:08.337065,Binh Duong,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,USD,Luong,Active,D
+D_000303,Vo Van Phuc,Nam,1970-10-13 16:33:08.337065,Hai Phong,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Tiet kiem,Active,D
+D_000304,Luu Van Son,Nam,1972-10-12 16:33:08.337065,Thanh Hoa,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Tiet kiem,Active,D
+D_000305,Vu Thi Hoa,Nữ,1964-10-14 16:33:08.337065,Binh Duong,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000306,Ton Van Rong,Nam,1973-10-12 16:33:08.337065,Dak Lak,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000307,Vu Thi Hoa,Nữ,1978-10-11 16:33:08.337065,Da Nang,Kết hôn,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000308,Vo Van Phuc,Nam,1962-10-15 16:33:08.337065,Long An,Kết hôn,Nước ngoài,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000309,Bui Thi Ngoc,Nữ,1976-10-11 16:33:08.337065,Long An,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Inactive,D
+D_000310,Dang Van Giang,Nam,1960-10-15 16:33:08.338068,Hai Phong,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Tiet kiem,Active,D
+D_000311,Dang Thi Giang,Nữ,1972-10-12 16:33:08.338068,Bac Giang,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000312,Do Thi Hung,Nữ,1962-10-15 16:33:08.338068,Hai Phong,Kết hôn,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Inactive,D
+D_000313,Vu Van Phong,Nam,1979-10-11 16:33:08.338068,Thanh Hoa,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000314,Chu Thi Tai,Nữ,1974-10-12 16:33:08.338068,Kien Giang,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Tiet kiem,Active,D
+D_000315,Hoang Van Duc,Nam,1965-10-14 16:33:08.338068,Lam Dong,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000316,Ho Thi Trang,Nữ,1976-10-11 16:33:08.338068,Kon Tum,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000317,Vu Minh Tam,Nam,1972-10-12 16:33:08.338068,Bac Lieu,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000318,Vo Van Phuc,Nam,1975-10-12 16:33:08.338068,Long An,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000319,Le Thi Huong,Nữ,1976-10-11 16:33:08.338068,Quang Ninh,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Tiet kiem,Active,D
+D_000320,Vo Van Phuc,Nam,1962-10-15 16:33:08.338068,Thua Thien Hue,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000321,Luong Van Uy,Nam,1962-10-15 16:33:08.338068,Ba Ria - Vung Tau,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000322,Ho Van Tai,Nam,1961-10-15 16:33:08.338068,Lam Dong,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000323,Luong Van Uy,Nam,1979-10-11 16:33:08.338068,Thanh Hoa,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000324,Do Minh Khang,Nam,1971-10-13 16:33:08.338068,Bac Lieu,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000325,Vu Van Phong,Nam,1974-10-12 16:33:08.338068,Lam Dong,Độc thân,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000326,Do Van Hung,Nam,1971-10-13 16:33:08.338068,Da Nang,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000327,Bui Thi Hai,Nữ,1974-10-12 16:33:08.338068,Thua Thien Hue,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000328,Do Thi Hung,Nữ,1968-10-13 16:33:08.338068,An Giang,Kết hôn,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Active,D
+D_000329,Vu Thi Hoa,Nữ,1984-10-09 16:33:08.338068,Lai Chau,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000330,Nguyen Minh Tuan,Nam,1984-10-09 16:33:08.338068,Thai Binh,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Inactive,D
+D_000331,Ho Thi Trang,Nữ,1985-10-09 16:33:08.338068,Can Tho,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000332,Pham Thi Dung,Nữ,1960-10-15 16:33:08.338068,TP. Ho Chi Minh,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000333,Ton Van Rong,Nam,1984-10-09 16:33:08.338068,Quang Ninh,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Tiet kiem,Closed,D
+D_000334,Dinh Van Quang,Nam,1972-10-12 16:33:08.338068,Can Tho,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000335,Do Minh Khang,Nam,1976-10-11 16:33:08.338068,TP. Ho Chi Minh,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000336,Vu Thi Phong,Nữ,1973-10-12 16:33:08.338068,Can Tho,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000337,Bui Thi Ngoc,Nữ,1977-10-11 16:33:08.338068,Da Nang,Độc thân,Việt Nam,Cong chuc,10-20 trieu,USD,Tiet kiem,Active,D
+D_000338,Hoang Van Em,Nam,1962-10-15 16:33:08.338068,Quang Ninh,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000339,Duong Van Minh,Nam,1977-10-11 16:33:08.338068,Vinh Long,Độc thân,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Closed,D
+D_000340,Vu Van Phong,Nam,1977-10-11 16:33:08.338068,Nghe An,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000341,Le Thi Cuong,Nữ,1978-10-11 16:33:08.338068,Hai Phong,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000342,Pham Thi Dung,Nữ,1970-10-13 16:33:08.338068,Lai Chau,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Tiet kiem,Closed,D
+D_000343,Vu Thi Hoa,Nữ,1979-10-11 16:33:08.338068,Ha Nam,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000344,Ngo Thi Long,Nữ,1963-10-15 16:33:08.338068,TP. Ho Chi Minh,Kết hôn,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000345,Ton Van Rong,Nam,1973-10-12 16:33:08.338068,Tien Giang,Kết hôn,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Active,D
+D_000346,Vo Van Phuc,Nam,1984-10-09 16:33:08.338068,Dong Nai,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Closed,D
+D_000347,Tran Thi Binh,Nữ,1981-10-10 16:33:08.338068,Nghe An,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,USD,Luong,Active,D
+D_000348,Nguyen Van An,Nam,1964-10-14 16:33:08.338068,Dien Bien,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000349,Tran Van Binh,Nam,1979-10-11 16:33:08.338068,Kien Giang,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000350,Dinh Thi Quang,Nữ,1976-10-11 16:33:08.338068,Binh Phuoc,Kết hôn,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Active,D
+D_000351,Tran Thi Binh,Nữ,1965-10-14 16:33:08.338068,Can Tho,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000352,Nguyen Thi An,Nữ,1978-10-11 16:33:08.338068,Lang Son,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000353,Luong Van Uy,Nam,1977-10-11 16:33:08.338068,Yen Bai,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000354,Dang Thi Giang,Nữ,1982-10-10 16:33:08.338068,Ba Ria - Vung Tau,Độc thân,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Active,D
+D_000355,Pham Van Dung,Nam,1962-10-15 16:33:08.338068,Quang Tri,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000356,Vo Van Phuc,Nam,1965-10-14 16:33:08.338068,Da Nang,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Inactive,D
+D_000357,Ho Van Khoa,Nam,1964-10-14 16:33:08.338068,Tuyen Quang,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000358,Dang Thi Giang,Nữ,1973-10-12 16:33:08.338068,Can Tho,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Inactive,D
+D_000359,Phan Van Oanh,Nam,1970-10-13 16:33:08.338068,An Giang,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000360,Tran Duc Thanh,Nam,1977-10-11 16:33:08.338068,Tien Giang,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Tiet kiem,Active,D
+D_000361,Dinh Van Quang,Nam,1976-10-11 16:33:08.338068,Ha Noi,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000362,Le Thi Huong,Nữ,1962-10-15 16:33:08.338068,Dong Nai,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000363,Ho Van Khoa,Nam,1963-10-15 16:33:08.338068,Quang Tri,Kết hôn,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Tiet kiem,Active,D
+D_000364,Luu Thi Son,Nữ,1978-10-11 16:33:08.338068,Kien Giang,Độc thân,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Inactive,D
+D_000365,Pham Thi Dung,Nữ,1967-10-14 16:33:08.338068,Son La,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Tiet kiem,Active,D
+D_000366,Vu Minh Tam,Nam,1978-10-11 16:33:08.338068,Long An,Kết hôn,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Active,D
+D_000367,Le Thi Huong,Nữ,1979-10-11 16:33:08.338068,Ca Mau,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Inactive,D
+D_000368,Hoang Van Duc,Nam,1984-10-09 16:33:08.338068,Phu Tho,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000369,Dang Thi Giang,Nữ,1972-10-12 16:33:08.338068,Lam Dong,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000370,Nguyen Van An,Nam,1981-10-10 16:33:08.338068,Dong Nai,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Inactive,D
+D_000371,Do Thi Yen,Nữ,1980-10-10 16:33:08.338068,Binh Duong,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000372,Nguyen Van An,Nam,1973-10-12 16:33:08.338068,Khanh Hoa,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000373,Le Thi Cuong,Nữ,1966-10-14 16:33:08.338068,Binh Phuoc,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,D
+D_000374,Phan Van Oanh,Nam,1969-10-13 16:33:08.338068,Da Nang,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Closed,D
+D_000375,Tran Thi Binh,Nữ,1966-10-14 16:33:08.338068,An Giang,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000376,Tran Thi Binh,Nữ,1982-10-10 16:33:08.338068,TP. Ho Chi Minh,Độc thân,Việt Nam,Cong chuc,10-20 trieu,USD,Luong,Active,D
+D_000377,Do Van Hung,Nam,1978-10-11 16:33:08.338068,Tay Ninh,Độc thân,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Closed,D
+D_000378,Phan Thi Oanh,Nữ,1964-10-14 16:33:08.338068,Vinh Long,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000379,Do Thi Yen,Nữ,1972-10-12 16:33:08.338068,Lam Dong,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Inactive,D
+D_000380,Dinh Van Quang,Nam,1964-10-14 16:33:08.338068,Quang Ngai,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000381,Nguyen Thi An,Nữ,1961-10-15 16:33:08.338068,TP. Ho Chi Minh,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,D
+D_000382,Pham Van Dung,Nam,1962-10-15 16:33:08.338068,Tien Giang,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Tiet kiem,Closed,D
+D_000383,Nguyen Van An,Nam,1984-10-09 16:33:08.338068,Nghe An,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Inactive,D
+D_000384,Do Minh Khang,Nam,1968-10-13 16:33:08.338068,Nghe An,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000385,Hoang Thi Em,Nữ,1978-10-11 16:33:08.338068,Khanh Hoa,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000386,Le Hoang Nam,Nam,1960-10-15 16:33:08.338068,Tien Giang,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000387,Tran Van Binh,Nam,1975-10-12 16:33:08.338068,Thai Nguyen,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000388,Le Thi Huong,Nữ,1964-10-14 16:33:08.338068,Thanh Hoa,Kết hôn,Nước ngoài,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000389,Ngo Van Long,Nam,1977-10-11 16:33:08.338068,Dong Nai,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000390,Dang Quoc Bao,Nam,1970-10-13 16:33:08.338068,Phu Yen,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Closed,D
+D_000391,Pham Thi Dung,Nữ,1972-10-12 16:33:08.338068,Nghe An,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000392,Hoang Van Em,Nam,1976-10-11 16:33:08.338068,Lam Dong,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000393,Bui Thi Hai,Nữ,1974-10-12 16:33:08.338068,An Giang,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,USD,Luong,Active,D
+D_000394,Dang Thi Thu,Nữ,1983-10-10 16:33:08.339073,Dong Thap,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000395,Dang Van Giang,Nam,1981-10-10 16:33:08.339073,Dong Thap,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000396,Hoang Thi Linh,Nữ,1983-10-10 16:33:08.339073,Khanh Hoa,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000397,Duong Thi Minh,Nữ,1968-10-13 16:33:08.339073,Ninh Binh,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000398,Pham Van Dung,Nam,1962-10-15 16:33:08.339073,Hai Phong,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000399,Dang Thi Giang,Nữ,1962-10-15 16:33:08.339073,Hai Phong,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000400,Le Van Cuong,Nam,1968-10-13 16:33:08.339073,Tien Giang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,USD,Luong,Active,D
+D_000401,Bui Thi Ngoc,Nữ,1972-10-12 16:33:08.339073,Quang Ninh,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000402,Le Thi Huong,Nữ,1960-10-15 16:33:08.339073,Kien Giang,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Tiet kiem,Inactive,D
+D_000403,Vu Minh Tam,Nam,1984-10-09 16:33:08.339073,Dong Nai,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Tiet kiem,Active,D
+D_000404,Hoang Thi Em,Nữ,1975-10-12 16:33:08.339073,TP. Ho Chi Minh,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000405,Bui Van Thang,Nam,1961-10-15 16:33:08.339073,Khanh Hoa,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000406,Ton Thi Rong,Nữ,1969-10-13 16:33:08.339073,Dong Nai,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Closed,D
+D_000407,Nguyen Thi Mai,Nữ,1974-10-12 16:33:08.339073,Quang Nam,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Inactive,D
+D_000408,Hoang Thi Linh,Nữ,1979-10-11 16:33:08.339073,Quang Nam,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000409,Do Van Hung,Nam,1972-10-12 16:33:08.339073,Kon Tum,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000410,Chu Van Tai,Nam,1961-10-15 16:33:08.339073,Tien Giang,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000411,Luu Van Son,Nam,1975-10-12 16:33:08.339073,Ba Ria - Vung Tau,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000412,Do Minh Khang,Nam,1963-10-15 16:33:08.339073,Khanh Hoa,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Tiet kiem,Active,D
+D_000413,Phan Thi Oanh,Nữ,1965-10-14 16:33:08.339073,Vinh Long,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Inactive,D
+D_000414,Phan Thi Oanh,Nữ,1968-10-13 16:33:08.339073,Thanh Hoa,Độc thân,Việt Nam,Cong chuc,10-20 trieu,USD,Luong,Inactive,D
+D_000415,Nguyen Minh Tuan,Nam,1971-10-13 16:33:08.339073,Hai Phong,Độc thân,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Active,D
+D_000416,Vo Van Phuc,Nam,1963-10-15 16:33:08.339073,Tien Giang,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Closed,D
+D_000417,Nguyen Thi An,Nữ,1985-10-09 16:33:08.339073,Thanh Hoa,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000418,Nguyen Thi Mai,Nữ,1967-10-14 16:33:08.339073,Quang Ngai,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000419,Dang Thi Thu,Nữ,1961-10-15 16:33:08.339073,Can Tho,Kết hôn,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Tiet kiem,Inactive,D
+D_000420,Ly Van Nam,Nam,1962-10-15 16:33:08.339073,Thanh Hoa,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000421,Ly Van Nam,Nam,1976-10-11 16:33:08.339073,TP. Ho Chi Minh,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Tiet kiem,Inactive,D
+D_000422,Tran Duc Thanh,Nam,1981-10-10 16:33:08.339073,Binh Thuan,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,D
+D_000423,Vo Van Phuc,Nam,1966-10-14 16:33:08.339073,Kien Giang,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000424,Hoang Van Em,Nam,1980-10-10 16:33:08.339073,Lam Dong,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000425,Ton Van Rong,Nam,1985-10-09 16:33:08.339073,Thua Thien Hue,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000426,Vu Van Phong,Nam,1982-10-10 16:33:08.339073,Khanh Hoa,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000427,Vo Thi Phuc,Nữ,1970-10-13 16:33:08.339073,Kon Tum,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000428,Luong Van Uy,Nam,1960-10-15 16:33:08.339073,Hau Giang,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000429,Hoang Van Em,Nam,1964-10-14 16:33:08.339073,Kien Giang,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Tiet kiem,Closed,D
+D_000430,Ngo Thi Long,Nữ,1966-10-14 16:33:08.339073,Phu Tho,Độc thân,Nước ngoài,Nhan vien ngan hang,10-20 trieu,VND,Tiet kiem,Active,D
+D_000431,Hoang Van Duc,Nam,1963-10-15 16:33:08.339073,Son La,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000432,Ly Van Nam,Nam,1961-10-15 16:33:08.339073,Thanh Hoa,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000433,Nguyen Minh Tuan,Nam,1964-10-14 16:33:08.339073,Thua Thien Hue,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Inactive,D
+D_000434,Hoang Van Em,Nam,1977-10-11 16:33:08.339073,Ba Ria - Vung Tau,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000435,Dinh Thi Quang,Nữ,1963-10-15 16:33:08.339073,Khanh Hoa,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000436,Luong Thi Uy,Nữ,1976-10-11 16:33:08.339073,Long An,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,D
+D_000437,Ton Van Rong,Nam,1968-10-13 16:33:08.339073,Ha Noi,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Inactive,D
+D_000438,Do Thi Hung,Nữ,1981-10-10 16:33:08.339073,TP. Ho Chi Minh,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000439,Bui Thi Hai,Nữ,1974-10-12 16:33:08.339073,Quang Ninh,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,D
+D_000440,Tran Duc Thanh,Nam,1973-10-12 16:33:08.339073,Lam Dong,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000441,Hoang Van Duc,Nam,1965-10-14 16:33:08.339073,Ba Ria - Vung Tau,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000442,Hoang Thi Linh,Nữ,1984-10-09 16:33:08.339073,Ha Tinh,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000443,Ho Thi Khoa,Nữ,1968-10-13 16:33:08.339073,Can Tho,Kết hôn,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000444,Pham Thi Nga,Nữ,1977-10-11 16:33:08.339073,Da Nang,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000445,Tran Thi Binh,Nữ,1966-10-14 16:33:08.339073,Thanh Hoa,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Closed,D
+D_000446,Nguyen Thi Mai,Nữ,1971-10-13 16:33:08.339073,Kien Giang,Độc thân,Việt Nam,Giao vien,10-20 trieu,USD,Tiet kiem,Active,D
+D_000447,Do Thi Yen,Nữ,1961-10-15 16:33:08.339073,Binh Thuan,Kết hôn,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Active,D
+D_000448,Bui Thi Hai,Nữ,1979-10-11 16:33:08.339073,Can Tho,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000449,Vu Van Phong,Nam,1967-10-14 16:33:08.339073,Lao Cai,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000450,Pham Thi Dung,Nữ,1963-10-15 16:33:08.339073,Quang Ninh,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000451,Ton Van Rong,Nam,1967-10-14 16:33:08.339073,TP. Ho Chi Minh,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000452,Nguyen Thi Mai,Nữ,1982-10-10 16:33:08.339073,Dong Nai,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Tiet kiem,Active,D
+D_000453,Pham Thi Nga,Nữ,1977-10-11 16:33:08.339073,Nam Dinh,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000454,Ngo Van Long,Nam,1972-10-12 16:33:08.339073,Can Tho,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000455,Duong Thi Minh,Nữ,1972-10-12 16:33:08.339073,Phu Yen,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Inactive,D
+D_000456,Vo Thi Phuc,Nữ,1983-10-10 16:33:08.339073,Nghe An,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Tiet kiem,Inactive,D
+D_000457,Luong Thi Uy,Nữ,1973-10-12 16:33:08.339073,Phu Tho,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Tiet kiem,Active,D
+D_000458,Bui Thi Hai,Nữ,1969-10-13 16:33:08.339073,Binh Duong,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000459,Dang Quoc Bao,Nam,1978-10-11 16:33:08.339073,Dong Nai,Kết hôn,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Active,D
+D_000460,Tran Thi Lan,Nữ,1979-10-11 16:33:08.339073,Da Nang,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Inactive,D
+D_000461,Ho Thi Khoa,Nữ,1983-10-10 16:33:08.339073,Thanh Hoa,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000462,Ly Van Nam,Nam,1978-10-11 16:33:08.339073,Thai Binh,Kết hôn,Việt Nam,Nhan vien ngan hang,20-50 trieu,VND,Luong,Active,D
+D_000463,Tran Duc Thanh,Nam,1966-10-14 16:33:08.339073,Hai Phong,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Tiet kiem,Active,D
+D_000464,Le Thi Cuong,Nữ,1962-10-15 16:33:08.339073,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Giao vien,10-20 trieu,USD,Tiet kiem,Active,D
+D_000465,Nguyen Thi An,Nữ,1985-10-09 16:33:08.339073,Nghe An,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Inactive,D
+D_000466,Dang Quoc Bao,Nam,1965-10-14 16:33:08.339073,Da Nang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000467,Chu Van Tai,Nam,1967-10-14 16:33:08.339073,Khanh Hoa,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000468,Do Minh Khang,Nam,1970-10-13 16:33:08.339073,TP. Ho Chi Minh,Độc thân,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Inactive,D
+D_000469,Ly Thi Nam,Nữ,1969-10-13 16:33:08.339073,Thai Binh,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000470,Vu Thi Hoa,Nữ,1984-10-09 16:33:08.339073,Quang Ninh,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000471,Ho Van Khoa,Nam,1976-10-11 16:33:08.339073,Can Tho,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,D
+D_000472,Pham Quang Huy,Nam,1967-10-14 16:33:08.339073,Ben Tre,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000473,Ho Thi Trang,Nữ,1978-10-11 16:33:08.339073,Binh Thuan,Độc thân,Việt Nam,Giao vien,10-20 trieu,USD,Luong,Active,D
+D_000474,Dinh Thi Quang,Nữ,1960-10-15 16:33:08.339073,Long An,Độc thân,Việt Nam,Cong chuc,20-50 trieu,VND,Tiet kiem,Active,D
+D_000475,Ton Van Rong,Nam,1985-10-09 16:33:08.339073,Nam Dinh,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Inactive,D
+D_000476,Bui Van Thang,Nam,1976-10-11 16:33:08.339073,Ha Noi,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000477,Pham Thi Dung,Nữ,1973-10-12 16:33:08.339073,Thanh Hoa,Độc thân,Việt Nam,Cong chuc,10-20 trieu,USD,Tiet kiem,Active,D
+D_000478,Ngo Van Long,Nam,1965-10-14 16:33:08.339073,Tien Giang,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Inactive,D
+D_000479,Vo Van Phuc,Nam,1974-10-12 16:33:08.339073,Da Nang,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+D_000480,Nguyen Van An,Nam,1967-10-14 16:33:08.339073,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Active,D
+D_000481,Ton Thi Rong,Nữ,1961-10-15 16:33:08.339073,Dong Nai,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Inactive,D
+D_000482,Dang Quoc Bao,Nam,1980-10-10 16:33:08.340068,Lai Chau,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Tiet kiem,Active,D
+D_000483,Le Hoang Nam,Nam,1969-10-13 16:33:08.340068,Can Tho,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Closed,D
+D_000484,Pham Quang Huy,Nam,1970-10-13 16:33:08.340068,Da Nang,Kết hôn,Việt Nam,Giao vien,10-20 trieu,VND,Luong,Active,D
+D_000485,Ho Thi Khoa,Nữ,1961-10-15 16:33:08.340068,Nghe An,Độc thân,Việt Nam,Nhan vien ngan hang,20-50 trieu,USD,Luong,Active,D
+D_000486,Dang Thi Giang,Nữ,1982-10-10 16:33:08.340068,Binh Phuoc,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000487,Dinh Thi Quang,Nữ,1967-10-14 16:33:08.340068,Lam Dong,Độc thân,Việt Nam,Giao vien,20-50 trieu,VND,Tiet kiem,Active,D
+D_000488,Ly Thi Nam,Nữ,1965-10-14 16:33:08.340068,Ha Noi,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,D
+D_000489,Pham Thi Dung,Nữ,1980-10-10 16:33:08.340068,Ha Noi,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000490,Ngo Van Long,Nam,1962-10-15 16:33:08.340068,Can Tho,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000491,Vo Van Phuc,Nam,1984-10-09 16:33:08.340068,Hai Phong,Độc thân,Việt Nam,Cong chuc,10-20 trieu,USD,Luong,Inactive,D
+D_000492,Hoang Thi Em,Nữ,1972-10-12 16:33:08.340068,Vinh Phuc,Kết hôn,Việt Nam,Giao vien,20-50 trieu,VND,Luong,Inactive,D
+D_000493,Bui Van Thang,Nam,1967-10-14 16:33:08.340068,Long An,Kết hôn,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Tiet kiem,Active,D
+D_000494,Dinh Van Quang,Nam,1979-10-11 16:33:08.340068,An Giang,Độc thân,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Tiet kiem,Active,D
+D_000495,Le Thi Cuong,Nữ,1967-10-14 16:33:08.340068,Lam Dong,Kết hôn,Việt Nam,Cong chuc,10-20 trieu,USD,Luong,Active,D
+D_000496,Luu Thi Son,Nữ,1961-10-15 16:33:08.340068,Can Tho,Độc thân,Việt Nam,Cong chuc,10-20 trieu,VND,Luong,Active,D
+D_000497,Luu Thi Son,Nữ,1981-10-10 16:33:08.340068,Hai Phong,Kết hôn,Việt Nam,Nhan vien ngan hang,10-20 trieu,VND,Luong,Active,D
+D_000498,Vu Thi Hoa,Nữ,1980-10-10 16:33:08.340068,Hai Phong,Độc thân,Việt Nam,Nhan vien van phong,20-50 trieu,VND,Luong,Active,D
+D_000499,Duong Van Minh,Nam,1969-10-13 16:33:08.340068,Binh Duong,Độc thân,Việt Nam,Giao vien,10-20 trieu,VND,Tiet kiem,Active,D
+D_000500,Pham Quang Huy,Nam,1961-10-15 16:33:08.340068,Binh Thuan,Kết hôn,Việt Nam,Cong chuc,20-50 trieu,VND,Luong,Active,D
+E_000501,Hoang Thi Linh,Nữ,1951-10-18 16:33:08.340068,Quang Binh,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000502,Hoang Van Em,Nam,1996-10-06 16:33:08.340068,Ha Noi,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Closed,E
+E_000503,Tran Thi Binh,Nữ,2003-10-05 16:33:08.340068,Binh Dinh,Độc thân,Nước ngoài,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000504,Nguyen Van An,Nam,2001-10-05 16:33:08.340068,Thua Thien Hue,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000505,Do Thi Yen,Nữ,1999-10-06 16:33:08.340068,TP. Ho Chi Minh,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000506,Ngo Van Long,Nam,2002-10-05 16:33:08.340068,Binh Dinh,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000507,Le Thi Huong,Nữ,1995-10-07 16:33:08.340068,Quang Ninh,Kết hôn,Nước ngoài,Noi tro,<10 trieu,USD,Luong,Active,E
+E_000508,Luong Van Uy,Nam,1949-10-18 16:33:08.340068,Da Nang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000509,Le Thi Huong,Nữ,2007-10-04 16:33:08.340068,Tien Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000510,Dinh Thi Quang,Nữ,1996-10-06 16:33:08.340068,TP. Ho Chi Minh,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Inactive,E
+E_000511,Le Thi Cuong,Nữ,1999-10-06 16:33:08.340068,Hoa Binh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000512,Tran Thi Binh,Nữ,1947-10-19 16:33:08.340068,Lao Cai,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000513,Ho Van Khoa,Nam,2000-10-05 16:33:08.340068,Thai Nguyen,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000514,Phan Van Oanh,Nam,1998-10-06 16:33:08.340068,Nghe An,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000515,Dang Quoc Bao,Nam,1959-10-16 16:33:08.340068,Quang Binh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000516,Dinh Thi Quang,Nữ,2007-10-04 16:33:08.340068,An Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000517,Nguyen Thi Mai,Nữ,2001-10-05 16:33:08.340068,Dong Nai,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000518,Nguyen Minh Tuan,Nam,2007-10-04 16:33:08.340068,Tra Vinh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000519,Le Van Cuong,Nam,1968-10-13 16:33:08.340068,Dong Nai,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000520,Do Thi Hung,Nữ,1965-10-14 16:33:08.340068,Dak Lak,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000521,Phan Thi Oanh,Nữ,2004-10-04 16:33:08.340068,Can Tho,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000522,Duong Van Minh,Nam,1998-10-06 16:33:08.340068,An Giang,Độc thân,Nước ngoài,Cong nhan / lao dong pho thong,10-20 trieu,VND,Khac,Active,E
+E_000523,Phan Thi Oanh,Nữ,1995-10-07 16:33:08.340068,Binh Phuoc,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000524,Tran Van Binh,Nam,1953-10-17 16:33:08.340068,Hai Phong,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000525,Ho Thi Khoa,Nữ,2005-10-04 16:33:08.340068,Ca Mau,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000526,Vu Minh Tam,Nam,1961-10-15 16:33:08.340068,Quang Nam,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000527,Ton Van Rong,Nam,1995-10-07 16:33:08.340068,Nghe An,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000528,Pham Van Dung,Nam,1999-10-06 16:33:08.340068,Long An,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Closed,E
+E_000529,Vu Thi Hoa,Nữ,2006-10-04 16:33:08.340068,Ha Noi,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Inactive,E
+E_000530,Dang Thi Thu,Nữ,2002-10-05 16:33:08.340068,Phu Tho,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000531,Ngo Thi Long,Nữ,2003-10-05 16:33:08.340068,Dien Bien,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000532,Nguyen Minh Tuan,Nam,1953-10-17 16:33:08.340068,An Giang,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000533,Nguyen Minh Tuan,Nam,1997-10-06 16:33:08.340068,Phu Tho,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000534,Le Thi Cuong,Nữ,2003-10-05 16:33:08.340068,Bac Giang,Kết hôn,Việt Nam,Noi tro,10-20 trieu,USD,Ho tro gia dinh,Active,E
+E_000535,Vu Thi Phong,Nữ,2002-10-05 16:33:08.340068,Long An,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000536,Ly Thi Nam,Nữ,2000-10-05 16:33:08.340068,Khanh Hoa,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000537,Le Thi Huong,Nữ,1952-10-17 16:33:08.340068,Son La,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000538,Do Thi Yen,Nữ,1952-10-17 16:33:08.340068,Ben Tre,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000539,Tran Van Binh,Nam,1953-10-17 16:33:08.340068,An Giang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,E
+E_000540,Chu Van Tai,Nam,1953-10-17 16:33:08.340068,Ha Noi,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000541,Tran Duc Thanh,Nam,2005-10-04 16:33:08.340068,TP. Ho Chi Minh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Inactive,E
+E_000542,Pham Quang Huy,Nam,1946-10-19 16:33:08.340068,Thai Nguyen,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000543,Ngo Van Long,Nam,1965-10-14 16:33:08.340068,An Giang,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000544,Le Thi Cuong,Nữ,2002-10-05 16:33:08.340068,Nghe An,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000545,Do Thi Hung,Nữ,2004-10-04 16:33:08.340068,Long An,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000546,Nguyen Van An,Nam,1966-10-14 16:33:08.340068,Ha Noi,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000547,Le Thi Huong,Nữ,1962-10-15 16:33:08.340068,Thanh Hoa,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000548,Vu Thi Hoa,Nữ,1957-10-16 16:33:08.340068,TP. Ho Chi Minh,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000549,Ngo Thi Long,Nữ,1996-10-06 16:33:08.340068,Quang Tri,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Inactive,E
+E_000550,Tran Van Binh,Nam,1957-10-16 16:33:08.340068,Thua Thien Hue,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Khac,Active,E
+E_000551,Dang Thi Giang,Nữ,1956-10-16 16:33:08.340068,Tay Ninh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000552,Luu Thi Son,Nữ,2003-10-05 16:33:08.340068,An Giang,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000553,Nguyen Minh Tuan,Nam,1995-10-07 16:33:08.340068,Can Tho,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Inactive,E
+E_000554,Pham Van Dung,Nam,1966-10-14 16:33:08.340068,TP. Ho Chi Minh,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000555,Ho Thi Trang,Nữ,2000-10-05 16:33:08.340068,TP. Ho Chi Minh,Độc thân,Việt Nam,Sinh vien,10-20 trieu,USD,Ho tro gia dinh,Active,E
+E_000556,Nguyen Van An,Nam,2006-10-04 16:33:08.340068,Nghe An,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000557,Pham Quang Huy,Nam,1995-10-07 16:33:08.340068,Hung Yen,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000558,Hoang Van Em,Nam,1996-10-06 16:33:08.340068,Ninh Binh,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000559,Dang Thi Giang,Nữ,2001-10-05 16:33:08.340068,Ha Noi,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000560,Vu Minh Tam,Nam,2007-10-04 16:33:08.340068,Binh Thuan,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000561,Dang Van Giang,Nam,1954-10-17 16:33:08.340068,Ha Giang,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000562,Pham Thi Dung,Nữ,2003-10-05 16:33:08.340068,Hai Phong,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Closed,E
+E_000563,Ho Van Tai,Nam,2006-10-04 16:33:08.340068,Kien Giang,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000564,Le Van Cuong,Nam,2003-10-05 16:33:08.340068,Quang Tri,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000565,Chu Van Tai,Nam,2002-10-05 16:33:08.340068,Yen Bai,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Khac,Active,E
+E_000566,Le Van Cuong,Nam,1995-10-07 16:33:08.340068,Tra Vinh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000567,Dinh Thi Quang,Nữ,1950-10-18 16:33:08.341067,Kon Tum,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Inactive,E
+E_000568,Le Thi Huong,Nữ,1953-10-17 16:33:08.341067,Ha Giang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000569,Ho Thi Khoa,Nữ,2000-10-05 16:33:08.341067,TP. Ho Chi Minh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000570,Le Thi Cuong,Nữ,1946-10-19 16:33:08.341067,Phu Yen,Độc thân,Nước ngoài,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000571,Duong Van Minh,Nam,2004-10-04 16:33:08.341067,Ha Tinh,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Closed,E
+E_000572,Ly Van Nam,Nam,1963-10-15 16:33:08.341067,Dak Nong,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000573,Pham Van Dung,Nam,2005-10-04 16:33:08.341067,Long An,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000574,Dinh Thi Quang,Nữ,2004-10-04 16:33:08.341067,Can Tho,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000575,Luu Van Son,Nam,2004-10-04 16:33:08.341067,Dak Lak,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000576,Dinh Van Quang,Nam,1998-10-06 16:33:08.341067,Long An,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,USD,Luong,Active,E
+E_000577,Chu Thi Tai,Nữ,1948-10-18 16:33:08.341067,Hau Giang,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000578,Nguyen Minh Tuan,Nam,1959-10-16 16:33:08.341067,TP. Ho Chi Minh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000579,Ly Thi Nam,Nữ,2004-10-04 16:33:08.341067,Hai Phong,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Khac,Active,E
+E_000580,Ly Van Nam,Nam,1997-10-06 16:33:08.341067,Tien Giang,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000581,Vo Thi Phuc,Nữ,1962-10-15 16:33:08.341067,Binh Duong,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Khac,Active,E
+E_000582,Do Thi Yen,Nữ,1995-10-07 16:33:08.341067,Da Nang,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000583,Tran Duc Thanh,Nam,1999-10-06 16:33:08.341067,Hoa Binh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000584,Pham Thi Nga,Nữ,1995-10-07 16:33:08.341067,Dong Nai,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Khac,Inactive,E
+E_000585,Chu Van Tai,Nam,2007-10-04 16:33:08.341067,Bac Ninh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000586,Pham Quang Huy,Nam,1950-10-18 16:33:08.341067,Vinh Phuc,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000587,Ho Thi Khoa,Nữ,1963-10-15 16:33:08.341067,Son La,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000588,Chu Van Tai,Nam,2007-10-04 16:33:08.341067,Ha Nam,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000589,Vu Van Phong,Nam,1951-10-18 16:33:08.341067,Dong Nai,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000590,Dang Thi Giang,Nữ,2007-10-04 16:33:08.341067,Long An,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Inactive,E
+E_000591,Le Hoang Nam,Nam,1998-10-06 16:33:08.341067,Soc Trang,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000592,Hoang Thi Em,Nữ,1995-10-07 16:33:08.341067,Ca Mau,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000593,Le Thi Huong,Nữ,1957-10-16 16:33:08.341067,Ben Tre,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000594,Bui Thi Ngoc,Nữ,2001-10-05 16:33:08.341067,Hung Yen,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000595,Pham Quang Huy,Nam,1997-10-06 16:33:08.341067,Binh Thuan,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000596,Le Van Cuong,Nam,2000-10-05 16:33:08.341067,Long An,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000597,Do Thi Hung,Nữ,2005-10-04 16:33:08.341067,Can Tho,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000598,Pham Quang Huy,Nam,1955-10-17 16:33:08.341067,Gia Lai,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Khac,Inactive,E
+E_000599,Hoang Thi Linh,Nữ,1956-10-16 16:33:08.341067,Da Nang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000600,Le Thi Huong,Nữ,2005-10-04 16:33:08.341067,Thanh Hoa,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000601,Luong Thi Uy,Nữ,1952-10-17 16:33:08.341067,Dong Nai,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Inactive,E
+E_000602,Luu Thi Son,Nữ,2002-10-05 16:33:08.341067,Khanh Hoa,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000603,Ton Thi Rong,Nữ,2001-10-05 16:33:08.341067,Quang Ngai,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000604,Vu Thi Hoa,Nữ,1997-10-06 16:33:08.341067,Phu Tho,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000605,Vo Thi Phuc,Nữ,1956-10-16 16:33:08.341067,Nghe An,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000606,Bui Thi Ngoc,Nữ,2002-10-05 16:33:08.341067,Khanh Hoa,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000607,Pham Thi Dung,Nữ,1958-10-16 16:33:08.341067,Can Tho,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Inactive,E
+E_000608,Luong Thi Uy,Nữ,1956-10-16 16:33:08.341067,Lang Son,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000609,Vu Thi Hoa,Nữ,2002-10-05 16:33:08.341067,An Giang,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000610,Dang Thi Giang,Nữ,1965-10-14 16:33:08.341067,Nam Dinh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Inactive,E
+E_000611,Nguyen Thi Mai,Nữ,1997-10-06 16:33:08.341067,Ha Noi,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000612,Chu Thi Tai,Nữ,2004-10-04 16:33:08.341067,Gia Lai,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,USD,Khac,Active,E
+E_000613,Ton Thi Rong,Nữ,2006-10-04 16:33:08.341067,Dien Bien,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000614,Dang Van Giang,Nam,1945-10-19 16:33:08.341067,Tuyen Quang,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000615,Vo Thi Phuc,Nữ,1970-10-13 16:33:08.341067,Thai Binh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000616,Do Minh Khang,Nam,2001-10-05 16:33:08.341067,Yen Bai,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000617,Dang Quoc Bao,Nam,2005-10-04 16:33:08.341067,Ha Noi,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000618,Luu Thi Son,Nữ,2001-10-05 16:33:08.341067,Ninh Thuan,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000619,Ho Thi Khoa,Nữ,1968-10-13 16:33:08.341067,Ha Noi,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000620,Dinh Van Quang,Nam,1995-10-07 16:33:08.341067,Cao Bang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000621,Nguyen Minh Tuan,Nam,1960-10-15 16:33:08.341067,Kon Tum,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000622,Le Thi Huong,Nữ,2001-10-05 16:33:08.341067,Ha Tinh,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Khac,Active,E
+E_000623,Phan Thi Oanh,Nữ,1999-10-06 16:33:08.341067,Phu Yen,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000624,Duong Van Minh,Nam,1962-10-15 16:33:08.341067,Binh Thuan,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000625,Ho Van Tai,Nam,2000-10-05 16:33:08.341067,Thanh Hoa,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000626,Le Thi Huong,Nữ,2000-10-05 16:33:08.341067,Soc Trang,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000627,Nguyen Thi An,Nữ,2005-10-04 16:33:08.341067,Tuyen Quang,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000628,Pham Thi Dung,Nữ,2007-10-04 16:33:08.341067,Ha Noi,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Closed,E
+E_000629,Hoang Thi Em,Nữ,1961-10-15 16:33:08.341067,Lam Dong,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Inactive,E
+E_000630,Ho Thi Khoa,Nữ,2003-10-05 16:33:08.341067,Da Nang,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000631,Vu Thi Phong,Nữ,1998-10-06 16:33:08.341067,Ha Tinh,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000632,Do Minh Khang,Nam,2006-10-04 16:33:08.341067,Bac Kan,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000633,Duong Van Minh,Nam,1969-10-13 16:33:08.341067,Kien Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000634,Luong Van Uy,Nam,2002-10-05 16:33:08.341067,Quang Ngai,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Closed,E
+E_000635,Nguyen Thi Mai,Nữ,1969-10-13 16:33:08.341067,Vinh Phuc,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000636,Ho Thi Khoa,Nữ,2001-10-05 16:33:08.341067,Bac Kan,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Inactive,E
+E_000637,Le Hoang Nam,Nam,1999-10-06 16:33:08.341067,TP. Ho Chi Minh,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000638,Bui Van Thang,Nam,1952-10-17 16:33:08.341067,Da Nang,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Closed,E
+E_000639,Pham Van Dung,Nam,2001-10-05 16:33:08.341067,Hai Duong,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000640,Nguyen Minh Tuan,Nam,1960-10-15 16:33:08.341067,Binh Phuoc,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000641,Ho Van Khoa,Nam,1970-10-13 16:33:08.341067,Phu Tho,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000642,Pham Thi Nga,Nữ,2007-10-04 16:33:08.341067,Thanh Hoa,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Khac,Inactive,E
+E_000643,Phan Thi Oanh,Nữ,1968-10-13 16:33:08.341067,Quang Ninh,Kết hôn,Việt Nam,Sinh vien,<10 trieu,USD,Luong,Closed,E
+E_000644,Nguyen Thi Mai,Nữ,2006-10-04 16:33:08.341067,Quang Ninh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000645,Chu Van Tai,Nam,1999-10-06 16:33:08.341067,Hai Phong,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Khac,Active,E
+E_000646,Luu Thi Son,Nữ,2002-10-05 16:33:08.341067,Ha Noi,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000647,Vo Thi Phuc,Nữ,2005-10-04 16:33:08.341067,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000648,Dang Thi Giang,Nữ,1966-10-14 16:33:08.341067,Yen Bai,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000649,Luong Van Uy,Nam,2005-10-04 16:33:08.341067,Binh Duong,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000650,Bui Van Hai,Nam,1997-10-06 16:33:08.341067,Can Tho,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Closed,E
+E_000651,Do Minh Khang,Nam,1996-10-06 16:33:08.341067,Quang Ninh,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000652,Do Thi Hung,Nữ,2001-10-05 16:33:08.341067,Ha Giang,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000653,Bui Thi Ngoc,Nữ,2005-10-04 16:33:08.341067,Hai Phong,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000654,Luu Thi Son,Nữ,2003-10-05 16:33:08.342068,Long An,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000655,Pham Van Dung,Nam,1961-10-15 16:33:08.342068,An Giang,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Closed,E
+E_000656,Ly Thi Nam,Nữ,2004-10-04 16:33:08.342068,Thua Thien Hue,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000657,Dinh Thi Quang,Nữ,1948-10-18 16:33:08.342068,Bac Giang,Độc thân,Nước ngoài,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Inactive,E
+E_000658,Nguyen Thi An,Nữ,1949-10-18 16:33:08.342068,Nghe An,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Khac,Active,E
+E_000659,Ton Thi Rong,Nữ,2005-10-04 16:33:08.342068,Binh Phuoc,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000660,Dinh Thi Quang,Nữ,1958-10-16 16:33:08.342068,Hoa Binh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000661,Phan Thi Oanh,Nữ,1965-10-14 16:33:08.342068,Lao Cai,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000662,Dang Thi Giang,Nữ,2007-10-04 16:33:08.342068,Tay Ninh,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000663,Ho Thi Khoa,Nữ,2000-10-05 16:33:08.342068,Quang Ninh,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000664,Vo Van Phuc,Nam,1968-10-13 16:33:08.342068,Thua Thien Hue,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000665,Vu Thi Phong,Nữ,1999-10-06 16:33:08.342068,Ha Noi,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000666,Le Thi Cuong,Nữ,1950-10-18 16:33:08.342068,Son La,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000667,Dinh Thi Quang,Nữ,1968-10-13 16:33:08.342068,Dong Thap,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000668,Ho Van Khoa,Nam,2002-10-05 16:33:08.342068,Dong Nai,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000669,Duong Thi Minh,Nữ,1958-10-16 16:33:08.342068,Nghe An,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Closed,E
+E_000670,Ton Van Rong,Nam,2007-10-04 16:33:08.342068,Thua Thien Hue,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000671,Ho Van Khoa,Nam,2002-10-05 16:33:08.342068,Thua Thien Hue,Kết hôn,Việt Nam,Sinh vien,<10 trieu,USD,Khac,Active,E
+E_000672,Hoang Thi Linh,Nữ,1947-10-19 16:33:08.342068,Thua Thien Hue,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000673,Vu Van Phong,Nam,2006-10-04 16:33:08.342068,Binh Thuan,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000674,Phan Thi Oanh,Nữ,2004-10-04 16:33:08.342068,Ba Ria - Vung Tau,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000675,Phan Thi Oanh,Nữ,2001-10-05 16:33:08.342068,Hau Giang,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000676,Chu Thi Tai,Nữ,2004-10-04 16:33:08.342068,Hai Phong,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000677,Ngo Van Long,Nam,1998-10-06 16:33:08.342068,Phu Tho,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Closed,E
+E_000678,Dang Thi Thu,Nữ,1997-10-06 16:33:08.342068,Da Nang,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000679,Bui Thi Ngoc,Nữ,1970-10-13 16:33:08.342068,Hai Phong,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Inactive,E
+E_000680,Vu Thi Phong,Nữ,1999-10-06 16:33:08.342068,Gia Lai,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000681,Ton Thi Rong,Nữ,1998-10-06 16:33:08.342068,Binh Thuan,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Closed,E
+E_000682,Ho Thi Trang,Nữ,2006-10-04 16:33:08.342068,Long An,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000683,Luong Van Uy,Nam,1947-10-19 16:33:08.342068,An Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Closed,E
+E_000684,Ho Thi Khoa,Nữ,2006-10-04 16:33:08.342068,Kien Giang,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000685,Do Van Hung,Nam,2005-10-04 16:33:08.342068,Dien Bien,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,E
+E_000686,Dang Van Giang,Nam,1997-10-06 16:33:08.342068,Can Tho,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000687,Nguyen Van An,Nam,1999-10-06 16:33:08.342068,Lao Cai,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Inactive,E
+E_000688,Duong Van Minh,Nam,1947-10-19 16:33:08.342068,Quang Ninh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000689,Phan Thi Oanh,Nữ,1947-10-19 16:33:08.342068,Ha Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Inactive,E
+E_000690,Do Thi Hung,Nữ,2007-10-04 16:33:08.342068,Bac Kan,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Khac,Active,E
+E_000691,Nguyen Thi Mai,Nữ,1950-10-18 16:33:08.342068,Lam Dong,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000692,Le Thi Cuong,Nữ,1964-10-14 16:33:08.342068,Bac Ninh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000693,Ho Van Tai,Nam,1960-10-15 16:33:08.342068,Khanh Hoa,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000694,Tran Thi Lan,Nữ,2000-10-05 16:33:08.342068,Da Nang,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000695,Nguyen Minh Tuan,Nam,1952-10-17 16:33:08.342068,Quang Binh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000696,Bui Van Hai,Nam,2003-10-05 16:33:08.342068,Son La,Độc thân,Việt Nam,Sinh vien,10-20 trieu,USD,Luong,Inactive,E
+E_000697,Vu Minh Tam,Nam,1957-10-16 16:33:08.342068,Phu Tho,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000698,Pham Van Dung,Nam,2001-10-05 16:33:08.342068,Kon Tum,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Khac,Active,E
+E_000699,Dang Quoc Bao,Nam,2003-10-05 16:33:08.342068,Ha Nam,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000700,Tran Duc Thanh,Nam,2007-10-04 16:33:08.342068,Kien Giang,Kết hôn,Nước ngoài,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000701,Bui Van Hai,Nam,1949-10-18 16:33:08.342068,Ha Nam,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000702,Nguyen Minh Tuan,Nam,1961-10-15 16:33:08.342068,Ha Noi,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000703,Ton Thi Rong,Nữ,1946-10-19 16:33:08.342068,Thanh Hoa,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,E
+E_000704,Hoang Van Em,Nam,2002-10-05 16:33:08.342068,Quang Binh,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000705,Ngo Van Long,Nam,1963-10-15 16:33:08.342068,Ha Noi,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,USD,Luong,Active,E
+E_000706,Luong Thi Uy,Nữ,1997-10-06 16:33:08.342068,Ha Noi,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000707,Ly Van Nam,Nam,1961-10-15 16:33:08.342068,Nam Dinh,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000708,Nguyen Thi An,Nữ,1956-10-16 16:33:08.342068,TP. Ho Chi Minh,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000709,Dinh Van Quang,Nam,1970-10-13 16:33:08.342068,Thanh Hoa,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000710,Pham Thi Nga,Nữ,1997-10-06 16:33:08.342068,Bac Giang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000711,Chu Thi Tai,Nữ,1998-10-06 16:33:08.342068,Thanh Hoa,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000712,Ton Thi Rong,Nữ,1967-10-14 16:33:08.342068,TP. Ho Chi Minh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000713,Le Hoang Nam,Nam,2006-10-04 16:33:08.342068,Nam Dinh,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000714,Tran Duc Thanh,Nam,2000-10-05 16:33:08.342068,Tien Giang,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Inactive,E
+E_000715,Luu Thi Son,Nữ,2002-10-05 16:33:08.342068,Dak Nong,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000716,Pham Van Dung,Nam,1946-10-19 16:33:08.342068,Ninh Thuan,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000717,Bui Thi Ngoc,Nữ,2002-10-05 16:33:08.343082,TP. Ho Chi Minh,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000718,Chu Van Tai,Nam,1998-10-06 16:33:08.343082,Ninh Thuan,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000719,Nguyen Minh Tuan,Nam,1998-10-06 16:33:08.343082,Long An,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Inactive,E
+E_000720,Tran Duc Thanh,Nam,1952-10-17 16:33:08.343082,Long An,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000721,Pham Van Dung,Nam,1959-10-16 16:33:08.343082,Quang Nam,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000722,Ngo Thi Long,Nữ,2002-10-05 16:33:08.343082,Hoa Binh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000723,Pham Quang Huy,Nam,2006-10-04 16:33:08.343082,Nghe An,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000724,Nguyen Thi An,Nữ,2003-10-05 16:33:08.343082,Nam Dinh,Kết hôn,Nước ngoài,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000725,Vo Van Phuc,Nam,2000-10-05 16:33:08.343082,Ha Giang,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000726,Bui Thi Ngoc,Nữ,2002-10-05 16:33:08.343082,Lai Chau,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000727,Bui Thi Hai,Nữ,1945-10-19 16:33:08.343082,An Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000728,Do Minh Khang,Nam,1999-10-06 16:33:08.343082,Tien Giang,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000729,Ngo Thi Long,Nữ,2000-10-05 16:33:08.343082,Binh Thuan,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Inactive,E
+E_000730,Vu Thi Phong,Nữ,1995-10-07 16:33:08.343082,Can Tho,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000731,Tran Thi Lan,Nữ,1956-10-16 16:33:08.343082,Tien Giang,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000732,Ho Thi Khoa,Nữ,2000-10-05 16:33:08.343082,An Giang,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000733,Pham Quang Huy,Nam,1997-10-06 16:33:08.343082,Binh Thuan,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000734,Do Van Hung,Nam,1962-10-15 16:33:08.343082,Tien Giang,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000735,Nguyen Van An,Nam,2004-10-04 16:33:08.343082,Hai Phong,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000736,Phan Thi Oanh,Nữ,1998-10-06 16:33:08.343082,Thai Nguyen,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000737,Phan Thi Oanh,Nữ,1966-10-14 16:33:08.343082,Hoa Binh,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000738,Hoang Van Duc,Nam,1956-10-16 16:33:08.343082,TP. Ho Chi Minh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000739,Do Van Hung,Nam,1998-10-06 16:33:08.343082,Yen Bai,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000740,Ho Thi Trang,Nữ,1951-10-18 16:33:08.343082,Ninh Binh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000741,Ho Van Tai,Nam,1997-10-06 16:33:08.343082,Son La,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000742,Dinh Van Quang,Nam,2005-10-04 16:33:08.343082,Hai Phong,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Inactive,E
+E_000743,Le Thi Huong,Nữ,2006-10-04 16:33:08.343082,Khanh Hoa,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000744,Bui Van Thang,Nam,2007-10-04 16:33:08.343082,Khanh Hoa,Kết hôn,Nước ngoài,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000745,Ngo Thi Long,Nữ,1952-10-17 16:33:08.343082,Nam Dinh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000746,Luong Thi Uy,Nữ,1963-10-15 16:33:08.344084,Vinh Long,Kết hôn,Việt Nam,Sinh vien,<10 trieu,USD,Khac,Active,E
+E_000747,Luong Thi Uy,Nữ,2004-10-04 16:33:08.344084,Quang Tri,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Inactive,E
+E_000748,Luong Van Uy,Nam,1998-10-06 16:33:08.344084,Ninh Binh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000749,Vu Minh Tam,Nam,1969-10-13 16:33:08.344084,Binh Phuoc,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000750,Dang Thi Thu,Nữ,1965-10-14 16:33:08.344084,Hung Yen,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000751,Ton Thi Rong,Nữ,1999-10-06 16:33:08.344084,Ha Noi,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000752,Luu Thi Son,Nữ,2002-10-05 16:33:08.344084,Ha Nam,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000753,Luong Thi Uy,Nữ,1957-10-16 16:33:08.344084,Tien Giang,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000754,Le Thi Cuong,Nữ,1951-10-18 16:33:08.344084,Ca Mau,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000755,Tran Van Binh,Nam,2003-10-05 16:33:08.344084,Tien Giang,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000756,Dang Van Giang,Nam,2000-10-05 16:33:08.344084,TP. Ho Chi Minh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,USD,Luong,Active,E
+E_000757,Ly Van Nam,Nam,1945-10-19 16:33:08.344084,Kien Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000758,Ho Thi Trang,Nữ,1969-10-13 16:33:08.344084,Long An,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000759,Luong Van Uy,Nam,1996-10-06 16:33:08.344084,Can Tho,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000760,Dinh Thi Quang,Nữ,1997-10-06 16:33:08.344084,Thanh Hoa,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000761,Ly Thi Nam,Nữ,2007-10-04 16:33:08.344084,Bac Lieu,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000762,Vu Thi Hoa,Nữ,1948-10-18 16:33:08.344084,Bac Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000763,Luu Thi Son,Nữ,1955-10-17 16:33:08.344084,Lao Cai,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000764,Vo Thi Phuc,Nữ,1968-10-13 16:33:08.344084,Tuyen Quang,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000765,Le Thi Cuong,Nữ,1965-10-14 16:33:08.344084,Binh Duong,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000766,Nguyen Minh Tuan,Nam,1999-10-06 16:33:08.344084,Khanh Hoa,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Khac,Active,E
+E_000767,Nguyen Van An,Nam,1996-10-06 16:33:08.344084,TP. Ho Chi Minh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Inactive,E
+E_000768,Vo Thi Phuc,Nữ,2004-10-04 16:33:08.344084,Kon Tum,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Inactive,E
+E_000769,Tran Duc Thanh,Nam,1969-10-13 16:33:08.344084,Bac Ninh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000770,Chu Van Tai,Nam,2007-10-04 16:33:08.344084,Nam Dinh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000771,Hoang Van Em,Nam,1955-10-17 16:33:08.344084,Ninh Binh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Closed,E
+E_000772,Le Thi Cuong,Nữ,1962-10-15 16:33:08.344084,Ha Giang,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000773,Dang Thi Giang,Nữ,1946-10-19 16:33:08.344084,Quang Ngai,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000774,Dang Van Giang,Nam,1969-10-13 16:33:08.344084,Tuyen Quang,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000775,Vu Thi Hoa,Nữ,1997-10-06 16:33:08.344084,Kien Giang,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000776,Chu Thi Tai,Nữ,2004-10-04 16:33:08.344084,Bac Kan,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Khac,Active,E
+E_000777,Nguyen Thi Mai,Nữ,1996-10-06 16:33:08.345059,Thua Thien Hue,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000778,Luong Thi Uy,Nữ,2006-10-04 16:33:08.345059,Ha Noi,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000779,Duong Van Minh,Nam,1948-10-18 16:33:08.345059,Can Tho,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000780,Bui Van Hai,Nam,1959-10-16 16:33:08.345059,Kien Giang,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000781,Le Thi Cuong,Nữ,1964-10-14 16:33:08.345059,Ha Noi,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Khac,Active,E
+E_000782,Bui Van Thang,Nam,1995-10-07 16:33:08.345059,An Giang,Kết hôn,Nước ngoài,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Inactive,E
+E_000783,Vo Thi Phuc,Nữ,2003-10-05 16:33:08.345059,Dien Bien,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000784,Luong Van Uy,Nam,1996-10-06 16:33:08.345059,Ninh Binh,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000785,Bui Thi Ngoc,Nữ,1945-10-19 16:33:08.345059,An Giang,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000786,Bui Thi Ngoc,Nữ,1961-10-15 16:33:08.345059,Bac Giang,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000787,Tran Thi Lan,Nữ,2003-10-05 16:33:08.345059,Vinh Phuc,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000788,Vu Minh Tam,Nam,1960-10-15 16:33:08.345059,Binh Duong,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000789,Dang Thi Giang,Nữ,1995-10-07 16:33:08.345059,Gia Lai,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000790,Le Thi Cuong,Nữ,2003-10-05 16:33:08.345059,Tuyen Quang,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000791,Hoang Thi Linh,Nữ,1995-10-07 16:33:08.345059,Ha Tinh,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000792,Vo Van Phuc,Nam,2003-10-05 16:33:08.345059,Khanh Hoa,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000793,Hoang Van Duc,Nam,1954-10-17 16:33:08.345059,Ninh Binh,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000794,Ho Van Tai,Nam,1997-10-06 16:33:08.345059,Yen Bai,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000795,Luu Thi Son,Nữ,1945-10-19 16:33:08.345059,Ha Noi,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000796,Vu Van Phong,Nam,2002-10-05 16:33:08.345059,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Inactive,E
+E_000797,Tran Duc Thanh,Nam,1946-10-19 16:33:08.345059,Quang Ngai,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000798,Nguyen Minh Tuan,Nam,1967-10-14 16:33:08.345059,Dak Nong,Kết hôn,Việt Nam,Noi tro,10-20 trieu,USD,Ho tro gia dinh,Active,E
+E_000799,Vu Minh Tam,Nam,1957-10-16 16:33:08.345059,Quang Ngai,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000800,Hoang Thi Em,Nữ,2005-10-04 16:33:08.345059,Quang Ninh,Kết hôn,Nước ngoài,Nhan vien van phong,<10 trieu,VND,Luong,Closed,E
+E_000801,Tran Thi Lan,Nữ,2001-10-05 16:33:08.345059,Can Tho,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000802,Bui Thi Ngoc,Nữ,1948-10-18 16:33:08.345059,Dong Nai,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000803,Do Thi Yen,Nữ,1956-10-16 16:33:08.345059,Ha Noi,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000804,Hoang Thi Linh,Nữ,2001-10-05 16:33:08.345059,Binh Duong,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000805,Le Thi Huong,Nữ,2001-10-05 16:33:08.345059,Thai Binh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000806,Ly Van Nam,Nam,2007-10-04 16:33:08.345059,Ba Ria - Vung Tau,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000807,Pham Van Dung,Nam,2007-10-04 16:33:08.345059,Da Nang,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000808,Ho Van Tai,Nam,2002-10-05 16:33:08.345059,Dak Lak,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Khac,Active,E
+E_000809,Hoang Thi Em,Nữ,1999-10-06 16:33:08.345059,Ba Ria - Vung Tau,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000810,Tran Duc Thanh,Nam,2002-10-05 16:33:08.345059,Lang Son,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000811,Ho Van Tai,Nam,1964-10-14 16:33:08.345059,Hai Phong,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,USD,Khac,Active,E
+E_000812,Ho Thi Khoa,Nữ,2005-10-04 16:33:08.345059,Da Nang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,USD,Luong,Inactive,E
+E_000813,Dang Thi Giang,Nữ,2004-10-04 16:33:08.345059,Ben Tre,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000814,Hoang Thi Linh,Nữ,1967-10-14 16:33:08.345059,Ninh Binh,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,USD,Luong,Inactive,E
+E_000815,Phan Van Oanh,Nam,1960-10-15 16:33:08.345059,Dong Thap,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000816,Vu Thi Hoa,Nữ,1961-10-15 16:33:08.345059,Dong Nai,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000817,Phan Van Oanh,Nam,1999-10-06 16:33:08.345059,Tra Vinh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000818,Le Thi Cuong,Nữ,1966-10-14 16:33:08.345059,Hai Duong,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000819,Pham Van Dung,Nam,1951-10-18 16:33:08.345059,Soc Trang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000820,Ton Thi Rong,Nữ,2004-10-04 16:33:08.345059,Ben Tre,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000821,Vu Thi Phong,Nữ,1961-10-15 16:33:08.345059,Khanh Hoa,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000822,Ngo Van Long,Nam,2002-10-05 16:33:08.345059,Can Tho,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000823,Dang Thi Thu,Nữ,2002-10-05 16:33:08.345059,Da Nang,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000824,Nguyen Van An,Nam,1957-10-16 16:33:08.345059,Khanh Hoa,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000825,Vu Minh Tam,Nam,2006-10-04 16:33:08.345059,Hoa Binh,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000826,Vu Minh Tam,Nam,1950-10-18 16:33:08.345059,Cao Bang,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Inactive,E
+E_000827,Vo Thi Phuc,Nữ,1956-10-16 16:33:08.345059,Vinh Long,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000828,Duong Thi Minh,Nữ,2001-10-05 16:33:08.345059,Thanh Hoa,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000829,Ton Van Rong,Nam,2004-10-04 16:33:08.345059,Soc Trang,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000830,Dang Thi Thu,Nữ,1953-10-17 16:33:08.345059,Binh Phuoc,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000831,Luu Thi Son,Nữ,1959-10-16 16:33:08.345059,Tien Giang,Độc thân,Nước ngoài,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000832,Nguyen Minh Tuan,Nam,1946-10-19 16:33:08.345059,Ba Ria - Vung Tau,Độc thân,Nước ngoài,Sinh vien,<10 trieu,VND,Luong,Closed,E
+E_000833,Do Minh Khang,Nam,1951-10-18 16:33:08.345059,Can Tho,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000834,Duong Thi Minh,Nữ,2003-10-05 16:33:08.345059,Long An,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000835,Phan Thi Oanh,Nữ,2001-10-05 16:33:08.345059,Quang Ninh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000836,Chu Thi Tai,Nữ,2007-10-04 16:33:08.345059,TP. Ho Chi Minh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000837,Ngo Thi Long,Nữ,1950-10-18 16:33:08.345059,TP. Ho Chi Minh,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000838,Ngo Thi Long,Nữ,1948-10-18 16:33:08.345059,Soc Trang,Độc thân,Việt Nam,Noi tro,<10 trieu,USD,Luong,Active,E
+E_000839,Do Minh Khang,Nam,1997-10-06 16:33:08.345059,Ha Nam,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000840,Ly Van Nam,Nam,1962-10-15 16:33:08.345059,Ninh Binh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000841,Vo Van Phuc,Nam,1995-10-07 16:33:08.345059,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000842,Ly Thi Nam,Nữ,1962-10-15 16:33:08.345059,Lam Dong,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000843,Nguyen Thi Mai,Nữ,2006-10-04 16:33:08.345059,Ba Ria - Vung Tau,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000844,Tran Thi Lan,Nữ,2005-10-04 16:33:08.345059,Lao Cai,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000845,Le Thi Cuong,Nữ,1949-10-18 16:33:08.345059,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000846,Pham Quang Huy,Nam,1998-10-06 16:33:08.346039,Can Tho,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000847,Dinh Thi Quang,Nữ,1945-10-19 16:33:08.346039,Dak Nong,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000848,Hoang Van Duc,Nam,2002-10-05 16:33:08.346039,Soc Trang,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000849,Luong Thi Uy,Nữ,2006-10-04 16:33:08.346039,Binh Duong,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000850,Vu Van Phong,Nam,1995-10-07 16:33:08.346039,Binh Phuoc,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000851,Nguyen Thi An,Nữ,2006-10-04 16:33:08.346039,Yen Bai,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000852,Tran Van Binh,Nam,2003-10-05 16:33:08.346039,Ha Noi,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000853,Chu Van Tai,Nam,1968-10-13 16:33:08.346039,Tien Giang,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000854,Nguyen Thi Mai,Nữ,1964-10-14 16:33:08.346039,Ha Noi,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000855,Tran Van Binh,Nam,1970-10-13 16:33:08.346039,Dong Thap,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000856,Nguyen Thi An,Nữ,1998-10-06 16:33:08.346039,Quang Tri,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000857,Dinh Van Quang,Nam,1947-10-19 16:33:08.346039,Quang Ngai,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000858,Ho Thi Khoa,Nữ,1956-10-16 16:33:08.346039,Vinh Phuc,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000859,Bui Thi Hai,Nữ,2004-10-04 16:33:08.346039,Thanh Hoa,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000860,Phan Van Oanh,Nam,1968-10-13 16:33:08.346039,Nghe An,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000861,Pham Thi Nga,Nữ,1966-10-14 16:33:08.346039,Tuyen Quang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Khac,Active,E
+E_000862,Chu Thi Tai,Nữ,1998-10-06 16:33:08.346039,Binh Duong,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000863,Bui Van Thang,Nam,1997-10-06 16:33:08.346039,TP. Ho Chi Minh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000864,Hoang Van Duc,Nam,2003-10-05 16:33:08.346039,Lao Cai,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000865,Ho Thi Trang,Nữ,1961-10-15 16:33:08.346039,Quang Ninh,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000866,Tran Thi Lan,Nữ,2005-10-04 16:33:08.346039,Gia Lai,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000867,Dang Van Giang,Nam,2004-10-04 16:33:08.346039,TP. Ho Chi Minh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000868,Vo Van Phuc,Nam,1960-10-15 16:33:08.346039,Kien Giang,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000869,Bui Van Hai,Nam,1953-10-17 16:33:08.346039,Dong Nai,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Luong,Active,E
+E_000870,Bui Van Thang,Nam,2006-10-04 16:33:08.346039,Thanh Hoa,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000871,Vu Thi Phong,Nữ,1996-10-06 16:33:08.346039,Thai Nguyen,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000872,Pham Thi Nga,Nữ,2006-10-04 16:33:08.346039,Tuyen Quang,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000873,Ton Thi Rong,Nữ,1965-10-14 16:33:08.346039,Ha Noi,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Khac,Inactive,E
+E_000874,Bui Thi Ngoc,Nữ,2007-10-04 16:33:08.346039,Lam Dong,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000875,Ho Van Khoa,Nam,1954-10-17 16:33:08.346039,Da Nang,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000876,Nguyen Thi An,Nữ,2004-10-04 16:33:08.346039,Thanh Hoa,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000877,Hoang Van Em,Nam,1958-10-16 16:33:08.346039,Thai Binh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000878,Pham Thi Nga,Nữ,2003-10-05 16:33:08.346039,Nghe An,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000879,Nguyen Minh Tuan,Nam,2003-10-05 16:33:08.346039,Binh Dinh,Kết hôn,Việt Nam,Sinh vien,<10 trieu,USD,Ho tro gia dinh,Active,E
+E_000880,Tran Duc Thanh,Nam,1966-10-14 16:33:08.346039,Dong Nai,Độc thân,Nước ngoài,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000881,Bui Van Thang,Nam,1954-10-17 16:33:08.346039,Hai Duong,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000882,Hoang Thi Em,Nữ,2004-10-04 16:33:08.346039,Hoa Binh,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000883,Dang Thi Thu,Nữ,1952-10-17 16:33:08.346039,Dak Lak,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000884,Ly Van Nam,Nam,1947-10-19 16:33:08.346039,Bac Lieu,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000885,Chu Thi Tai,Nữ,1968-10-13 16:33:08.346039,Phu Yen,Kết hôn,Nước ngoài,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000886,Dang Thi Thu,Nữ,1955-10-17 16:33:08.346039,Tien Giang,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,USD,Luong,Inactive,E
+E_000887,Bui Thi Ngoc,Nữ,2000-10-05 16:33:08.346039,Long An,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000888,Pham Van Dung,Nam,2006-10-04 16:33:08.346039,Quang Nam,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Inactive,E
+E_000889,Chu Thi Tai,Nữ,2005-10-04 16:33:08.346039,Thanh Hoa,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000890,Bui Van Hai,Nam,1953-10-17 16:33:08.346039,Lam Dong,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000891,Ho Van Tai,Nam,1999-10-06 16:33:08.346039,Ba Ria - Vung Tau,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000892,Le Van Cuong,Nam,1947-10-19 16:33:08.346039,TP. Ho Chi Minh,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Khac,Active,E
+E_000893,Phan Thi Oanh,Nữ,2001-10-05 16:33:08.346039,Long An,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000894,Pham Van Dung,Nam,2006-10-04 16:33:08.346039,Hai Phong,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000895,Pham Van Dung,Nam,1967-10-14 16:33:08.346039,Lai Chau,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000896,Do Van Hung,Nam,1956-10-16 16:33:08.346039,Hung Yen,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Inactive,E
+E_000897,Hoang Van Duc,Nam,1950-10-18 16:33:08.346039,Da Nang,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000898,Ho Van Tai,Nam,1948-10-18 16:33:08.346039,Nghe An,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000899,Duong Van Minh,Nam,1966-10-14 16:33:08.346039,TP. Ho Chi Minh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000900,Vo Thi Phuc,Nữ,1945-10-19 16:33:08.346039,Vinh Long,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000901,Tran Thi Lan,Nữ,2002-10-05 16:33:08.346039,Thai Nguyen,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000902,Pham Thi Dung,Nữ,1965-10-14 16:33:08.346039,Tien Giang,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000903,Ngo Van Long,Nam,2000-10-05 16:33:08.346039,Thanh Hoa,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000904,Hoang Thi Em,Nữ,1965-10-14 16:33:08.346039,Ninh Binh,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000905,Dang Thi Giang,Nữ,2000-10-05 16:33:08.346039,Ha Nam,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000906,Bui Thi Hai,Nữ,2001-10-05 16:33:08.346039,Thanh Hoa,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000907,Ho Thi Trang,Nữ,1956-10-16 16:33:08.346039,Phu Yen,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000908,Vo Van Phuc,Nam,2007-10-04 16:33:08.346039,Thai Binh,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000909,Dang Quoc Bao,Nam,2002-10-05 16:33:08.347069,Nghe An,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000910,Luu Thi Son,Nữ,1958-10-16 16:33:08.347069,Hai Phong,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000911,Do Minh Khang,Nam,1998-10-06 16:33:08.347069,Can Tho,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000912,Ly Van Nam,Nam,1957-10-16 16:33:08.347069,Thai Binh,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000913,Chu Thi Tai,Nữ,1959-10-16 16:33:08.347069,Dong Nai,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Closed,E
+E_000914,Le Van Cuong,Nam,1945-10-19 16:33:08.347069,Dak Nong,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000915,Luu Van Son,Nam,2001-10-05 16:33:08.347069,Thai Nguyen,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000916,Nguyen Thi An,Nữ,1995-10-07 16:33:08.347069,Hung Yen,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000917,Tran Thi Lan,Nữ,1996-10-06 16:33:08.347069,Lao Cai,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000918,Dang Quoc Bao,Nam,2003-10-05 16:33:08.347069,Yen Bai,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000919,Bui Van Thang,Nam,1964-10-14 16:33:08.347069,Ninh Thuan,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000920,Tran Thi Binh,Nữ,1962-10-15 16:33:08.347069,Hai Phong,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Khac,Active,E
+E_000921,Tran Van Binh,Nam,2003-10-05 16:33:08.347069,Dong Nai,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000922,Hoang Thi Em,Nữ,2004-10-04 16:33:08.347069,Hai Phong,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000923,Le Thi Cuong,Nữ,1995-10-07 16:33:08.347069,Kien Giang,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000924,Le Van Cuong,Nam,2007-10-04 16:33:08.347069,An Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000925,Nguyen Minh Tuan,Nam,1959-10-16 16:33:08.347069,Dong Nai,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000926,Ly Van Nam,Nam,2003-10-05 16:33:08.347069,Ha Nam,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000927,Do Thi Hung,Nữ,1965-10-14 16:33:08.347069,Phu Yen,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000928,Dang Quoc Bao,Nam,1951-10-18 16:33:08.347069,Vinh Phuc,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000929,Luong Van Uy,Nam,1958-10-16 16:33:08.347069,Thua Thien Hue,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000930,Chu Thi Tai,Nữ,1956-10-16 16:33:08.347069,Ba Ria - Vung Tau,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Inactive,E
+E_000931,Phan Thi Oanh,Nữ,2006-10-04 16:33:08.347069,Da Nang,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000932,Le Hoang Nam,Nam,1996-10-06 16:33:08.347069,Tuyen Quang,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000933,Dinh Van Quang,Nam,2002-10-05 16:33:08.347069,Son La,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000934,Nguyen Van An,Nam,1996-10-06 16:33:08.347069,Ha Giang,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000935,Duong Thi Minh,Nữ,1951-10-18 16:33:08.347069,Phu Yen,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000936,Vo Van Phuc,Nam,2002-10-05 16:33:08.347069,Phu Tho,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Inactive,E
+E_000937,Phan Thi Oanh,Nữ,2002-10-05 16:33:08.347069,Can Tho,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000938,Hoang Thi Em,Nữ,1948-10-18 16:33:08.347069,Hai Duong,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000939,Vu Thi Hoa,Nữ,1950-10-18 16:33:08.347069,Quang Tri,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000940,Hoang Thi Em,Nữ,2001-10-05 16:33:08.347069,Dien Bien,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000941,Vo Thi Phuc,Nữ,2001-10-05 16:33:08.347069,Thua Thien Hue,Độc thân,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000942,Luu Thi Son,Nữ,1951-10-18 16:33:08.347069,Thanh Hoa,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000943,Luong Thi Uy,Nữ,1947-10-19 16:33:08.347069,Binh Duong,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000944,Hoang Van Em,Nam,2001-10-05 16:33:08.347069,Tuyen Quang,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Khac,Active,E
+E_000945,Nguyen Van An,Nam,2000-10-05 16:33:08.347069,Ha Noi,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000946,Phan Thi Oanh,Nữ,2007-10-04 16:33:08.347069,Binh Duong,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000947,Tran Duc Thanh,Nam,1969-10-13 16:33:08.347069,Ben Tre,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000948,Nguyen Thi Mai,Nữ,1998-10-06 16:33:08.347069,Thanh Hoa,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000949,Hoang Van Em,Nam,2004-10-04 16:33:08.347069,Ha Noi,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000950,Le Thi Huong,Nữ,2002-10-05 16:33:08.347069,Thua Thien Hue,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000951,Hoang Thi Em,Nữ,1963-10-15 16:33:08.347069,Binh Duong,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Active,E
+E_000952,Chu Thi Tai,Nữ,1954-10-17 16:33:08.347069,Lang Son,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Inactive,E
+E_000953,Ngo Thi Long,Nữ,1945-10-19 16:33:08.347069,An Giang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,USD,Ho tro gia dinh,Active,E
+E_000954,Le Thi Huong,Nữ,1952-10-17 16:33:08.347069,Ninh Thuan,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000955,Pham Quang Huy,Nam,2005-10-04 16:33:08.347069,Ha Noi,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000956,Hoang Van Em,Nam,2006-10-04 16:33:08.347069,Gia Lai,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000957,Ho Thi Khoa,Nữ,2004-10-04 16:33:08.347069,TP. Ho Chi Minh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000958,Le Van Cuong,Nam,1945-10-19 16:33:08.347069,Lao Cai,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000959,Pham Van Dung,Nam,1965-10-14 16:33:08.347069,Ha Tinh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Inactive,E
+E_000960,Ho Thi Trang,Nữ,2003-10-05 16:33:08.347069,Can Tho,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E
+E_000961,Hoang Thi Linh,Nữ,1958-10-16 16:33:08.347069,Thua Thien Hue,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000962,Pham Thi Nga,Nữ,2007-10-04 16:33:08.347069,Ha Noi,Kết hôn,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000963,Dang Van Giang,Nam,1996-10-06 16:33:08.347069,Can Tho,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000964,Ly Thi Nam,Nữ,2007-10-04 16:33:08.347069,Binh Dinh,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Khac,Active,E
+E_000965,Dinh Van Quang,Nam,1958-10-16 16:33:08.347069,Ninh Binh,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000966,Hoang Van Em,Nam,2001-10-05 16:33:08.347069,Khanh Hoa,Kết hôn,Việt Nam,Nhan vien van phong,<10 trieu,VND,Khac,Active,E
+E_000967,Nguyen Van An,Nam,1995-10-07 16:33:08.347069,Bac Ninh,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000968,Ngo Van Long,Nam,1956-10-16 16:33:08.347069,Quang Ngai,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000969,Tran Duc Thanh,Nam,2000-10-05 16:33:08.347069,Phu Tho,Độc thân,Việt Nam,Noi tro,10-20 trieu,VND,Luong,Active,E
+E_000970,Luu Van Son,Nam,2001-10-05 16:33:08.347069,Quang Ninh,Kết hôn,Việt Nam,Sinh vien,<10 trieu,USD,Khac,Active,E
+E_000971,Nguyen Minh Tuan,Nam,2002-10-05 16:33:08.347069,Can Tho,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000972,Phan Thi Oanh,Nữ,1957-10-16 16:33:08.347069,Bac Lieu,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000973,Ho Thi Trang,Nữ,1997-10-06 16:33:08.347069,Kon Tum,Kết hôn,Việt Nam,Sinh vien,<10 trieu,USD,Luong,Active,E
+E_000974,Tran Van Binh,Nam,2001-10-05 16:33:08.347069,Ninh Binh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000975,Do Minh Khang,Nam,1999-10-06 16:33:08.348069,Can Tho,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Inactive,E
+E_000976,Vu Thi Phong,Nữ,2000-10-05 16:33:08.348069,Da Nang,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000977,Duong Van Minh,Nam,2000-10-05 16:33:08.348069,Binh Dinh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Active,E
+E_000978,Duong Van Minh,Nam,1953-10-17 16:33:08.348069,Dong Nai,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Luong,Inactive,E
+E_000979,Ly Thi Nam,Nữ,2004-10-04 16:33:08.348069,Lam Dong,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,VND,Luong,Active,E
+E_000980,Dinh Van Quang,Nam,2000-10-05 16:33:08.348069,Lang Son,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000981,Pham Thi Dung,Nữ,1968-10-13 16:33:08.348069,Binh Thuan,Độc thân,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000982,Tran Duc Thanh,Nam,1999-10-06 16:33:08.348069,Phu Tho,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000983,Hoang Van Em,Nam,2005-10-04 16:33:08.348069,Ninh Binh,Độc thân,Việt Nam,Sinh vien,<10 trieu,VND,Luong,Active,E
+E_000984,Dang Van Giang,Nam,1951-10-18 16:33:08.348069,Hoa Binh,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Closed,E
+E_000985,Pham Quang Huy,Nam,1965-10-14 16:33:08.348069,Ha Giang,Độc thân,Việt Nam,Nhan vien van phong,<10 trieu,VND,Luong,Active,E
+E_000986,Ly Thi Nam,Nữ,1961-10-15 16:33:08.348069,Binh Thuan,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Luong,Active,E
+E_000987,Ho Van Tai,Nam,2002-10-05 16:33:08.348069,Quang Binh,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000988,Dinh Thi Quang,Nữ,1952-10-17 16:33:08.348069,Ninh Binh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Luong,Inactive,E
+E_000989,Do Thi Hung,Nữ,1964-10-14 16:33:08.348069,Ninh Thuan,Độc thân,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000990,Nguyen Minh Tuan,Nam,2002-10-05 16:33:08.348069,Ben Tre,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Inactive,E
+E_000991,Do Thi Yen,Nữ,1947-10-19 16:33:08.348069,Binh Duong,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000992,Dang Quoc Bao,Nam,2000-10-05 16:33:08.348069,Hai Phong,Độc thân,Việt Nam,Sinh vien,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000993,Dinh Thi Quang,Nữ,2004-10-04 16:33:08.348069,Ha Noi,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Ho tro gia dinh,Inactive,E
+E_000994,Bui Van Thang,Nam,1950-10-18 16:33:08.348069,Quang Binh,Kết hôn,Việt Nam,Noi tro,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_000995,Ton Thi Rong,Nữ,1945-10-19 16:33:08.348069,Ninh Binh,Kết hôn,Việt Nam,Sinh vien,10-20 trieu,USD,Ho tro gia dinh,Active,E
+E_000996,Ho Thi Trang,Nữ,1949-10-18 16:33:08.348069,Kon Tum,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Khac,Active,E
+E_000997,Chu Thi Tai,Nữ,2001-10-05 16:33:08.348069,Bac Giang,Kết hôn,Việt Nam,Nhan vien van phong,10-20 trieu,VND,Ho tro gia dinh,Active,E
+E_000998,Hoang Thi Em,Nữ,2004-10-04 16:33:08.348069,Thai Binh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,10-20 trieu,VND,Luong,Closed,E
+E_000999,Chu Van Tai,Nam,1963-10-15 16:33:08.348069,Kien Giang,Kết hôn,Việt Nam,Sinh vien,<10 trieu,VND,Ho tro gia dinh,Active,E
+E_001000,Hoang Van Em,Nam,2002-10-05 16:33:08.348069,Thai Binh,Kết hôn,Việt Nam,Cong nhan / lao dong pho thong,<10 trieu,VND,Khac,Active,E

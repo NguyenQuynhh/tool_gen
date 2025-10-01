@@ -128,12 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Project specific
-# Generated data files
-output/
-*.csv
-*.xlsx
-*.json
 
 # Log files
 *.log
